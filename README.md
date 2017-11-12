@@ -1,4 +1,4 @@
-# Theme repository for fps.swarthmor.edu
+# Theme repository for fps.swarthmore.edu
 
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
