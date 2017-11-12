@@ -1,6 +1,13 @@
 
 /* ----- Global ----- */
 
+@mixin arabic(){
+
+    direction: rtl;
+    // font-family: "noto_sans_arabic_uiregular";
+    font-family: "noto_kufi_arabicregular";
+}
+
 .page__content {
   p, li, dl {
     font-size: $type-size-4;
@@ -8,11 +15,8 @@
 }
 
 .ar {
-
     p, ul, li, h1, h2, h3, h4, h5 {
-        direction: rtl;
-        // font-family: "noto_sans_arabic_uiregular";
-        font-family: "noto_kufi_arabicregular";
+        @include arabic;
     }
 }
 
@@ -57,7 +61,6 @@ nav#site-nav.greedy-nav  {
 
 div.page__footer {
         background-color: rgba($light-gray, .9);
-
 }
 
 /* ----- end Global ----- */
@@ -68,25 +71,41 @@ div.page__footer {
 
     padding: 1rem;
 
-    h1 {
-        margin-top: 4rem;
-        text-align: center;
+    p:first-child {
+        @include arabic;
     }
+
+    hr { 
+
+        border-top-color: rgba($gold,.5);
+        width: 100%;
+    }
+
+    .md-spacer { display: none; }
 
     ul {
         list-style: none;
-        font-weight: 600;
-        border: 1.5px solid lighten($dark-gray,50%);
         border-left: unset;
         border-right: unset;
+        display: inline-block;
+        width: 45%;
+        padding: unset;
+        margin: unset;
     }
 
-    ul li { margin-top: 2rem; }
+    ul li { 
+        height: 9rem;
+    }
 
-    ul li:last-child { margin-bottom: 2rem; }
+    ul:first-of-type {
+        
+        @include arabic;
+        font-weight: 600;
+        float: left;
+    }
 
-    ul li:before {
-        content: '\2663\2003';
+    ul:last-of-type {
+        float: right;
     }
 
     div {
@@ -139,6 +158,13 @@ div.page__footer {
         background-image: url('/assets/images/MarkStrandquistbio.jpg');
         background-position: center;       
     }
+
+    h1 {
+        margin-top: 4rem;
+        text-align: center;
+        clear: both;
+    }
+
 }
 
 /* ----- end Home ----- */
