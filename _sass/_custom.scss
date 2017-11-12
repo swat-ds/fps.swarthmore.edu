@@ -1,0 +1,168 @@
+
+/* ----- Global ----- */
+
+.page__content {
+  p, li, dl {
+    font-size: $type-size-4;
+  }
+}
+
+.ar {
+
+    p, ul, li, h1, h2, h3, h4, h5 {
+        direction: rtl;
+        // font-family: "noto_sans_arabic_uiregular";
+        font-family: "noto_kufi_arabicregular";
+    }
+}
+
+a.link-ar {
+    direction: rtl;
+    // font-family: "noto_sans_arabic_uiregular";
+    font-family: "noto_kufi_arabicregular";
+}
+
+html {
+    background-image: -webkit-linear-gradient(top, rgba($blue,.5) 70%, $gold), url('/assets/images/IslamAly1bio.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div#main {
+    background: rgba($light-gray, .9);
+}
+
+div.page__inner-wrap {
+    padding-top: 2rem;
+
+    header { 
+        padding-left: 1rem;
+    }
+}
+
+nav#site-nav.greedy-nav  {
+
+    background-color: rgba($light-gray, .9);
+    
+    a.site-title img {
+        height: 125px;
+        margin: .25rem .5rem;
+    }
+
+    a {
+        color: $gray-1;
+    }
+
+}
+
+div.page__footer {
+        background-color: rgba($light-gray, .9);
+
+}
+
+/* ----- end Global ----- */
+
+/* ----- end Home ----- */
+
+#home {
+
+    padding: 1rem;
+
+    h1 {
+        margin-top: 4rem;
+        text-align: center;
+    }
+
+    ul {
+        list-style: none;
+        font-weight: 600;
+        border: 1.5px solid lighten($dark-gray,50%);
+        border-left: unset;
+        border-right: unset;
+    }
+
+    ul li { margin-top: 2rem; }
+
+    ul li:last-child { margin-bottom: 2rem; }
+
+    ul li:before {
+        content: '\2663\2003';
+    }
+
+    div {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+        div {
+            margin-top: 1rem;
+        }
+
+        div, div a{
+            width: 300px;
+            height: 300px;
+            background-size: cover;
+
+            text-decoration: none !important;
+            vertical-align: bottom;
+
+            h2 { display: none; }
+        }
+
+        div a:hover h2,
+        div a:focus h2 {
+            color: $dark-gray;
+            height: 75%;
+            margin-bottom: 12.5%;
+            display: block;
+            padding: 100px .5rem 1rem .5rem;
+            text-align: center;
+            background: rgba($light-gray, .5);
+        }
+    }
+
+    div div:nth-child(1){
+        background-image: url('/assets/images/IslamAly2bio.jpg');
+        background-position: center;         
+    }
+    div div:nth-child(2){
+        background-image: url('/assets/images/MaureenCumminsbio1.jpg');        
+    }
+    div div:nth-child(3){
+        background-image: url('/assets/images/ErikRuinbio1.jpeg');        
+    }
+    div div:nth-child(4){
+        background-image: url('/assets/images/CourtneyBowlesbio.jpg');        
+    }
+    div div:nth-child(5){
+        background-image: url('/assets/images/MarkStrandquistbio.jpg');
+        background-position: center;       
+    }
+}
+
+/* ----- end Home ----- */
+
+/* ----- Credits ----- */
+
+#credits {
+
+    padding: 1rem;
+    
+    p {
+        padding-top: 2rem;
+        margin-bottom: .25rem;
+    }
+
+    h3 {
+        margin-top: 0;
+    }
+
+}
+
+img.pew-logo {
+    width: 150px;
+    padding: 2rem 1rem 3rem 1rem;
+}
+
+/* ----- end Credits ----- */
