@@ -1,5 +1,4 @@
-
-/* ----- Global ----- */
+/* ----- Mixins ----- */
 
 @mixin arabic(){
 
@@ -7,6 +6,24 @@
     // font-family: "noto_sans_arabic_uiregular";
     font-family: "noto_kufi_arabicregular";
 }
+
+@mixin size-transition(){
+      -webkit-transition: font-size .3s;
+      -moz-transition: font-size .3s;
+      -o-transition: font-size .3s;
+      transition: font-size .3s;
+}
+
+@mixin background-transition(){
+      -webkit-transition: opacity .3s;
+      -moz-transition: opacity .3s;
+      -o-transition: opacity .3s;
+      transition: opacity .3s;
+}
+
+/* ----- end Mixins ----- */
+
+/* ----- Global ----- */
 
 .page__content {
   p, li, dl {
@@ -50,13 +67,9 @@ nav#site-nav.greedy-nav  {
     
     a.site-title img {
         height: 125px;
+        max-width: 250px;
         margin: .25rem .5rem;
     }
-
-    a {
-        color: $gray-1;
-    }
-
 }
 
 div.page__footer {
@@ -92,6 +105,10 @@ div.page__footer {
         padding: unset;
         margin: unset;
         margin-top: 1rem;
+
+        @media screen and (max-width: $small){
+            display: none;
+        }
     }
 
     ul li { 
@@ -127,18 +144,21 @@ div.page__footer {
             text-decoration: none !important;
             vertical-align: bottom;
 
-            h2 { display: none; }
+            h2 { 
+                opacity: 0;
+                color: $dark-gray;
+                height: 75%;
+                margin-bottom: 12.5%;
+                display: block;
+                padding: 100px .5rem 1rem .5rem;
+                text-align: center;
+                background: rgba($light-gray, .5); 
+            }
         }
 
         div a:hover h2,
         div a:focus h2 {
-            color: $dark-gray;
-            height: 75%;
-            margin-bottom: 12.5%;
-            display: block;
-            padding: 100px .5rem 1rem .5rem;
-            text-align: center;
-            background: rgba($light-gray, .5);
+            opacity: 1;
         }
     }
 
