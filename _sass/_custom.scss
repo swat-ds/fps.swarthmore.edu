@@ -73,10 +73,10 @@ div.page__footer {
 
     p:first-child {
         @include arabic;
+        font-weight: 600;
     }
 
     hr { 
-
         border-top-color: rgba($gold,.5);
         width: 100%;
     }
@@ -91,10 +91,11 @@ div.page__footer {
         width: 45%;
         padding: unset;
         margin: unset;
+        margin-top: 1rem;
     }
 
     ul li { 
-        height: 9rem;
+        height: 10rem;
     }
 
     ul:first-of-type {
