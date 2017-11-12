@@ -2,11 +2,8 @@
 
 ## based on [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
-:clap:
-:clap:
-:clap:
 :facepunch:
 :facepunch:
-:clap:
-:clap:
-:clap:
+:facepunch:
+:facepunch:
+:facepunch:
