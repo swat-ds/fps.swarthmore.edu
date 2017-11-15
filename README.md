@@ -22,9 +22,11 @@ go here –> [prose.io/#swat-ds/fps.swarthmore.edu](http://prose.io/#swat-ds/fps
 - you will prompted to login with your GitHub credentials
 - note that if you see a green power button icon, bottom right – you aren't logged in yet
 
-## Adding a Post
+## Editing Content
 
-**first /** select the file you want to edit, either in the ar or en folders
+**first /** select the file you want to edit, either in the `ar` or `en` folders
+
+***note*** the home page content is in [index.html](http://prose.io/#swat-ds/fps.swarthmore.edu/edit/master/index.html) rathern than in the `ar` or `en` folders
 
 **second /** edit using Markdown -- here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
