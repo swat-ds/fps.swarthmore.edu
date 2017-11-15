@@ -41,6 +41,12 @@ author:
   twitter          :
   url              : "https://www.swarthmore.edu/libraries"
 
+# Prose settings
+prose:
+  rooturl: '_i18n'
+  media: 'assets/images'
+
+
 # Reading Files
 include:
   - .htaccess
