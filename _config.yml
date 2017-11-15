@@ -20,11 +20,13 @@ exclude_from_localizations: ["assets","assets/js","assets/images","assets/css","
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "fpsbookarts"
 facebook:
-  username               :
+  username               : "fpsbookarts"
   app_id                 :
   publisher              :
+instagram:
+  username               : "fpsbookarts"
 
 # Analytics
 analytics:

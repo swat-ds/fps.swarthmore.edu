@@ -1,4 +1,4 @@
-## Friends Peace and Sanctuary Staff
+## Friends, Peace, & Sanctuary Staff
 
 Yaroub Al Obaidi
 ### Community Liaison
@@ -17,3 +17,5 @@ Katie Price
 ### Principal Investigator 
 ### Assistant Director for Co-Curricular Programming and Outreach
 ### Lang Center for Civic & Social Responsibility
+
+*Friends, Peace & Sanctuary has been supported by [The Pew Center for Arts & Heritage](http://www.pcah.us/)*

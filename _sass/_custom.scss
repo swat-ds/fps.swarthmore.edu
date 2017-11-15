@@ -1,10 +1,9 @@
-/* ----- Mixins ----- */
+// /*----- Mixins ----- */
 
 @mixin arabic(){
 
     direction: rtl;
-    // font-family: "noto_sans_arabic_uiregular";
-    font-family: "noto_kufi_arabicregular";
+    font-family: "noto_sans_arabic_uiregular";
 }
 
 @mixin size-transition(){
@@ -39,12 +38,12 @@
 
 a.link-ar {
     direction: rtl;
-    // font-family: "noto_sans_arabic_uiregular";
-    font-family: "noto_kufi_arabicregular";
+    font-family: "noto_sans_arabic_uiregular";
+    // font-family: "noto_kufi_arabicregular";
 }
 
 html {
-    background-image: -webkit-linear-gradient(top, rgba($blue,.5) 70%, $gold), url('/assets/images/IslamAly1bio.jpg');
+    background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
@@ -212,4 +211,4 @@ img.pew-logo {
     padding: 2rem 1rem 3rem 1rem;
 }
 
-/* ----- end Credits ----- */
+// ----- end Credits
