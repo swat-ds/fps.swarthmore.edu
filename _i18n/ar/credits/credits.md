@@ -9,7 +9,7 @@ Nora Elmarzouky
 Suzanne L. Seesman
 ### Artistic Director 
 
-Peggy Sieden 
+Peggy Seiden 
 ### Principal Investigator
 ### College Librarian for Swarthmore College 
 

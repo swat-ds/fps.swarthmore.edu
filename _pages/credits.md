@@ -12,4 +12,4 @@ permalink: /credits/
 
 </div>
 
-![Pew Center for Arts and Heritage Logo](/assets/images/pc_mag_RGB.svg){: .align-left .pew-logo}
+[![Pew Center for Arts and Heritage Logo](/assets/images/pc_mag_RGB.svg){: .align-left .pew-logo}](http://pcah.us)

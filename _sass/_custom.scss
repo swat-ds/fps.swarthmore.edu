@@ -69,11 +69,33 @@ nav#site-nav.greedy-nav  {
         max-width: 250px;
         margin: .25rem .5rem;
     }
+
+    li a:hover {
+        // text-decoration: none;
+    }
 }
 
 div.page__footer {
         background-color: rgba($light-gray, .9);
+
+        .page__footer-follow { 
+            display: inline-block;
+            float: left;
+            max-width: 500px;
+
+            a:hover .fa, a:focus .fa {
+                color: $salmon;
+            }
+        }
+        .page__footer-copyright {
+            max-width: 500px;
+            float: right;
+            margin-top: 1em;
+            vertical-align: middle;
+        }
 }
+
+footer .fa { font-size: 2rem; }
 
 /* ----- end Global ----- */
 
@@ -92,8 +114,6 @@ div.page__footer {
         border-top-color: rgba($gold,.5);
         width: 100%;
     }
-
-    .md-spacer { display: none; }
 
     ul {
         list-style: none;
@@ -180,7 +200,7 @@ div.page__footer {
     }
 
     h1 {
-        margin-top: 4rem;
+        margin: 2rem 0;
         text-align: center;
         clear: both;
     }
@@ -207,7 +227,7 @@ div.page__footer {
 }
 
 img.pew-logo {
-    width: 150px;
+    width: 200px;
     padding: 2rem 1rem 3rem 1rem;
 }
 

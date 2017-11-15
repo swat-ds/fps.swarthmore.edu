@@ -9,7 +9,7 @@ Nora Elmarzouky
 Suzanne L. Seesman
 ### Artistic Director 
 
-Peggy Sieden 
+Peggy Seiden 
 ### Principal Investigator
 ### College Librarian for Swarthmore College 
 
@@ -18,4 +18,4 @@ Katie Price
 ### Assistant Director for Co-Curricular Programming and Outreach
 ### Lang Center for Civic & Social Responsibility
 
-*Friends, Peace & Sanctuary has been supported by [The Pew Center for Arts & Heritage](http://www.pcah.us/)*
+*Friends, Peace, & Sanctuary has been supported by* <br/> [The Pew Center for Arts & Heritage](http://www.pcah.us/)

@@ -172,15 +172,15 @@ compress_html:
 
 
 # Defaults
-defaults:
+# defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: # true
-      share: false
-      related: false
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     read_time: false
+  #     comments: # true
+  #     share: false
+  #     related: false
