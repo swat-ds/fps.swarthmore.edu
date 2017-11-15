@@ -24,9 +24,11 @@ go here –> [prose.io/#swat-ds/fps.swarthmore.edu](http://prose.io/#swat-ds/fps
 
 ## Editing Content
 
-**first /** select the file you want to edit, either in the `ar` or `en` folders
+**first /** 
 
-***note*** the home page content is in [index.html](http://prose.io/#swat-ds/fps.swarthmore.edu/edit/master/index.html) rathern than in the `ar` or `en` folders
+select the file you want to edit, either in the `ar` or `en` folders
+
+***home page*** content is in [index.html](http://prose.io/#swat-ds/fps.swarthmore.edu/edit/master/index.html) rather than in the `ar` or `en` folders
 
 **second /** edit using Markdown -- here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
