@@ -1,4 +1,4 @@
-## Friends, Peace, & Sanctuary Staff
+## Friends, Peace, and Sanctuary Staff
 
 Yaroub Al Obaidi
 ### Community Liaison
@@ -10,11 +10,11 @@ Suzanne L. Seesman
 ### Artistic Director 
 
 Peggy Seiden 
-### Principal Investigator
+### Project Director
 ### College Librarian for Swarthmore College 
 
 Katie Price 
-### Principal Investigator 
+### Project Director 
 ### Assistant Director for Co-Curricular Programming and Outreach
 ### Lang Center for Civic & Social Responsibility
 
