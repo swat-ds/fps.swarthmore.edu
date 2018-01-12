@@ -3,13 +3,30 @@
 layout: single
 title: Credits
 permalink: /credits/
+id: credits
 
 ---
 
-<div id="credits" class="{{ site.lang }}">
+## Friends, Peace, and Sanctuary Staff
 
-{% translate_file credits/credits.md %}
+Yaroub Al Obaidi
+### Community Liaison
 
-</div>
+Nora Elmarzouky 
+### Program Manager 
+
+Suzanne L. Seesman
+### Artistic Director 
+
+Peggy Seiden 
+### Project Director
+### College Librarian for Swarthmore College 
+
+Katie Price 
+### Project Director 
+### Assistant Director for Co-Curricular Programming and Outreach
+### Lang Center for Civic & Social Responsibility
+
+*Friends, Peace, & Sanctuary has been supported by* <br/> [The Pew Center for Arts & Heritage](http://www.pcah.us/)
 
 [![Pew Center for Arts and Heritage Logo](/assets/images/pc_mag_RGB.svg){: .align-left .pew-logo}](http://pcah.us)
