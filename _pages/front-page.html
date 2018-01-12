@@ -1,0 +1,35 @@
+---
+layout: default
+permalink: /front-page/
+include_categories:
+ - archive
+ - events
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+
+    {% for current_category in page.include_categories %}
+        {% capture  c %}{{ current_category }}{% endcapture %}
+
+        <h2 class="archive__category">{{ c }}</h2>
+        {% include category-row.html category_row=site.posts category=c %}
+    {% endfor %}
+
+
+  </div>
+</div>

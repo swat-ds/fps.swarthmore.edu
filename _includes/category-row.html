@@ -1,0 +1,51 @@
+<div class="feature__wrapper">
+
+{% assign i = 0 %}
+
+{% for f in include.category_row %}
+
+{% if f.categories contains include.category and i < 3 %}
+
+    {% assign i = i | plus: 1 %}
+
+    {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | absolute_url }}{% endcapture %}
+    {% endif %}
+
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item">
+        {% if f.image %}
+          <div class="archive__item-teaser">
+            <img src=
+              {% if f.image contains "://" %}
+                "{{ f.image }}"
+              {% else %}
+                "{{ f.image | prepend: "/" | prepend: site.prose.media | absolute_url }}"
+              {% endif %}
+            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+{% endif %}
+{% endfor %}
+
+</div>
