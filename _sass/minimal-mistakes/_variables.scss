@@ -18,7 +18,8 @@ $serif                        : Georgia, Times, serif !default;
 // $sans-serif                   : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 
 // $serif                        : "Playfair Display", Times, serif !default;
-$sans-serif                   : "Libre Franklin", "Helvetica Neue", Arial, sans-serif !default;
+// $sans-serif                   : "Libre Franklin", "Helvetica Neue", Arial, sans-serif !default;
+$sans-serif                   : "Quattrocento Sans", "Helvetica Neue", Arial, sans-serif !default;
 // $sans-serif                   : "Noto Sans", "Helvetica Neue", Arial, sans-serif !default;
 
 $monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
@@ -139,7 +140,7 @@ $navicon-link-color-hover     : mix(#fff, $primary-color, 75%) !default;
 $small                        : 600px !default;
 $medium                       : 768px !default;
 $medium-wide                  : 900px !default;
-$large                        : 1024px !default;
+$large                        : 1030px !default;
 $x-large                      : 1280px !default;
 
 
@@ -147,9 +148,12 @@ $x-large                      : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow   : 200px !default;
-$right-sidebar-width          : 300px !default;
-$right-sidebar-width-wide     : 400px !default;
+// $right-sidebar-width-narrow   : 200px !default;
+// $right-sidebar-width          : 300px !default;
+// $right-sidebar-width-wide     : 400px !default;
+$right-sidebar-width-narrow   : 00px !default;
+$right-sidebar-width          : 00px !default;
+$right-sidebar-width-wide     : 00px !default;
 
 
 /*

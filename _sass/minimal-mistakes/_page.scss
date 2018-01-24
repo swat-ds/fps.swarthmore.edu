@@ -9,15 +9,11 @@
   margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
+  max-width: $large;
   -webkit-animation: $intro-transition;
           animation: $intro-transition;
-  max-width: $large * 1.7;
   -webkit-animation-delay: 0.35s;
           animation-delay: 0.35s;
-
-  // @include breakpoint($x-large) {
-  //   max-width: $x-large;
-  // }
 }
 
 .page {

@@ -31,6 +31,10 @@
 
 /* ----- Global ----- */
 
+.page, .page .page__inner-wrap .page__content {
+    max-width: $large;
+}
+
 .page__content {
   p, li, dl {
     font-size: $type-size-4;
@@ -50,13 +54,23 @@ a.link-ar {
 }
 
 html {
+    // background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
+    // background-size: cover;
+    // background-attachment: fixed;
+}
+
+.page__hero {
+
+    img.page__hero-image { opacity: 0 }
+    max-height: 20em;
     background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
-    background-size: cover;
+    background-size: 100% 75%;
     background-attachment: fixed;
 }
 
+
 div#main {
-    background: rgba($light-gray, .9);
+    // background: rgba($light-gray, .9);
 }
 
 div.page__inner-wrap {
