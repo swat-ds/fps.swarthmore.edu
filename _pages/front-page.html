@@ -16,10 +16,13 @@ include_categories:
   <div class="archive">
 
     {% for current_category in page.include_categories %}
-        {% capture  c %}{{ current_category }}{% endcapture %}
+
+        {% assign c = current_category %}
 
         <h2 class="archive__category">{{ c }}</h2>
-        {% include category-row.html category_row=site.posts category=c %}
+
+        {% include category-row.html cat = c %}
+
     {% endfor %}
 
 

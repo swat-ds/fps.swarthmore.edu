@@ -1,10 +1,6 @@
 <div class="feature__wrapper">
 
-{% assign i = 0 %}
-
-{% for f in include.category_row %}
-
-{% if f.categories contains include.category and i < 3 %}
+{% for f in site.categories.[include.cat] %}
 
     {% assign i = i | plus: 1 %}
 
@@ -45,7 +41,7 @@
         </div>
       </div>
     </div>
-{% endif %}
+
 {% endfor %}
 
 </div>
