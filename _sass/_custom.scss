@@ -126,7 +126,7 @@ footer .fa { font-size: 2rem; }
         width: 100%;
     }
 
-    ul {
+    ul.guiding-questions {
         list-style: none;
         border-left: unset;
         border-right: unset;
@@ -141,18 +141,18 @@ footer .fa { font-size: 2rem; }
         }
     }
 
-    ul li { 
+    ul.guiding-questions li { 
         height: 10rem;
     }
 
-    ul:first-of-type {
+    ul.guiding-questions:first-of-type {
         
         @include arabic;
         font-weight: 600;
         float: left;
     }
 
-    ul:last-of-type {
+    ul.guiding-questions:last-of-type {
         float: right;
     }
 
@@ -223,8 +223,6 @@ footer .fa { font-size: 2rem; }
 
 #home #contributing-artists {
 
-    display: unset;
-
     column-count: 2;
     -webikit-column-count: 2;
     -moz-column-count: 2;
@@ -233,19 +231,15 @@ footer .fa { font-size: 2rem; }
     -webkit-column-gap: 50px;
     -moz-column-gap: 0px;
 
-    float: unset;
     margin-left: 12.5%;
     width: 75%;
     display: block;
 
-    ul {
+    padding-top: 1rem;
 
-        display: unset;
-        float: unset;
-        width: unset;
-        padding: unset;
+    ul {
         margin: unset;
-        direction: unset;
+        list-style: none;
     }
 
     @media screen and (max-width: $small){
