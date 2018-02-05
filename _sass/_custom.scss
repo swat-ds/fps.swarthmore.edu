@@ -221,6 +221,52 @@ footer .fa { font-size: 2rem; }
 
 }
 
+#home #contributing-artists {
+
+    display: unset;
+
+    column-count: 2;
+    -webikit-column-count: 2;
+    -moz-column-count: 2;
+
+    column-gap: 0px;
+    -webkit-column-gap: 50px;
+    -moz-column-gap: 0px;
+
+    float: unset;
+    margin-left: 12.5%;
+    width: 75%;
+    display: block;
+
+    ul {
+
+        display: unset;
+        float: unset;
+        width: unset;
+        padding: unset;
+        margin: unset;
+        direction: unset;
+    }
+
+    @media screen and (max-width: $small){
+        column-count: unset;
+        -webikit-column-count: unset;
+        -moz-column-count: unset;
+    }
+
+    li {
+        font-family: $sans-serif;
+        height: unset;
+        text-align: center;
+    }
+
+    p {
+        padding-top: 1rem;
+        text-align: center;
+        -webkit-column-span: all;
+    }
+}
+
 /* ----- end Home ----- */
 
 /* ----- Credits ----- */
