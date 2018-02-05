@@ -77,9 +77,6 @@ exclude:
   - package.json
   - Rakefile
   - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
 encoding: "utf-8"
@@ -123,6 +120,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-archives
   - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
@@ -130,6 +128,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-archives
   - jemoji
 
 # Archives
@@ -149,16 +148,13 @@ whitelist:
 #   type: liquid
 #   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
 
 
 # HTML Compression

@@ -1,8 +1,14 @@
 # main links
 main:
-  - title: "Credits"
-    url: /credits/
-  #   url: /year-archive/
+  - title: "About"
+    url: "/about/"
+    children:
+      - title: "about"
+        url: "/about/"
+  - title: "People"
+    url: /people/
+  - title: "Resources"
+    url: /resources/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sample Posts"

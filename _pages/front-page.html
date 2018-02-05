@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /front-page/
+id: front-page
 header:
   image: '/assets/images/IslamAly1bio.jpg'
 include_categories:
@@ -13,7 +14,7 @@ include_categories:
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive">
+  <div id="{{ page.id }}">
 
     {% for current_category in page.include_categories %}
 

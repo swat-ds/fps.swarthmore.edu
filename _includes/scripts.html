@@ -11,5 +11,14 @@
   <script src="{{ '/assets/js/main.min.js' | prepend: baseurl_root }}"></script>
 {% endif %}
 
+<script type="text/javascript">
+    
+    $('#site-nav.greedy-nav .visible-links li.has-children').on('mousenter mouseleave', function(e){
+        var curr_id = $(e.target).attr('id');
+        $('#site-nav.greedy-nav .visible-links ul.menu-item-children').toggleClass('hidden');
+    });
+
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

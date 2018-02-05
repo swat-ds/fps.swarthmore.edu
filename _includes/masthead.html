@@ -16,7 +16,21 @@
             {% else %}
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li {% if link.children %}id="{{ link.title | downcase }}"{% endif %} class="masthead__menu-item {% if link.children %}has-children{% endif %}"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+
+            {% if link.children %}
+
+            <ul {% if link.children %}id="{{ link.title | downcase }}"{% endif %} class="menu-item-children hidden">
+              {% for child in link.children %}
+
+              {% assign domain = site.url | append: site.baseurl %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ child.title }}</a></li>
+
+              {% endfor %}
+            </ul>
+
+            {% endif %}
+
           {% endfor %}
         </ul>
       
