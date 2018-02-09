@@ -13,10 +13,26 @@
 
 <script type="text/javascript">
     
-    $('#site-nav.greedy-nav .visible-links li.has-children').on('mousenter mouseleave', function(e){
-        var curr_id = $(e.target).attr('id');
-        $('#site-nav.greedy-nav .visible-links ul.menu-item-children').toggleClass('hidden');
+
+    $(document).on('scroll', function(d){
+
+        var currTop = $(this).scrollTop();
+
+        if ( currTop > 150 ){
+            $('.site-title img').addClass('little');
+        } else {
+            $('.site-title img').removeClass('little')
+        }
     });
+
+    $('#site-nav.greedy-nav .visible-links li.has-children span').on({
+
+      click: function(){
+        $(this).parent().find('ul').fadeToggle('medium');
+      }
+
+    });
+
 
 </script>
 

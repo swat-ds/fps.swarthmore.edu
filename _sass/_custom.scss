@@ -53,115 +53,96 @@ a.link-ar {
     // font-family: "noto_kufi_arabicregular";
 }
 
-html {
-    // background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
-    // background-size: cover;
-    // background-attachment: fixed;
-}
-
-.page__hero {
-
-    img.page__hero-image { opacity: 0 }
-    max-height: 20em;
-    background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
-    background-size: 100% 75%;
-    background-attachment: fixed;
-}
-
-
 div#main {
-    // background: rgba($light-gray, .9);
+    margin-top: 7rem;
 }
 
 div.page__inner-wrap {
-    padding-top: 2rem;
+
+    padding-top: 1rem;
 
     header { 
         padding-top: 1rem;
     }
 }
 
-nav#site-nav.greedy-nav  {
+div.masthead {
+
+    position: fixed;
+    top: 0rem;
+    width: 100%;
+    border: none;
+    // background-color: rgba($light-gray, .9);
+
+    & .masthead__inner-wrap {
+        padding-top: 0;
+    }
+}
+
+#site-nav.greedy-nav  {
 
     background-color: rgba($light-gray, .9);
     
     a.site-title img {
-        height: 125px;
+        height: 150px;
         max-width: 250px;
         margin: .25rem .8rem;
+
+        -webkit-transition: height .4s;
+        -moz-transition: height .4s;
+        -o-transition: height .4s;
+        transition: height .4s;
+
     }
 
-    li a:hover {
-        // text-decoration: none;
+    a.site-title img.little {
+        height: 75px;
     }
+
 }
 
 #site-nav.greedy-nav .visible-links {
     overflow: visible;
 }
 
-nav .menu-item-children {
+#site-nav .visible-links li.has-children {
+    a { padding-right: 0 !important; }
 
-    position: relative;
-    
-    top: 2rem;
-    left: -6rem;
-    margin-top: 15px;
+    span {
+        cursor: pointer;
+        position: relative;
+        top: -1.9rem;
+        left: 85%;
+    }
+}
+
+#site-nav ul.menu-item-children {
+
+    position: absolute;
+    margin-top: -2rem;
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: $background-color;
     box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
-
-    &.hidden {
-        display: none;
-    }
+    display: none;
 
     a {
-        margin: 0;
-        padding: 10px 20px;
-        font-size: $type-size-5;
-
-        &:hover {
-            color: $masthead-link-color-hover;
-            // background: $navicon-link-color-hover;
-        }
-
+        margin: 0 .5rem;
     }
 
-    // &:before {
-    // content: "";
-    // position: absolute;
-    // top: -11px;
-    // right: 10px;
-    // width: 0;
-    // border-style: solid;
-    // border-width: 0 10px 10px;
-    // border-color: $border-color transparent;
-    // display: block;
-    // z-index: 0;
-    // }
-
-    // &:after {
-    //     content: "";
-    //     position: absolute;
-    //     top: -10px;
-    //     right: 10px;
-    //     width: 0;
-    //     border-style: solid;
-    //     border-width: 0 10px 10px;
-    //     border-color: $background-color transparent;
-    //     display: block;
-    //     z-index: 1;
-    // }
+    a:before {
+      content: unset;
+    }
 
     li {
         display: block;
         border-bottom: 1px solid $border-color;
-
-        &:last-child {
+        &:last-child {  
             border-bottom: none;
         }
+
+        &:hover a { color: darken($light-gray, 10%);}
     }
 }
 
@@ -193,11 +174,23 @@ footer .fa { font-size: 2rem; }
 
 /* ----- end Global ----- */
 
-/* ----- end Home ----- */
+/* ----- Home / Front Page ----- */
+
+.page__hero {
+
+    img.page__hero-image { opacity: 0 }
+    margin-top: 9rem;
+    max-height: 20em;
+    background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
+    background-size: 100% 75%;
+    background-attachment: fixed;
+}
+
+#home, #people, #about, #archive {
+    padding: 1rem;
+}
 
 #home, #people, #about {
-
-    padding: 1rem;
 
     p:first-child {
         @include arabic;
@@ -304,8 +297,7 @@ footer .fa { font-size: 2rem; }
 
 }
 
-
-#front-page .category-row {
+.category-row {
 
     display: flex;
     flex-wrap: wrap;
