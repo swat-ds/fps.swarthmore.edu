@@ -41,6 +41,21 @@
   }
 }
 
+#main {
+
+    padding: 1rem;
+    
+    p {
+        padding-top: 2rem;
+        margin-bottom: .25rem;
+    }
+
+    h3 {
+        margin-top: 0;
+    }
+
+}
+
 .ar {
     p, ul, li, h1, h2, h3, h4, h5 {
         @include arabic;
@@ -186,11 +201,80 @@ footer .fa { font-size: 2rem; }
     background-attachment: fixed;
 }
 
-#home, #people, #about, #archive {
-    padding: 1rem;
+.page__hero + #main {
+    margin-top: 0;
+    padding-top: 0;
 }
 
-#home, #people, #about {
+#front-page {
+    width: 70%;
+    float: left;
+
+    h2 { margin-top: 0; }
+
+    @media screen and (max-width: $small){
+        width: 100%;
+    }
+}
+
+#widgets {
+    width: 25%;
+    float: right;
+
+    h1.timeline-Header-title.u-inlineBlock { display: none !important; }
+
+    a .fa {
+        @include color-transition();
+        font-size: 1.5rem;
+    }
+
+    a:hover .fa, a:focus .fa {
+        color: $salmon;
+    }
+
+    @media screen and (max-width: $small){
+        display: none;
+    }
+}
+
+.category-row {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+
+    a, a:focus, a:hover {
+        text-decoration: none;
+        display: block;
+    }
+
+    a h2 {
+        display: inline-block;
+        border-bottom: 4px solid rgba($salmon,0);
+    }
+
+    a:hover h2 {
+        border-bottom: 4px solid rgba($salmon,1);
+    }
+
+    div.feature__item a:hover .archive__item,
+    div.feature__item a:hover .archive__item-excerpt {
+        opacity: .75;
+        @include background-transition();
+    }
+
+    div.feature__item .archive__item {
+        height: 150px;
+        width: 150px;
+    }
+
+}
+
+/* ----- end Home ----- */
+
+/* ----- About ----- */
+
+#about {
 
     p:first-child {
         @include arabic;
@@ -297,57 +381,11 @@ footer .fa { font-size: 2rem; }
 
 }
 
-.category-row {
+/* ----- end About ----- */
 
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: left;
-
-    a, a:focus, a:hover {
-        text-decoration: none;
-        display: block;
-    }
-
-    a h2 {
-        display: inline-block;
-        border-bottom: 4px solid rgba($salmon,0);
-    }
-
-    a:hover h2 {
-        border-bottom: 4px solid rgba($salmon,1);
-    }
-
-    div.feature__item a:hover .archive__item,
-    div.feature__item a:hover .archive__item-excerpt {
-        opacity: .75;
-        @include background-transition();
-    }
-
-    div.feature__item .archive__item {
-        height: 300px;
-        width: 300px;
-    }
-
-}
-
-/* ----- end Home ----- */
 
 /* ----- Credits ----- */
 
-#credits {
-
-    padding: 1rem;
-    
-    p {
-        padding-top: 2rem;
-        margin-bottom: .25rem;
-    }
-
-    h3 {
-        margin-top: 0;
-    }
-
-}
 
 img.pew-logo {
     width: 200px;

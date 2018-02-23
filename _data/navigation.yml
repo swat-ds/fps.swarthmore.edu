@@ -3,10 +3,10 @@ main:
   - title: "About"
     url: "/about/"
     children:
-      - title: "about"
-        url: "/about/"
-  - title: "People"
-    url: /people/
+      - title: "Credits"
+        url: "/credits/"
+  - title: "Artists"
+    url: /artists/
   - title: "Resources"
     url: /resources/
   # - title: "Sample Collections"

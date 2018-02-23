@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /archive/
-id: archive
+permalink: /works/
+id: works
 include_categories:
- - archive
+ - works
 ---
 
 <div id="main" role="main">

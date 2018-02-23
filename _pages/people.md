@@ -1,9 +1,9 @@
 ---
 
 layout: single
-title: People
-permalink: /people/
-id: people
+title: Artists
+permalink: /artists/
+id: artists
 
 ---
 

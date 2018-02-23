@@ -5,14 +5,13 @@ id: front-page
 header:
   image: '/assets/images/IslamAly1bio.jpg'
 include_categories:
- - archive
  - events
+ - works
 ---
 
 {% include page__hero.html %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
 
   <div id="{{ page.id }}">
 
@@ -26,6 +25,23 @@ include_categories:
 
     {% endfor %}
 
-
   </div>
+
+
+    <div id="widgets">
+
+        <a href="https://instagram.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i></a>
+
+
+        <!-- Instagram Widget Embed Start -->
+        <div class="instawidget" data-user-name="fpsbookarts" data-amount="4" data-grid="2"></div><script type="text/javascript" src="//www.stadget.com/cdn/widget-init.min.js"></script>
+        <!-- Instagram Widget Embed End -->
+        
+        <a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i></a>
+
+        <a class="twitter-timeline" data-width="350" data-height="500" data-dnt="true" data-chrome="noheader" data-link-color="#e44c1c" href="https://twitter.com/fpsbookarts?ref_src=twsrc%5Etfw">Tweets by fpsbookarts</a>
+
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    </div>
 </div>

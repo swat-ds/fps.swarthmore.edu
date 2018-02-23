@@ -26,7 +26,7 @@
               {% for child in link.children %}
 
               {% assign domain = site.url | append: site.baseurl %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ child.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ child.url }}">{{ child.title }}</a></li>
 
               {% endfor %}
             </ul>
