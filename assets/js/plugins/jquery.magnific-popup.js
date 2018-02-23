@@ -1141,7 +1141,7 @@
               '</figcaption>'+
             '</figure>'+
           '</div>',
-      cursor: 'mfp-zoom-out-cur',
+      // cursor: 'mfp-zoom-out-cur',  comments out zoom out cursor for lightbox
       titleSrc: 'title',
       verticalFit: true,
       tError: '<a href="%url%">The image</a> could not be loaded.'
