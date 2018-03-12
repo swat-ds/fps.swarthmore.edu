@@ -42,9 +42,19 @@
 }
 
 .ar {
-    p, ul, li, h1, h2, h3, h4, h5 {
+    p, ul, li, h1, 
+    h2, h3, h4, h5, span {
         @include arabic;
     }
+}
+
+p.ar, ul.ar, li.ar, h1.ar, 
+h2.ar, h3.ar, h4.ar, h5.ar, span.ar {
+    @include arabic;
+}
+
+.bold {
+    font-weight: 600;
 }
 
 a.link-ar {
@@ -53,8 +63,19 @@ a.link-ar {
     // font-family: "noto_kufi_arabicregular";
 }
 
+ul {
+    list-style: none;
+}
+
 div#main {
-    margin-top: 7rem;
+    margin-top: 9rem;
+
+    h1.page__title {
+        margin: 0 0 2rem 0;
+        text-align: center;
+        clear: both;
+    }
+
 }
 
 div.page__inner-wrap {
@@ -75,13 +96,14 @@ div.masthead {
     // background-color: rgba($light-gray, .9);
 
     & .masthead__inner-wrap {
-        padding-top: 0;
+        padding: 0 0 20px 0;
     }
 }
 
 #site-nav.greedy-nav  {
 
     background-color: rgba($light-gray, .9);
+    padding: 0 1rem;
     
     a.site-title img {
         height: 150px;
@@ -99,27 +121,56 @@ div.masthead {
         height: 75px;
     }
 
+    li span.en {
+        text-transform: capitalize;
+    }
 }
 
 #site-nav.greedy-nav .visible-links {
-    overflow: visible;
+
+    li.child {
+        display: none;
+    }
+
+    @media screen and (min-width: $small){
+            overflow: visible;
+    }
+}
+
+#site-nav.greedy-nav .hidden-links {
+
+    li.child {
+        display: block;
+    }
+
+    span.caret {
+        display: none;
+    }
 }
 
 #site-nav .visible-links li.has-children {
+
+    max-height: 2.5rem;
+
     a { padding-right: 0 !important; }
 
-    span {
+    span.caret {
         cursor: pointer;
         position: relative;
         top: -1.9rem;
-        left: 85%;
+        right: 0%;
+
+        @media screen and (max-width: $small){
+            display: none;
+        }
     }
 }
 
 #site-nav ul.menu-item-children {
 
-    position: absolute;
+    position: relative;
     margin-top: -2rem;
+    right: 0rem;
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
@@ -186,16 +237,19 @@ footer .fa { font-size: 2rem; }
     background-attachment: fixed;
 }
 
-#home, #people, #about, #archive {
+#front-page { 
+
+    margin-top: -4rem;
+    h2.archive__category:first-of-type{
+        margin-top: 0;
+    }
+}
+
+#about, .category-page {
     padding: 1rem;
 }
 
-#home, #people, #about {
-
-    p:first-child {
-        @include arabic;
-        font-weight: 600;
-    }
+#about {
 
     hr { 
         border-top-color: rgba($gold,.5);
@@ -222,9 +276,6 @@ footer .fa { font-size: 2rem; }
     }
 
     ul.guiding-questions:first-of-type {
-        
-        @include arabic;
-        font-weight: 600;
         float: left;
     }
 
@@ -288,16 +339,8 @@ footer .fa { font-size: 2rem; }
         background-image: url('/assets/images/MarkStrandquistbio.jpg');
         background-position: center;       
     }
-
-    h1 {
-        margin: 2rem 0;
-        text-align: center;
-        clear: both;
-    }
-
 }
 
-<<<<<<< HEAD
 #home #contributing-artists {
 
     column-count: 2;
@@ -337,6 +380,18 @@ footer .fa { font-size: 2rem; }
         text-align: center;
         -webkit-column-span: all;
     }
+}
+
+.category-page {
+
+}
+
+a h2.archive__category {
+
+    span.en {
+        text-transform: capitalize;
+    }
+}
 
 .category-row {
 
@@ -394,4 +449,4 @@ img.pew-logo {
     padding: 2rem 1rem 3rem 1rem;
 }
 
-// ----- end Credits
+/*----- end Credits ------ */

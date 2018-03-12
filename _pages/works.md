@@ -1,11 +1,11 @@
 ---
 layout: default
-permalink: /events/
-id: events
+permalink: /works/
+id: works
 classes:
     - category-page
 include_categories:
- - events
+ - works
 ---
 
 <div id="main" role="main">
