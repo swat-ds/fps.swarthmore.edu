@@ -1,0 +1,44 @@
+<div class="feature__wrapper category-row">
+
+{% for f in site.categories.[include.cat] %}
+
+    {% assign i = i | plus: 1 %}
+
+    {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | absolute_url }}{% endcapture %}
+    {% endif %}
+
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <a href="{{ f.url }}">
+
+      {% capture image_path %}
+        {% if f.image %}
+              {% if f.image contains "://" %}
+                {{ f.image }}
+              {% else %}
+                {{ f.image | prepend: "/" | prepend: site.prose.media | absolute_url }}
+              {% endif %}
+          {% endif %}
+      {% endcapture %}
+
+      {% if f.title %}
+        <h2 class="archive__item-title">{{ f.title }}</h2>
+      {% endif %}
+
+      <div class="archive__item" style="background-image: url('{{ image_path | strip_newlines }}')">
+
+      </div>
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+    </a>
+    </div>
+
+{% endfor %}
+
+</div>

@@ -31,6 +31,10 @@
 
 /* ----- Global ----- */
 
+.page, .page .page__inner-wrap .page__content {
+    max-width: $large;
+}
+
 .page__content {
   p, li, dl {
     font-size: $type-size-4;
@@ -49,36 +53,96 @@ a.link-ar {
     // font-family: "noto_kufi_arabicregular";
 }
 
-html {
-    background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-}
-
 div#main {
-    background: rgba($light-gray, .9);
+    margin-top: 7rem;
 }
 
 div.page__inner-wrap {
-    padding-top: 2rem;
+
+    padding-top: 1rem;
 
     header { 
         padding-top: 1rem;
     }
 }
 
-nav#site-nav.greedy-nav  {
+div.masthead {
+
+    position: fixed;
+    top: 0rem;
+    width: 100%;
+    border: none;
+    // background-color: rgba($light-gray, .9);
+
+    & .masthead__inner-wrap {
+        padding-top: 0;
+    }
+}
+
+#site-nav.greedy-nav  {
 
     background-color: rgba($light-gray, .9);
     
     a.site-title img {
-        height: 125px;
+        height: 150px;
         max-width: 250px;
         margin: .25rem .8rem;
+
+        -webkit-transition: height .4s;
+        -moz-transition: height .4s;
+        -o-transition: height .4s;
+        transition: height .4s;
+
     }
 
-    li a:hover {
-        // text-decoration: none;
+    a.site-title img.little {
+        height: 75px;
+    }
+
+}
+
+#site-nav.greedy-nav .visible-links {
+    overflow: visible;
+}
+
+#site-nav .visible-links li.has-children {
+    a { padding-right: 0 !important; }
+
+    span {
+        cursor: pointer;
+        position: relative;
+        top: -1.9rem;
+        left: 85%;
+    }
+}
+
+#site-nav ul.menu-item-children {
+
+    position: absolute;
+    margin-top: -2rem;
+    padding: 5px;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: $background-color;
+    box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
+    display: none;
+
+    a {
+        margin: 0 .5rem;
+    }
+
+    a:before {
+      content: unset;
+    }
+
+    li {
+        display: block;
+        border-bottom: 1px solid $border-color;
+        &:last-child {  
+            border-bottom: none;
+        }
+
+        &:hover a { color: darken($light-gray, 10%);}
     }
 }
 
@@ -110,11 +174,23 @@ footer .fa { font-size: 2rem; }
 
 /* ----- end Global ----- */
 
-/* ----- end Home ----- */
+/* ----- Home / Front Page ----- */
 
-#home {
+.page__hero {
 
+    img.page__hero-image { opacity: 0 }
+    margin-top: 9rem;
+    max-height: 20em;
+    background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
+    background-size: 100% 75%;
+    background-attachment: fixed;
+}
+
+#home, #people, #about, #archive {
     padding: 1rem;
+}
+
+#home, #people, #about {
 
     p:first-child {
         @include arabic;
@@ -221,6 +297,7 @@ footer .fa { font-size: 2rem; }
 
 }
 
+<<<<<<< HEAD
 #home #contributing-artists {
 
     column-count: 2;
@@ -259,6 +336,37 @@ footer .fa { font-size: 2rem; }
         padding-top: 1rem;
         text-align: center;
         -webkit-column-span: all;
+    }
+
+.category-row {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+
+    a, a:focus, a:hover {
+        text-decoration: none;
+        display: block;
+    }
+
+    a h2 {
+        display: inline-block;
+        border-bottom: 4px solid rgba($salmon,0);
+    }
+
+    a:hover h2 {
+        border-bottom: 4px solid rgba($salmon,1);
+    }
+
+    div.feature__item a:hover .archive__item,
+    div.feature__item a:hover .archive__item-excerpt {
+        opacity: .75;
+        @include background-transition();
+    }
+
+    div.feature__item .archive__item {
+        height: 300px;
+        width: 300px;
     }
 }
 

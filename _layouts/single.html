@@ -43,6 +43,17 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+
+        {% if page.image %}
+          <img src=
+              {% if page.image contains "://" %}
+                "{{ page.image }}"
+              {% else %}
+                "{{ page.image | prepend: "/" | prepend: site.prose.media | absolute_url }}"
+              {% endif %}
+            alt="{% if page.alt %}{{ page.alt }}{% endif %}">
+          </div>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
