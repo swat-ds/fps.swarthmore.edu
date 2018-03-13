@@ -119,6 +119,8 @@ div.masthead {
     background-color: rgba($light-gray, .9);
     padding: 0 1rem;
 
+    button { margin-right: -1rem; }
+
     a.site-title img {
 
         height: 150px;
@@ -292,6 +294,10 @@ footer .fa { font-size: 2rem; }
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+
+    @media screen and (max-width: $large) {
+        top: 12rem;
+    }
 }
 
 #front-page {
@@ -343,13 +349,17 @@ footer .fa { font-size: 2rem; }
     }
 }
 
+.category-page #main .category-row {
+    justify-content: space-evenly;
+}
+
 #main .category-row {
 
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
     margin-bottom: 4rem;
-    
+
     a, a:focus, a:hover {
         text-decoration: none;
         display: block;
@@ -368,7 +378,8 @@ footer .fa { font-size: 2rem; }
 
     div.feature__item {
         text-align: center;
-        margin-right: 1rem;
+        max-width: 10rem;
+        margin: .75rem;
 
         .archive__item-excerpt p {
             margin-top: 0rem;
@@ -379,6 +390,10 @@ footer .fa { font-size: 2rem; }
         }
     }
 
+    &::after {
+        content: unset;
+    }
+
     div.feature__item a:hover .archive__item,
     div.feature__item a:hover .archive__item-excerpt {
         opacity: .75;
@@ -387,6 +402,7 @@ footer .fa { font-size: 2rem; }
 
     div.feature__item .archive__item {
         height: 10rem;
+        width: 100%;
         background-position: center;
         background-size: cover;
     }
