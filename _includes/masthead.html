@@ -11,22 +11,34 @@
         <ul class="visible-links">
 
           {% for link in site.data.navigation.main %}
+
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
-            <li class="masthead__menu-item {% if link.children %}has-children{% endif %}"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            <li class="masthead__menu-item {% if link.children %}has-children{% endif %} {% if link.tag == 'child' %}{{ link.tag }}{% endif %}">
+              <a href="{{ domain }}{{ link.url }}">
+
+                <span class='ar'>{{ site.data.translations.nav.[link.title] }}</span> <span class='bold'>/</span> <span class='en'>{{ link.title }}</span>
+
+              </a>
 
             {% if link.children %}
 
-            <span>&#9662;</span>
+            <span class="caret">&#9662;</span>
 
             <ul class="menu-item-children">
               {% for child in link.children %}
 
               {% assign domain = site.url | append: site.baseurl %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ child.url }}">{{ child.title }}</a></li>
+
+              <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ child.url }}">
+
+                <span class='ar'>{{ site.data.translations.nav.[child.title] }}</span> <span class='bold'>/</span> <span class='en'>{{ child.title }}</span>
+
+              </a></li>
 
               {% endfor %}
             </ul>

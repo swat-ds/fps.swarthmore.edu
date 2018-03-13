@@ -1,16 +1,14 @@
 # main links
 main:
-  - title: "About"
+  - title: about
     url: "/about/"
     children:
-      - title: "Credits"
+      - title: credits
         url: "/credits/"
-  - title: "Artists"
+  - title: credits
+    url: "/credits/"
+    tag: child
+  - title: artists
     url: /artists/
-  - title: "Resources"
+  - title: resources
     url: /resources/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sample Posts"
-  # - title: "Sitemap"
-  #   url: /sitemap/

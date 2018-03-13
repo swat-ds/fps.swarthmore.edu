@@ -6,6 +6,12 @@
     font-family: "noto_sans_arabic_uiregular";
 }
 
+@mixin english(){
+
+    direction: ltr !important;
+    font-family: $sans-serif !important;
+}
+
 @mixin size-transition(){
       -webkit-transition: font-size .3s;
       -moz-transition: font-size .3s;
@@ -27,9 +33,16 @@
       transition: color .5s;
 }
 
+@mixin linear-gradient($direction, $img-path, $color-stops...) {
+  background-image: -o-linear-gradient($direction, $color-stops), url($img-path);
+  background-image: -moz-linear-gradient($direction, $color-stops), url($img-path);
+  background-image: -webkit-linear-gradient($direction, $color-stops), url($img-path);
+  background-image: linear-gradient($direction, $color-stops), url($img-path);
+}
+
 /* ----- end Mixins ----- */
 
-/* ----- Global ----- */
+/* ----- Globals ----- */
 
 .page, .page .page__inner-wrap .page__content {
     max-width: $large;
@@ -41,35 +54,33 @@
   }
 }
 
-#main {
-
-    padding: 1rem;
-    
-    p {
-        padding-top: 2rem;
-        margin-bottom: .25rem;
-    }
-
-    h3 {
-        margin-top: 0;
-    }
-
-}
-
 .ar {
-    p, ul, li, h1, h2, h3, h4, h5 {
+    p, ul, li, h1, 
+    h2, h3, h4, h5, span {
         @include arabic;
     }
+    @include arabic;
+}
+
+.en {
+    p, ul, li, h1, 
+    h2, h3, h4, h5, span {
+        @include english;
+    }
+    @include english;
+}
+
+.bold {
+    font-weight: 600;
 }
 
 a.link-ar {
     direction: rtl;
     font-family: "noto_sans_arabic_uiregular";
-    // font-family: "noto_kufi_arabicregular";
 }
 
-div#main {
-    margin-top: 7rem;
+ul {
+    list-style: none;
 }
 
 div.page__inner-wrap {
@@ -81,24 +92,35 @@ div.page__inner-wrap {
     }
 }
 
+/* ----- End Globals ----- */
+
+/* ----- Default Page Layout ----- */
+
+// Masthead
+
 div.masthead {
 
     position: fixed;
     top: 0rem;
+    left: 0rem;
     width: 100%;
     border: none;
     // background-color: rgba($light-gray, .9);
 
     & .masthead__inner-wrap {
-        padding-top: 0;
+        padding: 0 0 20px 0;
     }
 }
+
+// Nav
 
 #site-nav.greedy-nav  {
 
     background-color: rgba($light-gray, .9);
-    
+    padding: 0 1rem;
+
     a.site-title img {
+
         height: 150px;
         max-width: 250px;
         margin: .25rem .8rem;
@@ -108,33 +130,66 @@ div.masthead {
         -o-transition: height .4s;
         transition: height .4s;
 
+        @media screen and (max-width: $small){
+            margin: 1.75rem 0 0 0;
+        }
+
     }
 
     a.site-title img.little {
         height: 75px;
     }
 
+    li span.en {
+        text-transform: capitalize;
+    }
 }
 
 #site-nav.greedy-nav .visible-links {
-    overflow: visible;
+
+    li.child {
+        display: none;
+    }
+
+    @media screen and (min-width: $small){
+            overflow: visible;
+    }
+}
+
+#site-nav.greedy-nav .hidden-links {
+
+    li.child {
+        display: block;
+    }
+
+    span.caret {
+        display: none;
+    }
 }
 
 #site-nav .visible-links li.has-children {
+
+    max-height: 2.5rem;
+
     a { padding-right: 0 !important; }
 
-    span {
+    span.caret {
         cursor: pointer;
         position: relative;
         top: -1.9rem;
-        left: 85%;
+        right: 0%;
+
+        @media screen and (max-width: $small){
+            display: none;
+        }
     }
 }
 
 #site-nav ul.menu-item-children {
 
-    position: absolute;
+    position: relative;
     margin-top: -2rem;
+    right: 0rem;
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
@@ -160,6 +215,42 @@ div.masthead {
         &:hover a { color: darken($light-gray, 10%);}
     }
 }
+
+// Main Content Area
+
+#main {
+
+    padding: 1rem;
+    margin-top: 9rem;
+    
+    p {
+        padding-top: 2rem;
+        margin-bottom: .25rem;
+    }
+
+    h3 {
+        margin-top: 0;
+    }
+
+    h1.page__title {
+        margin: 0 0 2rem 0;
+        text-align: center;
+        clear: both;
+    }
+
+}
+
+.archive__category h1,
+h1.page__title {
+
+    color: $primary-color;
+
+    span.en {
+        text-transform: capitalize;
+    }
+}
+
+// Footer
 
 div.page__footer {
         background-color: rgba($light-gray, .9);
@@ -187,37 +278,52 @@ div.page__footer {
 
 footer .fa { font-size: 2rem; }
 
-/* ----- end Global ----- */
+/* ----- end Default Page Layout ----- */
 
-/* ----- Home / Front Page ----- */
+/* ----- Front Page ----- */
 
-.page__hero {
+.page__hero--overlay {
 
-    img.page__hero-image { opacity: 0 }
-    margin-top: 9rem;
-    max-height: 20em;
-    background-image: -webkit-linear-gradient(top, rgba($blue,.8) 60%, rgba($gold,.7)), url('/assets/images/IslamAly1bio.jpg');
-    background-size: 100% 75%;
+    top: 9rem;
+    height: 75vh;
+    min-height: 10rem;
+    @include linear-gradient(to bottom, '/assets/images/IslamAly1bio.jpg', rgba($blue,.8) 60%, rgba($gold,.7));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     background-attachment: fixed;
 }
 
-.page__hero + #main {
-    margin-top: 0;
-    padding-top: 0;
-}
-
 #front-page {
+
     width: 70%;
     float: left;
-
-    h2 { margin-top: 0; }
+    padding-top: 2rem;
 
     @media screen and (max-width: $small){
         width: 100%;
     }
+
+    a.archive__category {
+        
+        display: block;
+        text-decoration: none;
+
+        & h1,
+        {
+            @include color-transition();
+            color: $blue;
+        }
+
+        &:hover h1 span {
+            color: $salmon;    
+        }
+    }
 }
 
 #widgets {
+
+    margin-top: 2rem;
     width: 25%;
     float: right;
 
@@ -237,24 +343,40 @@ footer .fa { font-size: 2rem; }
     }
 }
 
-.category-row {
+#main .category-row {
 
     display: flex;
     flex-wrap: wrap;
-    justify-content: left;
-
+    justify-content: flex-start;
+    margin-bottom: 4rem;
+    
     a, a:focus, a:hover {
         text-decoration: none;
         display: block;
     }
 
     a h2 {
+
         display: inline-block;
         border-bottom: 4px solid rgba($salmon,0);
+        margin-top: 1rem;
     }
 
     a:hover h2 {
         border-bottom: 4px solid rgba($salmon,1);
+    }
+
+    div.feature__item {
+        text-align: center;
+        margin-right: 1rem;
+
+        .archive__item-excerpt p {
+            margin-top: 0rem;
+            padding-top: 0;
+            padding-bottom: 1rem;
+
+            display: none;
+        }
     }
 
     div.feature__item a:hover .archive__item,
@@ -264,29 +386,29 @@ footer .fa { font-size: 2rem; }
     }
 
     div.feature__item .archive__item {
-        height: 150px;
-        width: 150px;
+        height: 10rem;
+        background-position: center;
+        background-size: cover;
     }
 
 }
 
-/* ----- end Home ----- */
+/* ----- end Front Page ----- */
 
 /* ----- About ----- */
 
-#about {
+#about, .category-page {
+    // padding: 1rem;
+}
 
-    p:first-child {
-        @include arabic;
-        font-weight: 600;
-    }
+#about {
 
     hr { 
         border-top-color: rgba($gold,.5);
         width: 100%;
     }
 
-    ul {
+    ul.guiding-questions {
         list-style: none;
         border-left: unset;
         border-right: unset;
@@ -301,18 +423,15 @@ footer .fa { font-size: 2rem; }
         }
     }
 
-    ul li { 
+    ul.guiding-questions li { 
         height: 10rem;
     }
 
-    ul:first-of-type {
-        
-        @include arabic;
-        font-weight: 600;
+    ul.guiding-questions:first-of-type {
         float: left;
     }
 
-    ul:last-of-type {
+    ul.guiding-questions:last-of-type {
         float: right;
     }
 
@@ -372,17 +491,51 @@ footer .fa { font-size: 2rem; }
         background-image: url('/assets/images/MarkStrandquistbio.jpg');
         background-position: center;       
     }
-
-    h1 {
-        margin: 2rem 0;
-        text-align: center;
-        clear: both;
-    }
-
 }
 
-/* ----- end About ----- */
+#home #contributing-artists {
 
+    column-count: 2;
+    -webikit-column-count: 2;
+    -moz-column-count: 2;
+
+    column-gap: 0px;
+    -webkit-column-gap: 50px;
+    -moz-column-gap: 0px;
+
+    margin-left: 12.5%;
+    width: 75%;
+    display: block;
+
+    padding-top: 1rem;
+
+    ul {
+        padding: unset;
+        margin: unset;
+        list-style: none;
+    }
+
+    @media screen and (max-width: $small){
+        column-count: unset;
+        -webikit-column-count: unset;
+        -moz-column-count: unset;
+    }
+
+    li {
+        font-family: $sans-serif;
+        height: unset;
+        text-align: center;
+    }
+
+    p {
+        padding-top: 1rem;
+        text-align: center;
+        -webkit-column-span: all;
+    }
+}
+
+
+/* ----- end Home ----- */
 
 /* ----- Credits ----- */
 
@@ -392,4 +545,4 @@ img.pew-logo {
     padding: 2rem 1rem 3rem 1rem;
 }
 
-// ----- end Credits
+/*----- end Credits ------ */
