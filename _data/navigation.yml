@@ -8,7 +8,23 @@ main:
   - title: credits
     url: "/credits/"
     tag: child
+  - title: project
+    url: "/"
+    children:
+      - title: artists
+        url: "/artists/"
+      - title: works
+        url: "/works/"
+      - title: events
+        url: "/events/"
   - title: artists
     url: /artists/
+    tag: child
+  - title: works
+    url: /works/
+    tag: child
+  - title: events
+    url: /events/
+    tag: child
   - title: resources
     url: /resources/

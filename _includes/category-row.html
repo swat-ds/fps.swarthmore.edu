@@ -14,13 +14,16 @@
       <a href="{{ f.url }}">
 
       {% capture image_path %}
-        {% if f.image %}
-              {% if f.image contains "://" %}
-                {{ f.image }}
+        {% if f.gallery %}
+            {% assign image = f.gallery[0].image_path %}
+              {% if image contains "://" %}
+                {{ image }}
               {% else %}
-                {{ f.image | prepend: "/" | prepend: site.prose.media | absolute_url }}
+                {{ image | prepend: "/" | prepend: site.prose.media | absolute_url }}
               {% endif %}
-          {% endif %}
+        {% else %}
+            {{ 'logo-placeholder.svg' | prepend: "/" | prepend: site.prose.media | absolute_url }}
+        {% endif %}
       {% endcapture %}
 
       <div class="archive__item" style="background-image: url('{{ image_path | strip_newlines }}')">

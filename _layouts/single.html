@@ -53,22 +53,11 @@ layout: default
           </aside>
         {% endif %}
 
-        {% if page.image %}
-        {% unless page.gallery %}
-          <img src=
-              {% if page.image contains "://" %}
-                "{{ page.image }}"
-              {% else %}
-                "{{ page.image | prepend: "/" | prepend: site.prose.media | absolute_url }}"
-              {% endif %}
-            alt="{% if page.alt %}{{ page.alt }}{% endif %}">
-          </div>
-        {% endunless %}
-        {% endif %}
-
         {% if page.gallery %}
+        
           {% assign c = page.gallery_caption %}
           {% include gallery caption = c %}
+        
         {% endif %}
 
         {{ content }}

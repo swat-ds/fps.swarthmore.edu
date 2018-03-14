@@ -10,6 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en"
 title                    : "Friends, Peace, & Sanctuary"
+tagline                  : "Driven by questions about displacement and refuge, history and experience, Friends, Peace, & Sanctuary explores art’s capacity to build empathy and create a deeper sense of belonging."
 title_separator          : "-"
 name                     : "Swarthmore College"
 # url                      : # "https://mmistakes.github.io"
