@@ -32,6 +32,11 @@
           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
     {% else %}
+      <a href=
+        "{{ img.image_path | prepend: "/" | prepend: site.prose.media | absolute_url }}"
+
+        {% if img.title %}title="{{ img.title }}"{% endif %}
+      >
       <img src=
         {% if img.image_path contains "://" %}
           "{{ img.image_path }}"
@@ -39,6 +44,7 @@
           "{{ img.image_path | prepend: "/" | prepend: site.prose.media | absolute_url }}"
         {% endif %}
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+        </a>
     {% endif %}
   {% endfor %}
   {% if include.caption %}

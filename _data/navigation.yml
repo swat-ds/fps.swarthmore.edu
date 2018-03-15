@@ -1,22 +1,22 @@
 # main links
 main:
   - title: about
-    url: "/about/"
+    url: /about/
     children:
       - title: credits
-        url: "/credits/"
+        url: /credits/
   - title: credits
-    url: "/credits/"
+    url: /credits/
     tag: child
   - title: project
-    url: "/"
+    url: /
     children:
       - title: artists
-        url: "/artists/"
+        url: /artists/
       - title: works
-        url: "/works/"
+        url: /works/
       - title: events
-        url: "/events/"
+        url: /events/
   - title: artists
     url: /artists/
     tag: child

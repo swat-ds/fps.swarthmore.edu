@@ -7,8 +7,6 @@ id: artists
 
 ---
 
-<hr/>
-
 - AJ
 - Abdul Karim
 - Asmaa

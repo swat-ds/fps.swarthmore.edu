@@ -18,6 +18,9 @@
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
             <li class="masthead__menu-item {% if link.children %}has-children{% endif %} {% if link.tag == 'child' %}{{ link.tag }}{% endif %}">
+
+              {%if link.children %}<span class="caret">&#9662;</span>{% endif %}
+
               <a href="{{ domain }}{{ link.url }}">
 
                 <span class='ar'>{{ site.data.translations.nav.[link.title] }}</span> <span class='bold'>/</span> <span class='en'>{{ link.title }}</span>
@@ -25,8 +28,6 @@
               </a>
 
             {% if link.children %}
-
-            <span class="caret">&#9662;</span>
 
             <ul class="menu-item-children">
               {% for child in link.children %}

@@ -1,10 +1,13 @@
 nav:
   about: "معلومات عنا"
   credits: "شكر وتقدير"
+  project: project
   artists: "لفنانين"
   resources: "موارد"
+  works: "أعمال فنية"
+  events: "أحداث"
 categories:
   works: "أعمال فنية"
   events: "أحداث"
 footer:
-  instituion:  "جامعة سوارثمور"
+  swarthmore: "جامعة سوارثمور"

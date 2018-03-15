@@ -41,10 +41,18 @@
 }
 
 @mixin linear-gradient($direction, $img-path, $color-stops...) {
-  background-image: -o-linear-gradient($direction, $color-stops), url($img-path);
-  background-image: -moz-linear-gradient($direction, $color-stops), url($img-path);
-  background-image: -webkit-linear-gradient($direction, $color-stops), url($img-path);
-  background-image: linear-gradient($direction, $color-stops), url($img-path);
+
+    @if $img-path != 'none'{
+      background-image: -o-linear-gradient($direction, $color-stops), url($img-path);
+      background-image: -moz-linear-gradient($direction, $color-stops), url($img-path);
+      background-image: -webkit-linear-gradient($direction, $color-stops), url($img-path);
+      background-image: linear-gradient($direction, $color-stops), url($img-path);
+    } @else {
+      background-image: -o-linear-gradient($direction, $color-stops);
+      background-image: -moz-linear-gradient($direction, $color-stops);
+      background-image: -webkit-linear-gradient($direction, $color-stops);
+      background-image: linear-gradient($direction, $color-stops);
+  }
 }
 
 /* ----- end Mixins ----- */
@@ -127,7 +135,6 @@ div.masthead {
     left: 0rem;
     width: 100%;
     border: none;
-    // background-color: rgba($light-gray, .9);
 
     & .masthead__inner-wrap {
         padding: 0 0 20px 0;
@@ -138,7 +145,7 @@ div.masthead {
 
 #site-nav.greedy-nav  {
 
-    background-color: rgba($light-gray, .9);
+    background-color: rgba($light-gray,.9);
     padding: 0 1rem;
 
     button { margin-right: -1rem; }
@@ -171,6 +178,24 @@ div.masthead {
 
 #site-nav.greedy-nav .visible-links {
 
+    li {
+        max-height: 2.5rem;
+    }
+
+    a, span {
+        transition: initial;
+    }
+
+    li > span,
+    li > span + a { display: inline-block; }
+
+    & > li > span + a, li > a { 
+        margin-left: 0;
+
+        position: relative;
+        text-decoration: none;
+    }
+
     li.child {
         display: none;
     }
@@ -193,15 +218,8 @@ div.masthead {
 
 #site-nav .visible-links li.has-children {
 
-    max-height: 2.5rem;
-
-    a { padding-right: 0 !important; }
-
     span.caret {
         cursor: pointer;
-        position: relative;
-        top: -1.9rem;
-        right: 0%;
 
         @media screen and (max-width: $small){
             display: none;
@@ -212,14 +230,21 @@ div.masthead {
 #site-nav ul.menu-item-children {
 
     position: relative;
-    margin-top: -2rem;
-    right: 0rem;
+    margin-top: -.5rem;
+    left: 0rem;
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: $background-color;
     box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
-    display: none;
+    visibility: hidden;
+    opacity: 0;
+    @include opacity-transition();
+
+    &.show {
+        visibility: visible;
+        opacity: 1;
+    }
 
     a {
         margin: 0 .5rem;
@@ -238,6 +263,10 @@ div.masthead {
 
         &:hover a { color: darken($light-gray, 10%);}
     }
+}
+
+#site-nav .hidden-links ul.menu-item-children {
+    display: none;
 }
 
 // Main Content Area
@@ -314,7 +343,7 @@ footer .fa { font-size: 2rem; }
 
     top: 8.5rem;
     height: 75vh;
-    min-height: 10rem;
+    min-height: 32rem;
     @include linear-gradient(to bottom, '/assets/images/IslamAly1bio.jpg', rgba($blue,.8) 60%, rgba($gold,.7));
     background-repeat: no-repeat;
     background-position: center;
@@ -323,32 +352,44 @@ footer .fa { font-size: 2rem; }
 
     @media screen and (max-width: $large) {
         top: 12rem;
+        min-height: 43rem;
     }
 }
 
-#front-page {
+.front-page {
 
-    width: 70%;
-    float: left;
-    padding-top: 2rem;
-
-    @media screen and (max-width: $small){
-        width: 100%;
+    .page__hero--overlay .page__title {
+        display: none;
     }
 
-    a.archive__category {
-        
-        display: block;
-        text-decoration: none;
+    p.page__lead {
+        font-size: $type-size-1;
+    }
 
-        & h1,
-        {
-            @include color-transition();
-            color: $blue;
+    #front-page {
+
+        width: 70%;
+        float: left;
+        padding-top: 2rem;
+
+        @media screen and (max-width: $small){
+            width: 100%;
         }
 
-        &:hover h1 span {
-            color: $salmon;    
+        a.archive__category {
+            
+            display: block;
+            text-decoration: none;
+
+            & h1,
+            {
+                @include color-transition();
+                color: $blue;
+            }
+
+            &:hover h1 span {
+                color: $salmon;    
+            }
         }
     }
 }
@@ -438,7 +479,7 @@ footer .fa { font-size: 2rem; }
 
     div.feature__item {
         text-align: center;
-        max-width: 10rem;
+        min-width: 10rem;
         margin: .75rem;
 
         .archive__item-excerpt p {
@@ -470,6 +511,42 @@ footer .fa { font-size: 2rem; }
 }
 
 /* ----- end Front Page ----- */
+
+/* ----- Single ----- */
+
+.layout--single {
+
+    .mfp-arrow-left:after, .mfp-arrow-right:after {
+        border-top-width: 25px;
+        border-bottom-width: 25px;
+    }
+
+    .mfp-arrow-left:before, .mfp-arrow-left .mfp-b,
+    .mfp-arrow-right:before, .mfp-arrow-right .mfp-a {
+        border-right: unset;
+        border-left: unset;
+    }
+    
+    section.page__content {
+
+        & > figure a {
+            max-width: 50%;
+            margin-left: 25%;
+        }
+
+        & > figure a img {
+            max-height: 600px;
+            width: auto;
+        }
+
+        & > figure.half a img, & > figure.third a img {
+            max-width: 100%;
+            margin-left: unset;
+        }
+    }
+}
+
+/* ----- end Single ----- */
 
 /* ----- About ----- */
 
