@@ -14,19 +14,28 @@
       <a href="{{ f.url }}">
 
       {% capture image_path %}
-        {% if f.gallery %}
+        {% if f.image %}
+            {% assign image = f.image %}
+              {% if image contains "://" %}
+                {{ image }}
+              {% else %}
+                {{ image | prepend: "/" | prepend: site.prose.media | absolute_url }}
+              {% endif %}
+        {% elsif f.gallery %}
             {% assign image = f.gallery[0].image_path %}
               {% if image contains "://" %}
                 {{ image }}
               {% else %}
                 {{ image | prepend: "/" | prepend: site.prose.media | absolute_url }}
               {% endif %}
+        {% elsif f.video.id and f.video.provider == "vimeo" %}
+            {{ f.video.id }}
         {% else %}
             {{ 'logo-placeholder.svg' | prepend: "/" | prepend: site.prose.media | absolute_url }}
         {% endif %}
       {% endcapture %}
 
-      <div class="archive__item" style="background-image: url('{{ image_path | strip_newlines }}')">
+      <div class="archive__item {% if f.video.id and f.video.provider == 'vimeo' %}vimeo{% endif %}" style="background-image: url('{{ image_path | strip_newlines }}')" {% if f.video.id and f.video.provider == "vimeo" %}data-vimeoid="{{ f.video.id }}"{% endif %}>
 
       </div>
 

@@ -120,6 +120,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-minimagick
   - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
@@ -136,6 +137,12 @@ compress_html:
   ignore:
     envs: development
 
+# mini magick image processing
+mini_magick:
+  resize:
+    source: assets/images
+    destination: assets/images
+    resize: "800x>"
 
 # Defaults
 # defaults:

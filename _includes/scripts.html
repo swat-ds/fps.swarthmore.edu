@@ -56,6 +56,20 @@
           });
         });
 
+      $('.vimeo').each(function(){
+
+        var el = $(this);
+
+        $.ajax({
+          url:"https://vimeo.com/api/oembed.json",
+          data: { url: "http://vimeo.com/" + el.data('vimeoid') }
+        }).done(function( data ){
+          data.thumbnail_url
+          el.css('background-image', 'url("' + data.thumbnail_url + '")');
+        });
+
+      });
+
 </script>
 
 {% include analytics.html %}

@@ -62,6 +62,10 @@ layout: default
         
         {% endif %}
 
+        {% if page.video.id and page.video.provider %}
+          {% include video id = page.video.id provider = page.video.provider %}
+        {% endif %}
+
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
