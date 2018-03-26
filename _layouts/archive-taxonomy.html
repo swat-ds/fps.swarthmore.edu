@@ -3,13 +3,34 @@ layout: default
 author_profile: false
 ---
 
+{% if page.type == "tag" and page.title contains ":" %}
+
+    {% assign tags = page.title | split: ':' %}
+    
+    {% assign author_name = tags[1] %}
+    {% assign author = site.data.authors[author_name] %}
+    {% assign translation = site.data.translations.artist[author_name] %}
+
+{% else %}
+
+    {% assign translation = site.data.translations[page.type][page.title] %}
+
+{% endif %}
+
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
   <div class="archive">
-    <h1 class="page__title">{{ page.title }}</h1>
-    {% for post in page.posts %}
-      {% include archive-single.html %}
-    {% endfor %}
+
+        {% unless author_name %}
+        <h1 class="archive__category page__title">{% if translation %}<span class="ar">{{ translation }}</span><span class="bold"> / </span>{% endif %}<span class="en">{{ page.title }}</span></h1>
+        {% endunless %}
+
+        {% if author_name %}
+            {% include author-single.html author = author %}
+        {% endif %}
+
+        {% include post-row.html posts = page.posts %}
   </div>
 </div>

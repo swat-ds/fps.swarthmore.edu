@@ -15,6 +15,7 @@ include_categories:
 <div id="main" role="main">
   {% include sidebar.html %}
 
+
   <div id="{{ page.id }}">
 
     {% for current_category in page.include_categories %}
@@ -23,7 +24,8 @@ include_categories:
 
         <a class="archive__category" href="/{{ c }}"><h1><span class="ar">{{site.data.translations.categories[c]}}</span><span class="bold"> / </span><span class="en">{{ c }}</span></h1></a>
 
-        {% include category-row.html cat = c %}
+        {% assign category_posts = site.posts | where: 'categories', c %}
+        {% include post-row.html posts = category_posts %}
 
     {% endfor %}
 

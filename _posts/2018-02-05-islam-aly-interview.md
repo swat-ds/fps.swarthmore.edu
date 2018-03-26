@@ -1,6 +1,5 @@
 ---
 date: 2018-02-05
-layout: single
 title: Islam Aly Interview
 lang: en
 categories:

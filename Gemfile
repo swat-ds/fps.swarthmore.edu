@@ -23,4 +23,5 @@ gem "mini_magick"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-minimagick"
+   gem "jekyll-archives"
 end

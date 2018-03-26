@@ -9,7 +9,8 @@
 
         <h1 class="archive__category page__title"><span class="ar">{{site.data.translations.categories[c]}}</span><span class="bold"> / </span><span class="en">{{ c }}</span></h1>
 
-        {% include category-row.html cat = c %}
+        {% assign category_posts = site.posts | where: 'categories', c %}
+        {% include post-row.html posts = category_posts %}
 
     {% endfor %}
 

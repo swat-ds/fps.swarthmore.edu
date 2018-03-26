@@ -1,6 +1,5 @@
 ---
 date: 2017-12-11
-layout: single
 title: The Poetry of Ossama Ahmad Herkal
 excerpt: The Poetry of Ossama Ahmad Herkal
 lang: en

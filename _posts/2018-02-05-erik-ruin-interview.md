@@ -1,6 +1,5 @@
 ---
 date: 2018-02-05
-layout: single
 title: Erik Ruin Interview
 lang: en
 categories:

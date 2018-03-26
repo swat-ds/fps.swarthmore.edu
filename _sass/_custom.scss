@@ -277,7 +277,7 @@ div.masthead {
     margin-top: 8rem;
 
     @media screen and (max-width: $large){
-        margin-top: 10rem;
+        margin-top: 12rem;
     }
     
     p {
@@ -290,18 +290,19 @@ div.masthead {
     }
 
     h1.page__title {
-        margin: 0 0 2rem 0;
+        margin: 0 0 1rem 0;
         text-align: center;
         clear: both;
     }
 
 }
 
-.archive__category h1,
+h1.archive__category,
 h1.page__title {
 
     color: $primary-color;
-
+    padding-top: 2rem;
+    margin-bottom: 0;
     span.en {
         text-transform: capitalize;
     }
@@ -480,6 +481,7 @@ footer .fa { font-size: 2rem; }
     div.feature__item {
         text-align: center;
         min-width: 10rem;
+        max-width: 10rem;
         margin: .75rem;
 
         .archive__item-excerpt p {
@@ -507,7 +509,6 @@ footer .fa { font-size: 2rem; }
         background-position: center;
         background-size: cover;
     }
-
 }
 
 /* ----- end Front Page ----- */
@@ -690,3 +691,48 @@ img.pew-logo {
 }
 
 /*----- end Credits ------ */
+
+/*----- Artists ------ */
+
+#artists .artists-grid {
+    
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+
+    > div {
+        width: 20em;
+        margin-bottom: 2.5rem;
+    }
+
+    .author__avatar {
+
+        text-align: center;
+        img {
+            max-width: 175px;
+            display: inline-block;
+        }
+    }
+
+    .author__name {
+        text-align: center;
+    }
+}
+
+.archive .author__content  {
+    
+    a {
+        text-decoration: underline;
+        color: $link-color;
+    }
+
+   @media screen and (max-width: $small){
+
+
+    
+    }
+}
+
+/*----- end Artists ------ */
+

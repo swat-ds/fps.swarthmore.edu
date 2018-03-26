@@ -1,8 +1,6 @@
 <div class="feature__wrapper category-row">
 <hr/>
-{% for f in site.categories[include.cat] %}
-
-    {% assign i = i | plus: 1 %}
+{% for f in include.posts %}
 
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
