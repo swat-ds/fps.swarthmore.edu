@@ -16,16 +16,25 @@ classes:
 
 <hr/>
 
-- من اي الطرق يمكن للفن إغناء الحوارات، تغيير وتقريب وجهات النظر، زيادة التعاطف؟
-- كيف يمكن مشاركة الخبرات الشخصية من خلال خطوات عمل فني بخصوص الهجرة، النزوح أو اللجوء وزيادة الشعور بالانتماء؟
-- كيف يمكن للقصص التاريخية الخاصة النزوح ان تؤثر في فهمنا للحظة الراهنة؟
-- كيف يمكن ان تتخيل ان هذا المشروع يمكن ان يغيرك؟
+من اي الطرق يمكن للفن إغناء الحوارات، تغيير وتقريب وجهات النظر، زيادة التعاطف؟ 
 {: .ar.bold }
+In what ways can engaging with art inspire conversations, change perspectives, or increase empathy?
+{: .en }
+كيف يمكن مشاركة الخبرات الشخصية من خلال خطوات عمل فني بخصوص الهجرة، النزوح أو اللجوء وزيادة الشعور بالانتماء؟
+{: .ar.bold }
+How might sharing personal experiences through the process of making art about migration, displacement or refuge increase our senses of belonging?
+{: .en }
+كيف يمكن للقصص التاريخية الخاصة النزوح ان تؤثر في فهمنا للحظة الراهنة؟
+{: .ar.bold }
+How might historic stories of displacement impact understandings of our current moment?
+{: .en }
+كيف يمكن ان تتخيل ان هذا المشروع يمكن ان يغيرك؟
+{: .ar.bold }
+How do you imagine this project might change you?
+{: .en }
 
-- In what ways can engaging with art inspire conversations, change perspectives, or increase empathy?
-- How might sharing personal experiences through the process of making art about migration, displacement or refuge increase our senses of belonging?
-- How might historic stories of displacement impact understandings of our current moment?
-- How do you imagine this project might change you?
-- {: .en }
+
+
+
 
 <hr/>

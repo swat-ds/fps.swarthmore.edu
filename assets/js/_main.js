@@ -69,4 +69,60 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  $(document).on('scroll', function(d){
+
+      var currTop = $(this).scrollTop();
+
+      if ( currTop > 150 ){
+          $('.site-title img').addClass('little');
+      } else {
+          $('.site-title img').removeClass('little')
+      }
+  });
+
+  $('#site-nav.greedy-nav .visible-links li.has-children span').on({
+
+    click: function(){
+      $(this).parent().find('ul').toggleClass('show');
+    }
+
+  });
+
+  $.ajax({
+      url: "https://www.instagram.com/fpsbookarts/?__a=1",
+      dataType: 'json'
+    }).done(function( data ){
+
+        var el = $('#instagram-feed');          
+        var thumbs = data.graphql.user.edge_owner_to_timeline_media.edges;
+
+        thumbs.forEach(function(v,i) {
+
+          var thumb_url = v.node.thumbnail_resources[1].src;
+          var post_url = "https://instagram.com/p/" + v.node.shortcode;
+
+          var post = $('<a>').attr('href', post_url)
+              .addClass('post');
+              post.append('<div>').find('div')
+              .css('background-image', 'url(' + '"' + thumb_url + '")');
+
+          el.append(post);
+
+        });
+      });
+
+    $('.vimeo').each(function(){
+
+      var el = $(this);
+
+      $.ajax({
+        url:"https://vimeo.com/api/oembed.json",
+        data: { url: "http://vimeo.com/" + el.data('vimeoid') }
+      }).done(function( data ){
+        data.thumbnail_url
+        el.css('background-image', 'url("' + data.thumbnail_url + '")');
+      });
+
+    });
+
 });

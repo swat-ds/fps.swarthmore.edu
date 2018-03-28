@@ -1,23 +1,50 @@
-
+{% assign artist_tag = author.name | prepend: 'artist:' %}
+{% assign artist_posts = site.posts | where: 'tags', artist_tag %}
+{% assign artist_slug = author.name | prepend: "artist " | split: " " | join: "-" | downcase
+%}
 <div itemscope itemtype="http://schema.org/Person">
 
+  <div class="author__avatar">
   {% if author.avatar %}
-    <div class="author__avatar">
       {% if author.avatar contains "://" %}
         <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
       {% else %}
-        <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">
+        <img src="{{ author.avatar | prepend: '/' | prepend: site.prose.media | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">
       {% endif %}
-    </div>
+  {% else %}
+        <img src="{{ site.placeholder.image | prepend: '/' | prepend: site.prose.media | absolute_url }}" alt="{{ author.name }}" itemprop="image">
   {% endif %}
+  </div>
 
   <div class="author__content">
-    <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
+    <h2 class="author__name" itemprop="name">
+
+    {% if artist_posts.size > 0 %}
+    <a href="{{ artist_slug | relative_url }}">
+    {% endif %}
+
+    {{ author.name | upcase }}
+
+    {% if artist_posts.size > 0 %}
+    </a>
+    {% endif %}
+    </h2>
+    
+    <hr/>
+
     {% if author.bio %}
 
       {{ author.bio | markdownify }}
-<!--       <p class="author__bio" itemprop="description">
-       </p>
- -->    {% endif %}
+
+    {% else %}
+
+      {{ site.placeholder.bio | markdownify }}
+    
+    {% endif %}
+
+    {% if author.url %}
+      <a href="{{ author.url }}"><p>{{ author.url }}</p></a>
+    {% endif %}
+
   </div>
 </div>

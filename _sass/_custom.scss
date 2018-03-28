@@ -59,6 +59,10 @@
 
 /* ----- Globals ----- */
 
+body {
+    line-height: 1.5rem;
+}
+
 .page, .page .page__inner-wrap .page__content {
     max-width: $large;
 }
@@ -274,7 +278,7 @@ div.masthead {
 #main {
 
     padding: 1rem;
-    margin-top: 8rem;
+    margin-top: 5rem;
 
     @media screen and (max-width: $large){
         margin-top: 12rem;
@@ -290,7 +294,6 @@ div.masthead {
     }
 
     h1.page__title {
-        margin: 0 0 1rem 0;
         text-align: center;
         clear: both;
     }
@@ -306,6 +309,10 @@ h1.page__title {
     span.en {
         text-transform: capitalize;
     }
+}
+
+h1.archive__category.page__title {
+    padding-top: 3rem;
 }
 
 // Footer
@@ -342,7 +349,7 @@ footer .fa { font-size: 2rem; }
 
 .page__hero--overlay {
 
-    top: 8.5rem;
+    top: 9rem;
     height: 75vh;
     min-height: 32rem;
     @include linear-gradient(to bottom, '/assets/images/IslamAly1bio.jpg', rgba($blue,.8) 60%, rgba($gold,.7));
@@ -367,11 +374,11 @@ footer .fa { font-size: 2rem; }
         font-size: $type-size-1;
     }
 
-    #front-page {
+    .categories-wrap {
 
         width: 70%;
         float: left;
-        padding-top: 2rem;
+        padding-top: 3rem;
 
         @media screen and (max-width: $small){
             width: 100%;
@@ -382,10 +389,11 @@ footer .fa { font-size: 2rem; }
             display: block;
             text-decoration: none;
 
-            & h1,
+            & h1
             {
                 @include color-transition();
                 color: $blue;
+                margin-bottom: 0;
             }
 
             &:hover h1 span {
@@ -397,7 +405,7 @@ footer .fa { font-size: 2rem; }
 
 #widgets {
 
-    margin-top: 2rem;
+    margin-top: 3rem;
     width: 25%;
     float: right;
 
@@ -405,7 +413,9 @@ footer .fa { font-size: 2rem; }
 
     a .fa {
         @include color-transition();
-        font-size: 1.5rem;
+        font-size: $type-size-3;
+        line-height: 1.2em;
+        padding-bottom: .075em;
     }
 
     a:hover .fa, a:focus .fa {
@@ -425,7 +435,7 @@ footer .fa { font-size: 2rem; }
         height: 12rem;
         overflow: scroll;
     
-        padding-top: 1rem;
+        margin-top: 1rem;
         margin-bottom: 2rem;
 
         a.post {
@@ -459,30 +469,47 @@ footer .fa { font-size: 2rem; }
 
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
-    margin-bottom: 4rem;
+    justify-content: space-evenly;
+
+    a h3 {
+        position: relative;
+        margin-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    a h3:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 4px;
+        background: $salmon;
+        width: 100%;
+        -webkit-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        -webkit-transform: scaleX(0) translate3d(0, 0, 0);
+        transform: scaleX(0) translate3d(0, 0, 0);
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);    
+    }
+
+    a:hover h3:before {
+        -webkit-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+        transform: scaleX(1);
+    }
 
     a, a:focus, a:hover {
         text-decoration: none;
-        display: block;
-    }
-
-    a h2 {
-
-        display: inline-block;
-        border-bottom: 4px solid rgba($salmon,0);
-        margin-top: 1rem;
-    }
-
-    a:hover h2 {
-        border-bottom: 4px solid rgba($salmon,1);
     }
 
     div.feature__item {
+
         text-align: center;
-        min-width: 10rem;
+        margin: .25rem;
+        font-size: inherit;
+        float: unset;
         max-width: 10rem;
-        margin: .75rem;
 
         .archive__item-excerpt p {
             margin-top: 0rem;
@@ -505,7 +532,7 @@ footer .fa { font-size: 2rem; }
 
     div.feature__item .archive__item {
         height: 10rem;
-        width: 100%;
+        width: 10rem;
         background-position: center;
         background-size: cover;
     }
@@ -720,17 +747,21 @@ img.pew-logo {
     }
 }
 
-.archive .author__content  {
+.archive .author__content,
+.artists-grid .author__content  {
     
+    p { line-height: 1.5rem; }
+
     a {
         text-decoration: underline;
         color: $link-color;
     }
+}
 
-   @media screen and (max-width: $small){
-
-
-    
+.archive > div[itemtype="http://schema.org/Person"] {
+    margin-top: 2rem;
+    @media screen and (max-width: $x-large) and (min-width: $small) {
+        margin-top: 5rem;
     }
 }
 

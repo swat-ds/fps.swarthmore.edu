@@ -15,14 +15,16 @@ include_categories:
 <div id="main" role="main">
   {% include sidebar.html %}
 
+<div class="page__inner-wrap" id="{% if page.id %}{{ page.id }}{% endif %}">
 
-  <div id="{{ page.id }}">
+
+  <div class="categories-wrap">
 
     {% for current_category in page.include_categories %}
 
         {% assign c = current_category %}
 
-        <a class="archive__category" href="/{{ c }}"><h1><span class="ar">{{site.data.translations.categories[c]}}</span><span class="bold"> / </span><span class="en">{{ c }}</span></h1></a>
+        <a class="archive__category" href="/{{ c }}"><h1><span class="ar">{{site.data.translations.category[c]}}</span><span class="bold"> / </span><span class="en">{{ c | capitalize }}</span></h1></a>
 
         {% assign category_posts = site.posts | where: 'categories', c %}
         {% include post-row.html posts = category_posts %}
@@ -37,7 +39,7 @@ include_categories:
 
     <a href="https://instagram.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i></a>
 
-
+    <hr/>
     <!-- Instagram Widget Embed Start -->
     <!-- <div class="instawidget" data-user-name="fpsbookarts" data-amount="4" data-grid="2"></div> -->
     <!-- <script type="text/javascript" src="//www.stadget.com/cdn/widget-init.min.js"></script>
@@ -52,4 +54,5 @@ include_categories:
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
     </div>
+  </div>
 </div>

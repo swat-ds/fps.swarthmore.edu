@@ -16,7 +16,7 @@ $(document).ready(function(){
   var breakWidths = [];
 
   // Get initial state
-  $vlinks.children().outerWidth(function(i, w) {
+  $vlinks.children().not('.child').outerWidth(function(i, w) {
     totalSpace += w;
     numOfItems += 1;
     breakWidths.push(totalSpace);
@@ -28,7 +28,7 @@ $(document).ready(function(){
 
     // Get instant state
     availableSpace = $vlinks.width() - 10;
-    numOfVisibleItems = $vlinks.children().length;
+    numOfVisibleItems = $vlinks.children().not('.child').length;
     requiredSpace = breakWidths[numOfVisibleItems - 1];
 
     // There is not enough space

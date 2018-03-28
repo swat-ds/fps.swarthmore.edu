@@ -48,6 +48,12 @@ prose:
   rooturl: '_posts'
   media: 'assets/images'
 
+# Placeholders
+placeholder:
+  image: logo-placeholder.svg
+  bio: >
+    As part of FPS, members of the Iraq and Syrian refugee communities of Philadelphia have graciously contributed their valuable time, input and lent their experiences to the project.
+
 
 # Reading Files
 include:

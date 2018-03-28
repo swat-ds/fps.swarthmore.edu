@@ -21,7 +21,7 @@ author_profile: false
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive">
+  <div class="page__inner-wrap archive" id="{% if page.id %}{{ page.id }}{% endif %}">
 
         {% unless author_name %}
         <h1 class="archive__category page__title">{% if translation %}<span class="ar">{{ translation }}</span><span class="bold"> / </span>{% endif %}<span class="en">{{ page.title }}</span></h1>
