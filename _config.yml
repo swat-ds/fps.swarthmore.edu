@@ -181,9 +181,7 @@ prose:
       - name: "title"
         field:
           element: "text"
-          placeholder: "enter post title"
-          help: This will appear as the post title
-          label: "Title"
+          label: "title"
       - name: "date"
         field:
           element: "text"
@@ -211,7 +209,7 @@ prose:
       - name: "tags"
         field:
           element: "multiselect"
-          label: "tags"
+          label: "Tags"
           placeholder: "choose or add tags"
           alterable: true
           options:
@@ -245,12 +243,18 @@ prose:
               value: "artist:Raghad"
             - name: "Roula"
               value: "artist:Roula"
-      - name: "gallery"
+      - name: "image"
         field:
           element: "text"
-          help: Date of post affects in which order posts appear
-          value: CURRENT_DATETIME
-
-
-
-
+          label: "Grid thumbnail image"
+          help: This 
+          value: "enter the filename of an uploaded image"
+      - name: "gallery"
+        - name: "image_path"
+          field:
+            element: "text"
+            value: ""
+        - name: "alt"
+          field:
+            element: "text"
+            value: ""
