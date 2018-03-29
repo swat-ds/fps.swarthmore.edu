@@ -14,7 +14,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl_root }}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 <!--[if lte IE 9]>
   <style>
@@ -36,7 +36,7 @@
     {% if script contains "://" %}
       {% capture script_path %}{{ script }}{% endcapture %}
     {% else %}
-      {% capture script_path %}{{ script | prepend: site.baseurl_root }}{% endcapture %}
+      {% capture script_path %}{{ script | relative_url }}{% endcapture %}
     {% endif %}
     <script src="{{ script_path }}"></script>
   {% endfor %}
