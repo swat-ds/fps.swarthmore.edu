@@ -43,11 +43,6 @@ author:
   twitter          :
   url              : "https://www.swarthmore.edu/libraries"
 
-# Prose settings
-prose:
-  rooturl: '_posts'
-  media: 'assets/images'
-
 # Placeholders
 placeholder:
   image: logo-placeholder.svg
@@ -171,3 +166,91 @@ defaults:
       comments: false
       share: false
       related: false
+
+# Prose settings
+prose:
+  rooturl: '_posts'
+  media: 'assets/images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          placeholder: "enter post title"
+          help: This will appear as the post title
+          label: "Title"
+      - name: "date"
+        field:
+          element: "text"
+          help: Date of post affects in which order posts appear
+          value: CURRENT_DATETIME
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: "English"
+              value: "en"
+            - name: "Arabic"
+              value: "ar"
+      - name: "categories"
+        field:
+          element: "select"
+          label: "Categories"
+          placeholder: "choose categories"
+          options:
+            - name: "Events"
+              value: "Events"
+            - name: "Works"
+              value: "Works"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "tags"
+          placeholder: "choose or add tags"
+          alterable: true
+          options:
+            - name: "AJ"
+              value: "artist:AJ"
+            - name: "Abdul Karim"
+              value: "artist:Abdul Karim"
+            - name: "Asmaa"
+              value: "artist:Asmaa"
+            - name: "Courtney Bowles"
+              value: "artist:Courtney Bowles"
+            - name: "Erik Ruin"
+              value: "artist:Erik Ruin"
+            - name: "Fadaa"
+              value: "artist:Fadaa"
+            - name: "Fouad"
+              value: "artist:Fouad"
+            - name: "Islam Aly"
+              value: "artist:Islam Aly"
+            - name: "Layla"
+              value: "artist:Layla"
+            - name: "Mark Strandquist"
+              value: "artist:Mark Strandquist"
+            - name: "Maureen Cummins"
+              value: "artist:Maureen Cummins"
+            - name: "Mohamed"
+              value: "artist:Mohamed"
+            - name: "Ossama"
+              value: "artist:Ossama"
+            - name: "Raghad"
+              value: "artist:Raghad"
+            - name: "Roula"
+              value: "artist:Roula"
+      - name: "gallery"
+        field:
+          element: "text"
+          help: Date of post affects in which order posts appear
+          value: CURRENT_DATETIME
+
+
+
+
