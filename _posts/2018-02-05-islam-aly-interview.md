@@ -11,8 +11,3 @@ published: true
 ---
 
 An interview with Book Artist Islam Aly by Laurence Kesterson.
-
-
-Islam Aly: https://vimeo.com/254392481
-Maureen Cummins: https://vimeo.com/254392577
-Erik Ruin:https://vimeo.com/254392649

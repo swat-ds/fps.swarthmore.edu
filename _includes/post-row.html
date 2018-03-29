@@ -20,7 +20,11 @@
                 {{ image | prepend: "/" | prepend: site.prose.media | absolute_url }}
               {% endif %}
         {% elsif f.gallery %}
-            {% assign image = f.gallery[0].image_path %}
+            {% if f.gallery[0].image_path %}
+              {% assign image = f.gallery[0].image_path %}
+            {% else %}
+              {% assign image = f.gallery[0] %}
+            {% endif %}
               {% if image contains "://" %}
                 {{ image }}
               {% else %}

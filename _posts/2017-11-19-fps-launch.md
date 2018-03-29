@@ -2,14 +2,12 @@
 date: 2017-11-19
 title: Philadelphia Museum of Art Launch
 lang: en
-excerpt: Philadelphia Museum of Art Launch
 categories:
   - events
-tags: ['polo', 'artist:Marco Polo']
+tags: ['artist:Marco Polo']
 image: fps-launch-flyer-ar.jpg
 gallery:
-    - image_path: fps-launch-flyer-ar.jpg
-      alt: "friends peace and sanctuary launch flyer, arabic"
+    - fps-launch-flyer-ar.jpg
 published: true
 ---
 
