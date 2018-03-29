@@ -253,12 +253,12 @@ prose:
         field:
           element: multiselect
           label: "Gallery images"
-          help: Enter the filenames for uploaded images
+          help: Enter the filenames for uploaded images.
           alterable: true
           value: example.jpg
       - name: "published"
         field:
           element: checkbox
           label: "Published"
-          help: Check the box when post is ready to be published
+          help: Check the box when post is ready to be published.
           value: true

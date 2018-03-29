@@ -2,10 +2,9 @@
 date: 2017-11-19
 title: Philadelphia Museum of Art Launch
 lang: en
-excerpt: Philadelphia Museum of Art Launch
 categories:
   - events
-tags: ['polo', 'artist:Marco Polo']
+tags: ['artist:Marco Polo']
 image: fps-launch-flyer-ar.jpg
 gallery:
     - fps-launch-flyer-ar.jpg
