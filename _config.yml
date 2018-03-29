@@ -250,11 +250,9 @@ prose:
           help: This 
           value: "enter the filename of an uploaded image"
       - name: "gallery"
-        - name: "image_path"
-          field:
-            element: "text"
-            value: ""
-        - name: "alt"
-          field:
-            element: "text"
-            value: ""
+        field:
+          element: multiselect
+          label: "Gallery images"
+          helper: Enter the filenames for uploaded images
+          alterable: true
+          value: example.jpg

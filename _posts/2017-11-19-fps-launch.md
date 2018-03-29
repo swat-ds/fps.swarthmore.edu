@@ -8,8 +8,7 @@ categories:
 tags: ['polo', 'artist:Marco Polo']
 image: fps-launch-flyer-ar.jpg
 gallery:
-    - image_path: fps-launch-flyer-ar.jpg
-      alt: "friends peace and sanctuary launch flyer, arabic"
+    - fps-launch-flyer-ar.jpg
 published: true
 ---
 

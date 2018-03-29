@@ -2,7 +2,6 @@
 date: 2018-02-11
 title: Students & Collaborators Lunch
 excerpt: Students & Collaborators Lunch
-author: mp
 categories:
   - events
 published: true
