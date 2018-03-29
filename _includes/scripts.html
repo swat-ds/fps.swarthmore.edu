@@ -3,12 +3,12 @@
     {% if script contains "://" %}
       {% capture script_path %}{{ script }}{% endcapture %}
     {% else %}
-      {% capture script_path %}{{ script | prepend: baseurl_root }}{% endcapture %}
+      {% capture script_path %}{{ script | | relative_url }}{% endcapture %}
     {% endif %}
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% else %}
-  <script src="{{ '/assets/js/main.min.js' | prepend: baseurl_root }}"></script>
+  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 {% endif %}
 
 {% include analytics.html %}
