@@ -4,6 +4,8 @@ title: Erik Ruin Interview
 lang: en
 categories:
   - works
+tags:
+  - artist:Erik Ruin
 video: 
     id: 254392649
     provider: vimeo

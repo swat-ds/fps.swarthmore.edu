@@ -8,23 +8,26 @@ classes:
     - about
 
 ---
-ان مشروع كلية سوارثمور ( الصداقة، السلام والملاذ الآمن ) والمدعوم من مركز بي اي دبليو للفنون والتراث سيقوم بجمع عدد من الفنانين المختصين في مجال التصميم والتنفيذ الفني للكتب من خلال حوار بناء مع عدد من العراقيين والسوريين الذي تم إعادة توطينهم في مدينة فيلادلفيا. 
-ويعتمد هذا الحوار على عدد من الأسئلة التي تتعلق بالنزوح واللجوء، التاريخ والخبرات المكتسبة، وسيكتشف المشروع إمكانية الفنون في بناء التعاطف وخلق الشعور الكبير والعميق بالانتماء.
+مشروع كلية سوارثمور ( الصداقة، السلام والملاذ الآمن ) المدعوم من مركز بي اي دبليو للفنون والتراث سيقوم بجمع عدد
+من الفنانين المختصين في مجال التصميم والتنفيذ الفني للكتب من خلال حوار بناء مع عدد من العراقيين والسوريين الذين تم
+إعادة توطينهم في مدينة فيلادلفيا. ويعتمد هذا الحوار على عدد من الأسئلة التي تتعلق بالنزوح واللجوء، التاريخ و الخبرات
+المكتسبة، و سيكتسشف المشروع إمكانية الفنون في بناء التعاطف وخلق الشعور العميق بالانتماء.
 {: .ar.bold}
 
 <p>Swarthmore College’s <em>Friends, Peace, and Sanctuary</em> project, supported by The Pew Center for Arts & Heritage, brings renowned book artists into conversation with Syrian and Iraqi individuals who have resettled to Philadelphia. Driven by questions about displacement and refuge, history and experience, the project explores art’s capacity to build empathy and create a deeper sense of belonging.</p>
 
 <hr/>
 
-من اي الطرق يمكن للفن إغناء الحوارات، تغيير وتقريب وجهات النظر، زيادة التعاطف؟ 
+بأي طرق يمكن لإستخدام الفن ان يلهم الحوارات، يغير وجهات النظر، ويزيد التعاطف؟ 
 {: .ar.bold }
 In what ways can engaging with art inspire conversations, change perspectives, or increase empathy?
 {: .en }
-كيف يمكن مشاركة الخبرات الشخصية من خلال خطوات عمل فني بخصوص الهجرة، النزوح أو اللجوء وزيادة الشعور بالانتماء؟
+كيف يمكن لمشاركة الخبرات الشخصية من خلال الأعمال الفنية بخصوص الهجرة، النزوح أو
+اللجوء زيادة الشعور بالانتماء؟
 {: .ar.bold }
 How might sharing personal experiences through the process of making art about migration, displacement or refuge increase our senses of belonging?
 {: .en }
-كيف يمكن للقصص التاريخية الخاصة النزوح ان تؤثر في فهمنا للحظة الراهنة؟
+كيف يمكن للقصص التاريخية للنزوح ان تؤثر على فهمنا للحظة الراهنة؟
 {: .ar.bold }
 How might historic stories of displacement impact understandings of our current moment?
 {: .en }

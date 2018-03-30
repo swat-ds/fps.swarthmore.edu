@@ -4,6 +4,8 @@ title: Maureen Cummins Interview
 lang: en
 categories:
   - works
+tags:
+  - artist:Maureen Cummins
 video: 
     id: 254392577
     provider: vimeo

@@ -4,6 +4,8 @@ title: Islam Aly Interview
 lang: en
 categories:
   - works
+tags:
+  - artist:Islam Aly
 video: 
     id: 254392481
     provider: vimeo
