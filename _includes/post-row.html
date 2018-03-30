@@ -37,7 +37,7 @@
         {% endif %}
       {% endcapture %}
 
-      <div class="archive__item {% if f.video.id and f.video.provider == 'vimeo' %}vimeo{% endif %}" style="background-image: url('{{ image_path | strip_newlines }}')" {% if f.video.id and f.video.provider == "vimeo" %}data-vimeoid="{{ f.video.id }}"{% endif %}>
+      <div class="archive__item {% if f.video.id and f.video.provider == 'vimeo' %}vimeo{% endif %} {% if f.custom_thumbnail %}custom-thumbnail{% endif %}" style="background-image: url('{{ image_path | strip_newlines }}')" {% if f.video.id and f.video.provider == "vimeo" %}data-vimeoid="{{ f.video.id }}"{% endif %}>
 
       </div>
 

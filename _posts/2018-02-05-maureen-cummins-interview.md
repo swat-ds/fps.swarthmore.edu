@@ -6,6 +6,8 @@ categories:
   - works
 tags:
   - artist:Maureen Cummins
+custom_thumbnail: true
+image: Maureen-Cummins-09.jpg
 video: 
     id: 254392577
     provider: vimeo

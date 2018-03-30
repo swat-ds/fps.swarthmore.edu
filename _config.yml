@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Swarthmore College"
 # url                      : # "https://mmistakes.github.io"
 url                      : #""
-baseurl                  : "/fps.swarthmore.edu"
+baseurl                  : ""
 languages                : ["en", "ar"]
 exclude_from_localizations: ["assets","assets/js","assets/images","assets/css","assets/fonts"]
 

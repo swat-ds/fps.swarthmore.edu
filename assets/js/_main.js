@@ -111,7 +111,7 @@ $(document).ready(function(){
         });
       });
 
-    $('.vimeo').each(function(){
+    $('.vimeo').not('.custom-thumbnail').each(function(){
 
       var el = $(this);
 
