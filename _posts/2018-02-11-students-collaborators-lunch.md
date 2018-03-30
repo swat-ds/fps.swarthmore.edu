@@ -5,7 +5,7 @@ excerpt: Students & Collaborators Lunch
 categories: events
 published: true
 lang: en
-image: Photo-for-lunch.jpg
+image: Photo-for-Lunch.jpg
 gallery:
   - Photo-for-lunch.jpg
 ---
