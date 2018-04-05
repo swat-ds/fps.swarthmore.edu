@@ -10,7 +10,7 @@ published: true
 image: 'i.e., example.jpg'
 ---
 
-Those who know Friends, Peace, and Sanctuary Artistic Collaborator Ossama Ahmad Herkal know about his love of cooking and his talent as a chef. What some may not know is that he is also a poet. Those of us who have had the opportunity to taste his food will recognize his ability to transform the everyday into a deeply affecting experience. Like the food that he makes, his poetry gives us the opportunity to share in something both transcendent and sustaining. For those who have not had the chance to taste Ossama’s cooking, we hope that you enjoy this poetry. There is a connection between the practices.  
+Those who know _Friends, Peace, and Sanctuary_ Artistic Collaborator Ossama Ahmad Herkal know about his love of cooking and his talent as a chef. What some may not know is that he is also a poet. Those of us who have had the opportunity to taste his food will recognize his ability to transform the everyday into a deeply affecting experience. Like the food that he makes, his poetry gives us the opportunity to share in something both transcendent and sustaining. For those who have not had the chance to taste Ossama’s cooking, we hope that you enjoy this poetry. There is a connection between the practices.  
 
 We also want to recognize the talent and artistry of Dana Beseiso, a current Swarthmore student who translated these poems. Translation is itself an art. As Dana has pointed out in notes, much can be lost (perhaps often) between English and Arabic. There is tremendous gain here as well, though. We feel very fortunate and privileged to be able to provide English and Arabic speakers samples of Ossama’s work. This is possible thanks to Dana’s talent and generosity.
 
