@@ -55,7 +55,7 @@ There is always a mysterious thing directing our hearts
 <br/>And with the light of the sun
 <br/>And the smile of the moon
 <br/>We live loving life
-<br/>And we die [leave] in silence [without noise]
+<br/>And we die in silence
 
 <br/>قصة موجة 
 <br/>مشيت في مكان اعشقه
@@ -89,10 +89,10 @@ I want to be happy
 <br/>Something that blends with laughter and crazy love
 <br/>Something which puts back the spark in my eyes .. and brings back the love for <br/>this life [to my secrets]
 <br/>It makes me see the beauty around me
-<br/>As it sees it, better and brighter [not sure about this one]
+<br/>As it sees it, better and brighter 
 <br/>My words today don't do me justice, and my letters don't express me as they <br/>should
 <br/>The emotions inside me will explode with love .. and my feelings will fill the <br/>world with laughter and happiness
-<br/>My lips paint a laugh forever on my face .. and my smile which never parts <br/>with me, is now prettier and brighter [bigger/wider]
+<br/>My lips paint a laugh forever on my face .. and my smile which never parts <br/>with me, is now prettier and brighter
 <br/>That smile which was occasionally on my small lips, and soft face and rosy <br/>cheeks
 <br/>Is now part of me and of my life
 <br/>But for my rosy cheeks there is a different story .. the pathway to my flood <br/>of tears
@@ -100,7 +100,6 @@ I want to be happy
 <br/>The tears of resistance and victory
 <br/>A shining gem, similar to the dew drops of the morning
 <br/>One filled with love for flowers, one which awaits the kiss of a bee, one <br/>which paints a smile on my face, a smile crafted with the feathers of nature, <br/>filled with the colors of the spring, colors which speak the language of love, <br/>and it makes me laugh and laugh and smile, and love life
-[I changed the last line a bit because I felt like a lot will be lost in translation if translated literally]
 
 <hr/>
 
