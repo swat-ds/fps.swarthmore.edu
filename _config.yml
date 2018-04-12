@@ -248,14 +248,12 @@ prose:
           element: "text"
           label: "Grid thumbnail image"
           help: "Filename of uploaded image to appear as grid thumbnail. If no file indicated, will use the first gallery image."
-          value: i.e., example.jpg
       - name: "gallery"
         field:
           element: multiselect
           label: "Gallery images"
           help: Enter the filenames for uploaded images.
           alterable: true
-          value: example.jpg
       - name: "published"
         field:
           element: checkbox
