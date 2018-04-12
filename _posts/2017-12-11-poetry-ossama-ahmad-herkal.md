@@ -7,7 +7,6 @@ categories: works
 tags:
   - 'artist:Ossama'
 published: true
-image: 'i.e., example.jpg'
 ---
 
 Those who know _Friends, Peace, and Sanctuary_ Artistic Collaborator Ossama Ahmad Herkal know about his love of cooking and his talent as a chef. What some may not know is that he is also a poet. Those of us who have had the opportunity to taste his food will recognize his ability to transform the everyday into a deeply affecting experience. Like the food that he makes, his poetry gives us the opportunity to share in something both transcendent and sustaining. For those who have not had the chance to taste Ossama’s cooking, we hope that you enjoy this poetry. There is a connection between the practices.  
