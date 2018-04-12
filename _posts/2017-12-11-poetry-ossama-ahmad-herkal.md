@@ -1,18 +1,18 @@
 ---
-date: 2017-12-11
+date: 'Sun Dec 10 2017 19:00:00 GMT-0500 (EST)'
 title: The Poetry of Ossama Ahmad Herkal
 excerpt: The Poetry of Ossama Ahmad Herkal
 lang: en
-categories:
-  - works
+categories: works
 tags:
-    - artist:Ossama
+  - 'artist:Ossama'
 published: true
+image: 'i.e., example.jpg'
 ---
 
-Those who know Friends, Peace, and Sanctuary Artistic Collaborator Ossama Ahmad Herkal know about his love of cooking and his talent as a chef. What some may not know is that he is also a poet. Those of us who have had the opportunity to taste his food will recognize his ability to transform the everyday into a deeply affecting experience. Like the food that he makes his poetry gives us the opportunity to share in something capable of both transcendent and sustaining. For those who have not had the chance to taste Ossama’s cooking we hope that you enjoy this poetry. There is a connection between the practices.  
+Those who know _Friends, Peace, and Sanctuary_ Artistic Collaborator Ossama Ahmad Herkal know about his love of cooking and his talent as a chef. What some may not know is that he is also a poet. Those of us who have had the opportunity to taste his food will recognize his ability to transform the everyday into a deeply affecting experience. Like the food that he makes, his poetry gives us the opportunity to share in something both transcendent and sustaining. For those who have not had the chance to taste Ossama’s cooking, we hope that you enjoy this poetry. There is a connection between the practices.  
 
-We also want to recognize the talent and artistry of Dana Beseiso. Dana  translated these poems. Translation, is itself an art. As Dana has pointed out in notes, much can be lost (perhaps often between English and Arabic). There is tremendous gain here as well, though. We feel very fortunate and privileged to be able to provide English and Arabic speakers samples of Ossama’s work. This is possible thanks to Dana’s talent and generosity.
+We also want to recognize the talent and artistry of Dana Beseiso, a current Swarthmore student who translated these poems. Translation is itself an art. As Dana has pointed out in notes, much can be lost (perhaps often) between English and Arabic. There is tremendous gain here as well, though. We feel very fortunate and privileged to be able to provide English and Arabic speakers samples of Ossama’s work. This is possible thanks to Dana’s talent and generosity.
 
 <hr/>
 
@@ -55,7 +55,7 @@ There is always a mysterious thing directing our hearts
 <br/>And with the light of the sun
 <br/>And the smile of the moon
 <br/>We live loving life
-<br/>And we die [leave] in silence [without noise]
+<br/>And we die in silence
 
 <br/>قصة موجة 
 <br/>مشيت في مكان اعشقه
@@ -89,10 +89,10 @@ I want to be happy
 <br/>Something that blends with laughter and crazy love
 <br/>Something which puts back the spark in my eyes .. and brings back the love for <br/>this life [to my secrets]
 <br/>It makes me see the beauty around me
-<br/>As it sees it, better and brighter [not sure about this one]
+<br/>As it sees it, better and brighter 
 <br/>My words today don't do me justice, and my letters don't express me as they <br/>should
 <br/>The emotions inside me will explode with love .. and my feelings will fill the <br/>world with laughter and happiness
-<br/>My lips paint a laugh forever on my face .. and my smile which never parts <br/>with me, is now prettier and brighter [bigger/wider]
+<br/>My lips paint a laugh forever on my face .. and my smile which never parts <br/>with me, is now prettier and brighter
 <br/>That smile which was occasionally on my small lips, and soft face and rosy <br/>cheeks
 <br/>Is now part of me and of my life
 <br/>But for my rosy cheeks there is a different story .. the pathway to my flood <br/>of tears
@@ -100,7 +100,6 @@ I want to be happy
 <br/>The tears of resistance and victory
 <br/>A shining gem, similar to the dew drops of the morning
 <br/>One filled with love for flowers, one which awaits the kiss of a bee, one <br/>which paints a smile on my face, a smile crafted with the feathers of nature, <br/>filled with the colors of the spring, colors which speak the language of love, <br/>and it makes me laugh and laugh and smile, and love life
-[I changed the last line a bit because I felt like a lot will be lost in translation if translated literally]
 
 <hr/>
 
