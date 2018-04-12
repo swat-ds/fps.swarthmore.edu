@@ -203,9 +203,9 @@ prose:
           placeholder: "choose categories"
           options:
             - name: "Events"
-              value: "Events"
+              value: "events"
             - name: "Works"
-              value: "Works"
+              value: "works"
       - name: "tags"
         field:
           element: "multiselect"
