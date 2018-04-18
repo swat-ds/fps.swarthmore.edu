@@ -2,6 +2,8 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
+var test = 'test';
+
 $(document).ready(function(){
 
   // Sticky footer
@@ -88,28 +90,64 @@ $(document).ready(function(){
 
   });
 
+  // data = $.ajax({ url: 'https://www.instagram.com/fpsbookarts/' })
+  // var cont = document.createElement('div');
+  // cont.innerHTML = data.responseText
+  // parsed = $.parseHTML(cont)
+  // data = parsed.find('script')[2].innerHTML
+  // data = data.substring(20, data.length - 1)
+  // igjson = JSON.parse(data)
+
   $.ajax({
-      url: "https://www.instagram.com/fpsbookarts/?__a=1",
-      dataType: 'json'
-    }).done(function( data ){
+    url: 'https://www.instagram.com/fpsbookarts/',
+    dataType: 'html'
+  }).done(function(data){
+    var container = document.createElement('div');
+    container.innerHTML = data;
+    var igjson = $(container).find('script')[2].innerHTML;
+    igjson = igjson.substring(20,igjson.length-1);
+    igjson = JSON.parse(igjson);
+    igjson = igjson.entry_data.ProfilePage[0];
+    
+    var el = $('#instagram-feed');          
+    var thumbs = igjson.graphql.user.edge_owner_to_timeline_media.edges;
 
-        var el = $('#instagram-feed');          
-        var thumbs = data.graphql.user.edge_owner_to_timeline_media.edges;
+    thumbs.forEach(function(v,i) {
 
-        thumbs.forEach(function(v,i) {
+      var thumb_url = v.node.thumbnail_resources[1].src;
+      var post_url = "https://instagram.com/p/" + v.node.shortcode;
 
-          var thumb_url = v.node.thumbnail_resources[1].src;
-          var post_url = "https://instagram.com/p/" + v.node.shortcode;
+      var post = $('<a>').attr('href', post_url)
+          .addClass('post');
+          post.append('<div>').find('div')
+          .css('background-image', 'url(' + '"' + thumb_url + '")');
 
-          var post = $('<a>').attr('href', post_url)
-              .addClass('post');
-              post.append('<div>').find('div')
-              .css('background-image', 'url(' + '"' + thumb_url + '")');
+      el.append(post);
+    });
+  });
 
-          el.append(post);
+  // $.ajax({
+  //     url: "https://www.instagram.com/fpsbookarts/?__a=1",
+  //     dataType: 'json'
+  //   }).done(function( data ){
 
-        });
-      });
+  //       var el = $('#instagram-feed');          
+  //       var thumbs = data.graphql.user.edge_owner_to_timeline_media.edges;
+
+  //       thumbs.forEach(function(v,i) {
+
+  //         var thumb_url = v.node.thumbnail_resources[1].src;
+  //         var post_url = "https://instagram.com/p/" + v.node.shortcode;
+
+  //         var post = $('<a>').attr('href', post_url)
+  //             .addClass('post');
+  //             post.append('<div>').find('div')
+  //             .css('background-image', 'url(' + '"' + thumb_url + '")');
+
+  //         el.append(post);
+
+  //       });
+  //     });
 
     $('.vimeo').not('.custom-thumbnail').each(function(){
 
