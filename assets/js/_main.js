@@ -90,27 +90,16 @@ $(document).ready(function(){
 
   });
 
-  // data = $.ajax({ url: 'https://www.instagram.com/fpsbookarts/' })
-  // var cont = document.createElement('div');
-  // cont.innerHTML = data.responseText
-  // parsed = $.parseHTML(cont)
-  // data = parsed.find('script')[2].innerHTML
-  // data = data.substring(20, data.length - 1)
-  // igjson = JSON.parse(data)
-
   $.ajax({
     url: 'https://www.instagram.com/fpsbookarts/',
     dataType: 'html'
   }).done(function(data){
-    var container = document.createElement('div');
-    container.innerHTML = data;
-    var igjson = $(container).find('script')[2].innerHTML;
-    igjson = igjson.substring(20,igjson.length-1);
-    igjson = JSON.parse(igjson);
-    igjson = igjson.entry_data.ProfilePage[0];
-    
+
+    // kludgey but works! thanks [pablo](https://stackoverflow.com/users/9487894/pablo)
+    data = JSON.parse(data.split("window._sharedData = ")[1].split(";</script>")[0]).entry_data.ProfilePage[0];
+
     var el = $('#instagram-feed');          
-    var thumbs = igjson.graphql.user.edge_owner_to_timeline_media.edges;
+    var thumbs = data.graphql.user.edge_owner_to_timeline_media.edges;
 
     thumbs.forEach(function(v,i) {
 
