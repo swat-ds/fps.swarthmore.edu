@@ -18,6 +18,10 @@ Nora Elmarzouky
 Suzanne L. Seesman
 ### <span class="ar">المدير الفني</span> / Artistic Director 
 
+Dana Beseiso
+### <span class="ar">متدربة في وسائل التواصل الاجتماعي</span> / Social Media Intern
+
+
 Peggy Seiden 
 ### <span class="ar">مدير المشروع</span> / Project Director
 ### <span class="ar">أمين مكتبة جامعة سوارثمور</span> / College Librarian for Swarthmore College 
