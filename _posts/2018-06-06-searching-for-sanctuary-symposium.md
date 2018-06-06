@@ -13,7 +13,7 @@ gallery:
     searching_for_sanctuary_2.jpg, searching_for_sanctuary_3.jpg,
     searching_for_sanctuary_4.jpg
 ---
-On May 5th, 2018, Swarthmore College held an end-of-semester symposium called Searching for Sanctuary: Borders, Migration, and Human Rights. The symposium included, among other things, a panel on sanctuary that was moderated by Assistant Professor of English Literature Sangina Patnaik. The panel included the following speakers:
+On May 5th, 2018, Swarthmore College held an end-of-semester symposium called **Searching for Sanctuary: Borders, Migration, and Human Rights**. The symposium included, among other things, a panel on sanctuary that was moderated by Assistant Professor of English Literature Sangina Patnaik. The panel included the following speakers:
 	- Jennifer Marks-Gold, Director of International Student Services, Swarthmore College
 	- Walid Musarsa, Board Member, Every Campus a Refuge
 	- Cynthia Dewi Oka, facilitator of Sanctuary: A Migrant Poetry Workshop
