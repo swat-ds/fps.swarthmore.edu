@@ -19,7 +19,6 @@ On May 5th, 2018, Swarthmore College held an end-of-semester symposium called **
 - Walid Musarsa, Board Member, Every Campus a Refuge
 - Cynthia Dewi Oka, facilitator of Sanctuary: A Migrant Poetry Workshop
 - Osama Herkal, collaborator on Friends, Peace, and Sanctuary    
-
 The panelists were asked, “How did immigration and forced migration play a central role in understanding your work?” Each of the four speakers had a deeply personal response to the question, but Osama’s was particularly poignant.
 
 When it was Osama’s turn to respond to Prof. Patnaik’s question, Osama chose to stand as a sign of respect for and importance of the story he was about to share. Speaking in Arabic, Walid—who had met Osama through the Friends, Peace, and Sanctuary project— interpreted his story for the audience to understand. This was a testament to the space of trust and sanctuary that was created through the project and  extended into the symposium.
