@@ -16,10 +16,10 @@ gallery:
 ---
 On May 5th, 2018, Swarthmore College held an end-of-semester symposium called **[Searching for Sanctuary: Borders, Migration, and Human Rights](https://swarthmoremigrationseries.wordpress.com/)**. The symposium included, among other things, a panel on sanctuary that was moderated by Assistant Professor of English Literature Sangina Patnaik. The panel included the following speakers:
 
-	- Jennifer Marks-Gold, Director of International Student Services, Swarthmore College
-    - Walid Musarsa, Board Member, Every Campus a Refuge
-    - Cynthia Dewi Oka, facilitator of Sanctuary: A Migrant Poetry Workshop
-    - Osama Herkal, collaborator on Friends, Peace, and Sanctuary 
+- Jennifer Marks-Gold, Director of International Student Services, Swarthmore College
+- Walid Musarsa, Board Member, Every Campus a Refuge
+- Cynthia Dewi Oka, facilitator of Sanctuary: A Migrant Poetry Workshop
+- Osama Herkal, collaborator on Friends, Peace, and Sanctuary 
     
 The panelists were asked, “How did immigration and forced migration play a central role in understanding your work?” Each of the four speakers had a deeply personal response to the question, but Osama’s was particularly poignant.
 
