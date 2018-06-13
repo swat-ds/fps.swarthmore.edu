@@ -16,6 +16,7 @@ gallery:
 ---
 
 On May 5th, 2018, Swarthmore College held an end-of-semester symposium called **[Searching for Sanctuary: Borders, Migration, and Human Rights](https://swarthmoremigrationseries.wordpress.com/)**. The symposium included, among other things, a panel on sanctuary that was moderated by Assistant Professor of English Literature Sangina Patnaik. The panel included the following speakers:
+
 - Jennifer Marks-Gold, Director of International Student Services, Swarthmore College
 - Walid Musarsa, Board Member, Every Campus a Refuge
 - Cynthia Dewi Oka, facilitator of Sanctuary: A Migrant Poetry Workshop
