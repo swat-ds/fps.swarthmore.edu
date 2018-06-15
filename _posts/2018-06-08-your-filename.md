@@ -3,6 +3,10 @@ date: '2018-06-08 18:58 -0400'
 lang: en
 published: false
 title: 'Open Letters by the Collaborators '
+categories: works
+tags:
+  - 'artist:Abdul Karim'
+  - 'artist:Ossama'
 ---
 Courtney Bowles and Mark Strandquist are dedicated social practice artists whose work is grounded in transforming narratives, particularly around re-entry. Working on the Friends, Peace, and Sanctuary project, they are engaged with members of the Syrian and Iraqi community who have resettled in Philadelphia using similar methods to provide a platform to tell their individual stories. 
 
@@ -190,4 +194,3 @@ And yet rockets are the only thing you can hear
 And death is the only thing you can see
 
 Our revolution was born from pain, lived in pain, and will win (our victory will be) with pain.
-
