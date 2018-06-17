@@ -1,5 +1,5 @@
 ---
-date: '2018-06-08 18:58 -0400'
+date: '2018-06-08 11:07 -0400'
 lang: en
 published: true
 title: 'Open Letters by the Collaborators '
