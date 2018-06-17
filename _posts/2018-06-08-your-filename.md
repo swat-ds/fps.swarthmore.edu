@@ -1,7 +1,7 @@
 ---
 date: '2018-06-08 18:58 -0400'
 lang: en
-published: false
+published: true
 title: 'Open Letters by the Collaborators '
 categories: works
 tags:
