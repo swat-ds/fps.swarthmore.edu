@@ -1,11 +1,13 @@
 ---
 date: '2018-06-08 11:07 -0400'
 lang: en
-published: false
+published: true
 title: 'Open Letters From Collaborators '
 categories: works
 tags:
   - 'artist:Abdul Karim'
+  - 'artist:Courtney Bowles'
+  - 'artist:Mark Strandquist'
   - 'artist:Ossama'
 ---
 Courtney Bowles and Mark Strandquist are dedicated social practice artists whose work is grounded in transforming narratives, particularly around re-entry. Working on the Friends, Peace, and Sanctuary project, they are engaged with members of the Syrian and Iraqi community who have resettled in Philadelphia using similar methods to provide a platform to tell their individual stories. 
