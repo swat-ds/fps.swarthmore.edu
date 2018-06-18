@@ -2,7 +2,7 @@
 date: '2018-06-08 11:07 -0400'
 lang: en
 published: true
-title: 'Open Letters by the Collaborators '
+title: 'Open Letters From Collaborators '
 categories: works
 tags:
   - 'artist:Abdul Karim'
@@ -12,7 +12,7 @@ Courtney Bowles and Mark Strandquist are dedicated social practice artists whose
 
 Mark and Courtney's fourth workshop with the collaborators took place in the Main Branch of the [Free Library of Philadelphia](https://www.freelibrary.org) during the weekend the US, France, and UK carried out strikes on Syria. In lieu of some of the previously planned activities, much of the time was dedicated to writing letters to a person, organization, government - real or imagined - about something participants wished that entity knew. Many tears were shed as people read their letters out loud in a circle to each other. They ranged from expressing outrage over blatant media lying and violence and destruction in the world to expressing love for new friends, open arms, and learning together. You can view some of the letters below. 
 
-**A Letter from Abdul Karim Awwad:** 
+**A Letter from Abdul Karim Awad:** 
 
 _Arabic:_
 
