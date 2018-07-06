@@ -3,27 +3,35 @@ main:
   - title: about
     url: /about/
     children:
-      - title: credits
-        url: /credits/
-  - title: credits
-    url: /credits/
+      - title: project team
+        url: /project-team/
+  - title: project team
+    url: /project-team/
+    tag: child
+  - title: partner organizations
+    url: /partner-organizations/
     tag: child
   - title: project
     url: /
     children:
+      - title: workshops
+        url: /workshops/
       - title: artists
         url: /artists/
       - title: works
         url: /works/
-      - title: events
+      - title: public events
         url: /events/
+  - title: workshops
+    url: /workshops/
+    tag: child
   - title: artists
     url: /artists/
     tag: child
   - title: works
     url: /works/
     tag: child
-  - title: events
+  - title: public events
     url: /events/
     tag: child
   # - title: resources

@@ -1,13 +1,16 @@
 nav:
   about: "معلومات عنا"
-  credits: "شكر وتقدير"
+  project team: "الادارة المشروع"
   project: "مشروع"
   artists: "الفنانين"
   resources: "موارد"
   works: "أعمال فنية"
-  events: "أحداث"
+  public events: "المناسبات العامة"
+  workshops: "ورش عمل"
+  partner organizations: "المنظمات الشريكة"
 category:
   works: "أعمال فنية"
-  events: "أحداث"
+  public events: "المناسبات العامة"
+  workshops: "ورش عمل"
 footer:
   swarthmore: "جامعة سوارثمور"
