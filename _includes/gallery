@@ -4,13 +4,19 @@
   {% assign gallery = page.gallery %}
 {% endif %}
 
-{% if gallery.size == 2 %}
+{% comment %}
+
+{% if gallery.size == 1 %}
+  {% assign gallery_layout = 'single' %}
+{% elsif gallery.size == 2 %}
   {% assign gallery_layout = 'half' %}
 {% elsif gallery.size >= 3 %}
   {% assign gallery_layout = 'third' %}
 {% else %}
   {% assign gallery_layout = '' %}
 {% endif %}
+
+{% endcomment %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
 
@@ -29,6 +35,7 @@
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
       >
+
         <img src=
           {% if img.image_path contains "://" %}
             "{{ img.image_path }}"
@@ -40,6 +47,8 @@
             "{{ img | prepend: "/" | prepend: site.prose.media | absolute_url }}"
           {% endif %}
           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+          {% if gallery.size > 1 %}<i class="fa fa-fw fa-plus" aria-hidden="true"></i>{% endif %}
+
       </a>
     {% else %}
       <a href=

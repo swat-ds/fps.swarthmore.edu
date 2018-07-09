@@ -1,8 +1,8 @@
 ---
 
 layout: single
-title: Credits
-permalink: /credits/
+title: Project Team
+permalink: /project-team/
 id: credits
 
 ---
@@ -28,7 +28,7 @@ Peggy Seiden
 
 Katie Price 
 ### <span class="ar">مدير المشروع</span> / Project Director 
-### <span class="ar">مدير مساعد مركز (لانج) للمسؤولية المدنية والاجتماعية</span> / Assistant Director, Lang Center for Civic & Social Responsibility
+### <span class="ar">مدير مساعد مركز (لانج) للمسؤولية المدنية والاجتماعية</span><br/> Assistant Director, Lang Center for Civic & Social Responsibility
 
 <span class="ar bold">وقد تم دعم مشروع (الصداقة، السلام والملاذ الآمن) من مركز (بيو) للفنون والتراث</span><br/>*Friends, Peace, & Sanctuary has been supported by* <br/> [The Pew Center for Arts & Heritage](http://www.pcah.us/)
 

@@ -3,7 +3,8 @@ date: '2018-06-08 11:07 -0400'
 lang: en
 published: true
 title: 'Open Letters From Collaborators '
-categories: works
+categories:
+    - works
 tags:
   - 'artist:Abdul Karim'
   - 'artist:Courtney Bowles'

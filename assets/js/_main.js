@@ -84,10 +84,23 @@ $(document).ready(function(){
 
   $('#site-nav.greedy-nav .visible-links li.has-children span').on({
 
-    click: function(){
-      $(this).parent().find('ul').toggleClass('show');
-    }
+    mouseover: function() {
 
+      var target = $(this).parent().find('ul');
+      if (!target.attr('class').includes('show')) {
+          target.toggleClass('show');
+      }
+          
+      setTimeout( function(){
+
+        var target = $(this).parent().find('ul');
+        if (target.attr('class').includes('show')) {
+          target.toggleClass('show');
+        }
+
+      }.bind(this), 2000);
+ 
+    }
   });
 
   $.ajax({

@@ -6,7 +6,7 @@ classes:
 header: true
 excerpt: "Driven by questions about displacement and refuge, history and experience, Friends, Peace, &amp; Sanctuary explores art’s capacity to build empathy and create a deeper sense of belonging."
 include_categories:
- - events
+ - public events
  - works
 ---
 
@@ -24,7 +24,12 @@ include_categories:
 
         {% assign c = current_category %}
 
-        <a class="archive__category" href="/{{ c }}"><h1><span class="ar">{{site.data.translations.category[c]}}</span><span class="bold"> / </span><span class="en">{{ c | capitalize }}</span></h1></a>
+        <a class="archive__category" href="/{{ c }}"><h1><span class="ar">{{site.data.translations.category[c]}}</span><span class="bold"> / </span><span class="en">
+        {% assign c_title = c | split: " " %}
+        {% for word in c_title %}
+          {{ word | capitalize }}
+        {% endfor%}
+        </span></h1></a>
 
         {% assign category_posts = site.posts | where: 'categories', c %}
         {% include post-row.html posts = category_posts %}

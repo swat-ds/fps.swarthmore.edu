@@ -2,7 +2,8 @@
 date: 'Sat Nov 18 2017 19:00:00 GMT-0500 (EST)'
 title: Philadelphia Museum of Art Launch
 lang: en
-categories: events
+categories:
+    - public events
 tags:
   - 'artist:Marco Polo'
 image: fps-launch-flyer-ar.jpg

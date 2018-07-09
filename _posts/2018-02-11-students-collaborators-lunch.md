@@ -2,7 +2,8 @@
 date: 'Sat Feb 10 2018 19:00:00 GMT-0500 (EST)'
 title: Students & Collaborators Lunch
 excerpt: Students & Collaborators Lunch
-categories: events
+categories:
+    - public events
 published: true
 lang: en
 image: Photo-for-Lunch.jpg
