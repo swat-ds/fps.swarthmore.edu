@@ -12,9 +12,9 @@ locale                   : "en"
 title                    : "Friends, Peace, & Sanctuary"
 title_separator          : "-"
 name                     : "Swarthmore College"
-url                      : "https://swat-ds.github.io/fps.swarthmore.edu"
+url                      : "https://swat-ds.github.io"
 # url                      : #""
-baseurl                  : ""
+baseurl                  : "fps.swarthmore.edu"
 languages                : ["en", "ar"]
 exclude_from_localizations: ["assets","assets/js","assets/images","assets/css","assets/fonts"]
 
