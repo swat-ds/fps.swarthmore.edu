@@ -145,7 +145,11 @@ div.masthead {
 
 #site-nav.greedy-nav  {
 
-    background-color: rgba($light-gray,.9);
+    background-color: rgba($light-gray,0);
+    background-image: linear-gradient($light-gray, rgba($light-gray, 0.9) 55%, rgba($light-gray, 0));
+    background-image: -webkit-linear-gradient($light-gray, rgba($light-gray, 0.9) 55%, rgba($light-gray, 0));
+    background-image: -o-linear-gradient($light-gray, rgba($light-gray, 0.9) 55%, rgba($light-gray, 0));
+    background-image: -moz-linear-gradient($light-gray, rgba($light-gray, 0.9) 55%, rgba($light-gray, 0));
     padding: 0 1rem;
 
     button { margin-right: -1rem; }
