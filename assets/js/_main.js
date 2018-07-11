@@ -82,25 +82,29 @@ $(document).ready(function(){
       }
   });
 
-  $('#site-nav.greedy-nav .visible-links li.has-children span').on({
 
-    mouseover: function() {
+  $('#site-nav.greedy-nav .visible-links li.has-children span').on('click tap',
+    function() {
 
-      var target = $(this).parent().find('ul');
-      if (!target.attr('class').includes('show')) {
-          target.toggleClass('show');
-      }
-          
-      setTimeout( function(){
 
+
+
+      var target = $(this).parent().find('ul').toggleClass('show');
+      var id = window.setTimeout( function(){
+        
         var target = $(this).parent().find('ul');
-        if (target.attr('class').includes('show')) {
+        if (target.attr('class').includes('show')){
           target.toggleClass('show');
         }
 
-      }.bind(this), 2000);
- 
-    }
+      }.bind(this), 3000);
+
+
+      // ht to user123444555621
+      // <https://stackoverflow.com/questions/8860188/is-there-a-way-to-clear-all-time-outs#8860203>
+      while (id--) {
+        window.clearTimeout(id); // will do nothing if no timeout with id is present
+      }
   });
 
   $.ajax({

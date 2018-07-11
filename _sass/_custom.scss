@@ -319,7 +319,8 @@ h1.archive__category.page__title {
 
 div.page__footer {
         background-color: rgba($light-gray, .9);
-
+        margin-top: 0;
+        
         .page__footer-follow { 
             display: inline-block;
             float: left;

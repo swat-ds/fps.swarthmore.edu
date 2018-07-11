@@ -14,25 +14,25 @@ main:
   - title: project
     url: /
     children:
-      - title: workshops
-        url: /workshops/
       - title: artists
         url: /artists/
-      - title: works
-        url: /works/
       - title: public events
         url: /events/
-  - title: workshops
-    url: /workshops/
-    tag: child
+      - title: works
+        url: /works/
+      - title: workshops
+        url: /workshops/
   - title: artists
     url: /artists/
+    tag: child
+  - title: public events
+    url: /events/
     tag: child
   - title: works
     url: /works/
     tag: child
-  - title: public events
-    url: /events/
+  - title: workshops
+    url: /workshops/
     tag: child
   # - title: resources
   #   url: /resources/

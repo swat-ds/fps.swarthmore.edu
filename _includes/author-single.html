@@ -34,7 +34,8 @@
 
     {% if author.bio %}
 
-      {{ author.bio | markdownify }}
+      {% assign x = 'test' %}
+      {{ author.bio | truncatewords: 20, x | markdownify }}
 
     {% else %}
 
