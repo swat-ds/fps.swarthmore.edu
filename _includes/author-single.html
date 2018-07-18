@@ -19,32 +19,36 @@
   <div class="author__content">
     <h2 class="author__name" itemprop="name">
 
-    {% if artist_posts.size > 0 %}
-    <a href="{{ artist_slug | relative_url }}">
-    {% endif %}
+    <a class="ct" href="{{ artist_slug | relative_url }}">
 
     {{ author.name | upcase }}
 
-    {% if artist_posts.size > 0 %}
     </a>
-    {% endif %}
+    <br/>
+    {% unless author.url and page.id %}
+      <a class="ct" href="{{ author.url }}">{{ author.url }}</a>
+    {% endunless %}
     </h2>
     
     <hr/>
 
     {% if author.bio %}
 
-      {% assign x = 'test' %}
-      {{ author.bio | truncatewords: 20, x | markdownify }}
+      {% capture artist_page %}
+      ... <a class="more" href="{{ artist_slug | relative_url }}">
+        <i class="fa fa-fw fa-angle-double-right ct" aria-hidden="true"></i>
+      </a>
+      {% endcapture %}
 
+      {% if page.id %}
+        {{ author.bio | truncatewords: 25, artist_page | markdownify }}
+      {% else %}
+        {{ author.bio | markdownify }}
+      {% endif %}
     {% else %}
 
       {{ site.placeholder.bio | markdownify }}
     
-    {% endif %}
-
-    {% if author.url %}
-      <a href="{{ author.url }}"><p>{{ author.url }}</p></a>
     {% endif %}
 
   </div>

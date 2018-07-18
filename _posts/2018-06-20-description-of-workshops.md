@@ -4,11 +4,15 @@ lang: en
 published: true
 title: Description of Workshops
 tags:
-  - 'artist:Courtney Bowles'
-  - 'artist:Erik Ruin'
-  - 'artist:Islam Aly'
-  - 'artist:Mark Strandquist'
-  - 'artist:Maureen Cummins'
+    - artist:Ali Salman
+    - artist:Asmaa
+    - artist:Courtney Bowles
+    - artist:Erik Ruin
+    - artist:Fadaa Ali
+    - artist:Islam Aly
+    - artist:Mark Strandquist
+    - artist:Maureen Cummins
+    - artist:Mohamed
 image: artists workshop.jpg
 categories:
     - workshops

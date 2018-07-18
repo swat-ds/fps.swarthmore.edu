@@ -3,7 +3,7 @@
 layout: single
 title: Project Team
 permalink: /project-team/
-id: credits
+id: project-team
 
 ---
 

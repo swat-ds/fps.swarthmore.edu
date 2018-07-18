@@ -47,7 +47,7 @@
             "{{ img | prepend: "/" | prepend: site.prose.media | absolute_url }}"
           {% endif %}
           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-          {% if gallery.size > 1 %}<i class="fa fa-fw fa-clone" aria-hidden="true"></i>{% endif %}
+          {% if gallery.size > 1 %}<p class="ct"><span>1/{{ gallery.size }}</span>&nbsp;<i class="fa fa-fw fa-image" aria-hidden="true"></i></p>{% endif %}
 
       </a>
     {% else %}
