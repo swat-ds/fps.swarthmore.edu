@@ -153,7 +153,20 @@ div.masthead {
     @include linear-gradient(0deg,none, rgba($light-gray,0),$light-gray 50px);
     padding: 0 1rem;
 
-    button { margin-right: -1rem; }
+    button { 
+        margin-right: -1rem;
+        background-color: rgba(255,255,255,0);
+    }
+
+    .navicon,
+    .navicon:before,
+    .navicon:after {
+        background-color: $blue;
+    }
+
+    .close .navicon {
+        background-color: rgba(255,255,255,0);
+    }
 
     a.site-title img {
 
