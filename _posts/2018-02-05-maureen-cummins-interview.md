@@ -3,7 +3,7 @@ date: 2018-02-05
 title: Maureen Cummins Interview
 lang: en
 categories:
-  - works
+  - conversations
 tags:
   - artist:Maureen Cummins
 custom_thumbnail: true

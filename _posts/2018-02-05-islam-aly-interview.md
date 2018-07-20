@@ -3,7 +3,7 @@ date: 2018-02-05
 title: Islam Aly Interview
 lang: en
 categories:
-  - works
+  - conversations
 tags:
   - artist:Islam Aly
 video: 

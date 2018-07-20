@@ -3,7 +3,7 @@ date: 2018-02-05
 title: Erik Ruin Interview
 lang: en
 categories:
-  - works
+  - conversations
 tags:
   - artist:Erik Ruin
 video: 

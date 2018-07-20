@@ -3,14 +3,16 @@ nav:
   project team: "إدارة المشروع"
   project: "مشروع"
   artists: "الفنانين"
+  conversations: "مداولات"
   resources: "موارد"
   works: "أعمال فنية"
   public events: "المناسبات العامة"
   workshops: "ورش عمل"
   partner organizations: "المنظمات الشريكة"
 category:
-  works: "أعمال فنية"
+  conversations: "مداولات"
   public events: "المناسبات العامة"
+  works: "أعمال فنية"
   workshops: "ورش عمل"
 footer:
   swarthmore: "جامعة سوارثمور"

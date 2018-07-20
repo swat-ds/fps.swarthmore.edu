@@ -8,14 +8,16 @@ main:
   - title: project team
     url: /project-team/
     tag: child
-  - title: partner organizations
-    url: /partner-organizations/
-    tag: child
+  # - title: partner organizations
+  #   url: /partner-organizations/
+  #   tag: child
   - title: project
     url: /
     children:
       - title: artists
         url: /artists/
+      - title: conversations
+        url: /conversations/
       - title: public events
         url: /events/
       - title: works
@@ -24,6 +26,9 @@ main:
         url: /workshops/
   - title: artists
     url: /artists/
+    tag: child
+  - title: conversations
+    url: /conversations/
     tag: child
   - title: public events
     url: /events/
