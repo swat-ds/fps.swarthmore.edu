@@ -26,7 +26,7 @@ include_categories:
 
         {% assign c = current_category %}
 
-        <a class="archive__category" href="/{{ c }}"><h1><span class="ar">{{site.data.translations.category[c]}}</span><span class="bold"> / </span><span class="en">
+        <a class="archive__category" href="/{{ c | replace: ' ','-' }}/"><h1><span class="ar">{{site.data.translations.category[c]}}</span><span class="bold"> / </span><span class="en">
         {% assign c_title = c | split: " " %}
         {% for word in c_title %}
           {{ word | capitalize }}

@@ -19,7 +19,7 @@ main:
       - title: conversations
         url: /conversations/
       - title: public events
-        url: /events/
+        url: /public-events/
       - title: works
         url: /works/
       - title: workshops
@@ -31,7 +31,7 @@ main:
     url: /conversations/
     tag: child
   - title: public events
-    url: /events/
+    url: /public-events/
     tag: child
   - title: works
     url: /works/
