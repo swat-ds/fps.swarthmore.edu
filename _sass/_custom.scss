@@ -375,7 +375,7 @@ footer .fa { font-size: 2rem; }
     
     @media screen and (max-width: $small) {
         top: 7rem;
-        min-height: 22rem;
+        min-height: 28rem;
     }
 }
 
@@ -386,16 +386,12 @@ footer .fa { font-size: 2rem; }
     }
 
     p.page__lead {
-        font-size: $type-size-1;
-        line-height: $type-size-1/2;
+        font-size: $type-size-5 * 2.4;
+        line-height: $type-size-5 * 1.2;
 
-        @media screen and (max-width: $medium) {
-            font-size: $type-size-2;
-            line-height: $type-size-2 * .65;
-        }
         @media screen and (max-width: $small) {
-            font-size: $type-size-3;
-            line-height: $type-size-3 * .75;
+            font-size: $type-size-5 * 2;
+            line-height: $type-size-5 * 1.1;
         }
     }
 
