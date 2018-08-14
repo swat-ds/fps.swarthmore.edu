@@ -6,7 +6,7 @@ title: Searching for Sanctuary Symposium
 categories:
      - public events
 tags:
-  - 'artist:Ossama'
+  - 'artist:Osama'
 image: Searching for Sanctuary Panel_Spring.jpg
 gallery:
   - Searching for Sanctuary Panel_Spring.jpg

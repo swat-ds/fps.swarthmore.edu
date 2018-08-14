@@ -5,7 +5,7 @@ excerpt: The Poetry of Ossama Ahmad Herkal
 lang: en
 categories: works
 tags:
-  - 'artist:Ossama'
+  - 'artist:Osama'
 published: true
 ---
 

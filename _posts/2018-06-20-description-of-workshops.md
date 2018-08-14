@@ -4,15 +4,18 @@ lang: en
 published: true
 title: Description of Workshops
 tags:
+    - artist:Abdul Karim
     - artist:Ali Salman
-    - artist:Asmaa
     - artist:Courtney Bowles
     - artist:Erik Ruin
     - artist:Fadaa Ali
     - artist:Islam Aly
+    - artist:Layla Al Huseini
     - artist:Mark Strandquist
     - artist:Maureen Cummins
     - artist:Mohamed
+    - artist:Osama Herkal
+    - artist:Raghad Samir
 image: artists workshop.jpg
 categories:
     - workshops
