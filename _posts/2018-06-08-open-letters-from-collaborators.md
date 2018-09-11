@@ -11,6 +11,7 @@ tags:
   - 'artist:Mark Strandquist'
   - 'artist:Ali Salman'
   - 'artist:Osama'
+  - 'artist:Amaal AlNajjar'
 ---
 Courtney Bowles and Mark Strandquist are dedicated social practice artists whose work is grounded in transforming narratives, particularly around re-entry. Working on the Friends, Peace, and Sanctuary project, they are engaged with members of the Syrian and Iraqi community who have resettled in Philadelphia using similar methods to provide a platform to tell their individual stories. 
 
