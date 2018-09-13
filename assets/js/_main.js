@@ -163,7 +163,8 @@ $(document).ready(function(){
         url:"https://vimeo.com/api/oembed.json",
         data: { url: "http://vimeo.com/" + el.data('vimeoid') }
       }).done(function( data ){
-        data.thumbnail_url
+        console.log(data)
+        console.log(data.thumbnail_url)
         el.css('background-image', 'url("' + data.thumbnail_url + '")');
       });
 
