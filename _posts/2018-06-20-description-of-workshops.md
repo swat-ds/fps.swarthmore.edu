@@ -7,10 +7,11 @@ tags:
     - artist:Amaal AlNajjar
     - artist:Abdul Karim
     - artist:Ali Salman
-    - artist:Asmaa
+    - artist:Asmaa Diab
     - artist:Courtney Bowles
     - artist:Erik Ruin
     - artist:Fadaa Ali
+    - artist:Fadia Lilmakhzoub
     - artist:Fouad Sakhnini
     - artist:Islam Aly
     - artist:Layla Al Huseini
