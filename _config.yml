@@ -202,10 +202,14 @@ prose:
           label: "Categories"
           placeholder: "choose categories"
           options:
-            - name: "Events"
-              value: "events"
+            - name: "Public Events"
+              value: "public events"
+            - name: "Conversations"
+              value: conversations
             - name: "Works"
-              value: "works"
+              value: works
+            - name: "Workshops"
+              value: workshops
       - name: "tags"
         field:
           element: "multiselect"
@@ -241,7 +245,7 @@ prose:
               value: "artist:Maureen Cummins"
             - name: "Mohamed"
               value: "artist:Mohamed"
-            - name: "Osama"
+            - name: "Osama Herkal"
               value: "artist:Osama Herkal"
             - name: "Raghad Samir"
               value: "artist:Raghad"
