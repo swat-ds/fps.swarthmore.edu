@@ -40,5 +40,3 @@ tags:
 **October 2019**
 
 	[Booklyn](https://booklyn.org/) | Brooklyn, NY
-
-
