@@ -7,10 +7,8 @@ classes:
   - about
 published: true
 ---
-مشروع كلية سوارثمور ( الصداقة، السلام والملاذ الآمن ) المدعوم من مركز بي اي دبليو للفنون والتراث سيقوم بجمع عدد
-من الفنانين المختصين في مجال التصميم والتنفيذ الفني للكتب من خلال حوار بناء مع عدد من العراقيين والسوريين الذين تم
-إعادة توطينهم في مدينة فيلادلفيا. ويعتمد هذا الحوار على عدد من الأسئلة التي تتعلق بالنزوح واللجوء، التاريخ و الخبرات
-المكتسبة، و سيكتسشف المشروع إمكانية الفنون في بناء التعاطف وخلق الشعور العميق بالانتماء.
+مشروع كلية سوارثمور ( الصداقة، السلام والملاذ الآمن ) المدعوم من مركز بي اي دبليو للفنون والتراث سيقوم بجمع عدد من الفنانين المختصين في مجال التصميم والتنفيذ الفني للكتب من خلال حوار بناء مع عدد من العراقيين والسوريين الذين تم إعادة توطينهم في مدينة فيلادلفيا. ويعتمد هذا الحوار على عدد من الأسئلة التي تتعلق بالنزوح واللجوء، التاريخ و الخبرات المكتسبة، و سيكتشف المشروع إمكانية الفنون في بناء التعاطف وخلق الشعور العميق بالانتماء.سيتم عرض نتائج هذا المشروع في ربيع عام ٢٠١٩ بجامعة "سوارثمور"، و أيضا في ثلاثة مواقع مختلفة في فيلادلفيا طوال الصيف، و أخيرا في حي بروكلين  بمدينة نيويورك خلال فصل الخريف.
+ق بالانتماء.
 {: .ar.bold}
 
 <p>Swarthmore College’s <em>Friends, Peace, and Sanctuary</em> project, supported by The Pew Center for Arts & Heritage, brings renowned book artists into conversation with Syrian and Iraqi individuals who have resettled to Philadelphia. Driven by questions about displacement and refuge, history and experience, the project explores art’s capacity to build empathy and create a deeper sense of belonging. The results of this project will be exhibited in 2019 at Swarthmore College in the spring, three locations in Philadelphia throughout the summer, and Brooklyn, NY in the fall.
