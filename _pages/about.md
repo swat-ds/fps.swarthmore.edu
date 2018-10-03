@@ -1,12 +1,11 @@
 ---
-
 layout: single
 title: About
 permalink: /about/
 id: about
 classes:
-    - about
-
+  - about
+published: true
 ---
 مشروع كلية سوارثمور ( الصداقة، السلام والملاذ الآمن ) المدعوم من مركز بي اي دبليو للفنون والتراث سيقوم بجمع عدد
 من الفنانين المختصين في مجال التصميم والتنفيذ الفني للكتب من خلال حوار بناء مع عدد من العراقيين والسوريين الذين تم
@@ -14,7 +13,8 @@ classes:
 المكتسبة، و سيكتسشف المشروع إمكانية الفنون في بناء التعاطف وخلق الشعور العميق بالانتماء.
 {: .ar.bold}
 
-<p>Swarthmore College’s <em>Friends, Peace, and Sanctuary</em> project, supported by The Pew Center for Arts & Heritage, brings renowned book artists into conversation with Syrian and Iraqi individuals who have resettled to Philadelphia. Driven by questions about displacement and refuge, history and experience, the project explores art’s capacity to build empathy and create a deeper sense of belonging.</p>
+<p>Swarthmore College’s <em>Friends, Peace, and Sanctuary</em> project, supported by The Pew Center for Arts & Heritage, brings renowned book artists into conversation with Syrian and Iraqi individuals who have resettled to Philadelphia. Driven by questions about displacement and refuge, history and experience, the project explores art’s capacity to build empathy and create a deeper sense of belonging. The results of this project will be exhibited in 2019 at Swarthmore College in the spring, three locations in Philadelphia throughout the summer, and Brooklyn, NY in the fall.
+</p>
 
 <hr/>
 
