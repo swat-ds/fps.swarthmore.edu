@@ -198,7 +198,7 @@ prose:
               value: "ar"
       - name: "categories"
         field:
-          element: "select"
+          element: "multiselect"
           label: "Categories"
           placeholder: "choose categories"
           options:

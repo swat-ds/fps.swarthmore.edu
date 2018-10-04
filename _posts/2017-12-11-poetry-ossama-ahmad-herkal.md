@@ -3,7 +3,8 @@ date: 'Sun Dec 10 2017 19:00:00 GMT-0500 (EST)'
 title: The Poetry of Ossama Ahmad Herkal
 excerpt: The Poetry of Ossama Ahmad Herkal
 lang: en
-categories: works
+categories:
+    - works
 tags:
   - 'artist:Osama'
 published: true

@@ -25,7 +25,6 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 ---
-
 **We are excited to announce that this project will culminate with exhibitions in 2019.**
 
 

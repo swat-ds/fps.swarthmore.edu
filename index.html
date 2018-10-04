@@ -37,7 +37,6 @@ published: true
           {{ word | capitalize }}
         {% endfor%}
         </span></h1></a>
-
         {% assign category_posts = site.posts | where: 'categories', c %}
         {% include post-row.html posts = category_posts %}
 
