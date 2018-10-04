@@ -11,7 +11,7 @@ published: true
 ق بالانتماء.
 {: .ar.bold}
 
-<p>Swarthmore College’s <em>Friends, Peace, and Sanctuary</em> project, supported by The Pew Center for Arts & Heritage, brings renowned book artists into conversation with Syrian and Iraqi individuals who have resettled to Philadelphia. Driven by questions about displacement and refuge, history and experience, the project explores art’s capacity to build empathy and create a deeper sense of belonging. The results of this project will be exhibited in 2019 at Swarthmore College in the spring, three locations in Philadelphia throughout the summer, and Brooklyn, NY in the fall.
+<p>Swarthmore College’s <em>Friends, Peace, and Sanctuary</em> project, supported by The Pew Center for Arts & Heritage, brings renowned book artists into conversation with Syrian and Iraqi individuals who have resettled to Philadelphia. Driven by questions about displacement and refuge, history and experience, the project explores art’s capacity to build empathy and create a deeper sense of belonging. The project will result in exhibitions in 2019 at Swarthmore College in the spring, three locations in Philadelphia throughout the summer, and Brooklyn, NY in the fall.
 </p>
 
 <hr/>
