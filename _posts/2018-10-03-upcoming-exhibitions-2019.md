@@ -3,7 +3,8 @@ date: '2018-10-03 16:32 -0400'
 lang: en
 published: true
 title: Upcoming Exhibitions 2019
-categories: public events
+categories:
+  - public events
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abdul Karim'
@@ -24,19 +25,20 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 ---
+
 **We are excited to announce that this project will culminate with exhibitions in 2019.**
 
 
 **March-April 2019**
 
-	Swarthmore College | Swarthmore, PA
+- Swarthmore College (Swarthmore, PA)
     
 **June-August 2019**
 
-	[Twelve Gates Arts](http://www.twelvegatesarts.org/) | Philadelphia, PA 
-	[Parkway Central Free Library](http://www.freelibrary.org/)| Philadelphia, PA 
-	[Philadelphia City Hall](http://creativephl.org/exhibitions/) | Philadelphia, PA
+- [Twelve Gates Arts](http://www.twelvegatesarts.org/) (Philadelphia, PA) 
+- [Parkway Central Free Library](http://www.freelibrary.org/) (Philadelphia, PA) 
+- [Philadelphia City Hall](http://creativephl.org/exhibitions/) (Philadelphia, PA)
         
 **October 2019**
 
-	[Booklyn](https://booklyn.org/) | Brooklyn, NY
+[Booklyn](https://booklyn.org/) (Brooklyn, NY)

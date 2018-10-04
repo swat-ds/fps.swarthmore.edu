@@ -363,19 +363,21 @@ footer .fa { font-size: 2rem; }
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    min-height: 30rem;
+    padding: 1em 0;
 
     @media screen and (max-width: $x-large) {
         height: 40vh;
-        min-height: 25rem;
+
     }    
 
     @media screen and (max-width: $medium) {
-        height: 50vh;
+        height: 60vh;
     }
     
     @media screen and (max-width: $small) {
         top: 7rem;
-        min-height: 28rem;
+        min-height: 45rem;
     }
 }
 
