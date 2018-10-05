@@ -24,6 +24,18 @@ tags:
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
+gallery:
+  - 5.jpg
+  - FPS. Maureen. Wksp3 (1).JPG
+  - FPS. Maureen. Wksp3.JPG
+  - IMG_3969.JPG
+  - IMG_5448.jpg
+  - IMG_5695.jpg
+  - IMG_5701.jpg
+  - IMG_6388.jpg
+  - IMG_6391.jpg
+  - IMG_6411 (1).jpg
+  - images_tableSmall.jpg
 ---
 **We are excited to announce that this project will culminate with exhibitions in 2019.**
 
