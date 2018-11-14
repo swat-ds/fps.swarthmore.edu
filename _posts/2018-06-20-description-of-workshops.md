@@ -6,6 +6,7 @@ title: Description of Workshops
 tags:
     - artist:Amaal AlNajjar
     - artist:Abdul Karim Awad
+    - artist:Abir AlArnab
     - artist:Ali Salman
     - artist:Asmaa Diab
     - artist:Courtney Bowles

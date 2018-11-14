@@ -218,7 +218,9 @@ prose:
           alterable: true
           options:
             - name: "Amaal AlNajjar"
-              value: "artist:Amaal AlNajjar"
+              value: "artist:Amaal AlNajjar"            
+            - name: "Abir AlArnab"
+              value: "artist:Abir AlArnab"
             - name: "Abdul Karim"
               value: "artist:Abdul Karim Awad"
             - name: "Ali Salman"
