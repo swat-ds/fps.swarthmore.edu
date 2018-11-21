@@ -3,6 +3,20 @@ date: '2018-11-21 17:27 -0500'
 lang: en
 published: true
 title: Poetry from Layla Sidiq
+categories:
+  - works
+tags:
+  - 'artist:Layla Al Huseini'
+image: layla.jpeg
+gallery:
+  - laylapoetry1.jpg
+  - laylapoetry2.jpg
+  - laylayestohope.JPG
+  - layla2.JPG
+  - layla3.JPG
+  - Marwa and Layla IMG_5570 (1)_censored.jpg
+  - layla1.jpg
+  - IMG_6367(1)_censored.jpg
 ---
 Some might know her as Layla El-Husseini, but she also goes by Layla Sidiq - her father's name. Layla is that cute grandma that gives her granddaughter jewelry and wants to dress her up to bring out all her inner beauty. A lively and active collaborator, she attended all 13 workshops and a few extras. She fed us delicious Iraqi stuffed chicken, dolma (stuffed grape leaves),  and kibbe in sauce. Her Iraqi chicken recipe will be in the collective cook book that will be available during exhibitions.  Layla is a known poet, recognized and honored in many countries and with many publications. _Friends, Peace, and Sanctuary_ is lucky to have her as an Artistic Collaborator on this project and share her poetry with us. 
 
