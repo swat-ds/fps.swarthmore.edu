@@ -128,51 +128,27 @@ May peace and God’s blessings and mercy be upon you,
 
 Don’t ask me “where are you?”
 <br/>If you smell a distinct scent,
-
 <br/>I’m there
-
 <br/>And if you stare at the sky
-
 <br/>I’m the moon
-
 <br/>And if you look for me in a pathway
-
 <br/>You’ll find me within a heart, wandering
-
 <br/>So, stop questioning me, and quit
-
 <br/>Like I can’t quit your love
-
 <br/>Don’t ask about me if I’m gone
-
 <br/>No matter how far apart we are
-
 <br/>No matter how cruel the nights are
-
 <br/>I will hide my pain and write for you
-
 <br/>On tree leaves, my love was sold, abandoned and betrayed
-
 <br/>But I remain loyal
-
 <br/>He speaks to me, sometimes tired, others on the food
-
 <br/>He fools around and plays
-
 <br/>Everything is accepted if it’s done by him
-
 <br/>The early morning rooster told me
-
 <br/>Don’t play with my feelings
- 
 <br/>But you then apologize and tell me, you’re tired
-
 <br/>“My love … my soul … my life”
-
 <br/>“You’re forever in my heart”
-
 <br/>“For you there’s a spring that’s full of water”
-
 <br/>But do I believe him and forget?
- 
 <br/>Or stay like this, suffering
