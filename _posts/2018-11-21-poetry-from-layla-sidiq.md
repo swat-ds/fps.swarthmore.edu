@@ -86,3 +86,93 @@ May peace and God’s blessings and mercy be upon you,
 <br/>It’s your heaven, and your husband and children are the decoration to that heaven. They’re your safe sanctuary 
 <br/>I hope my words leave an affect and meaning in people 
 <br/>And may God bless us all
+
+<hr/>
+
+لا تسألني اين انت 
+<br/>إذا شممت عطر فاح  
+<br/>فأنا هناك 
+<br/>وإذا أطلت النظر إلى
+<br/>السماء فأنا القمر
+<br/>وإذا فتشت عني 
+<br/>في الدروب
+<br/>فأنا في ثنايا القلب 
+<br/>اجوب 
+<br/> فكف عن السؤال
+<br/>وتوب 
+<br/>فأنا عن حبك لاتوب
+<br/>لاتسالني ان غبت عنك
+<br/>ومهما طال البعد
+<br/>وقست الليالي فرقتنا
+<br/>الدروب 
+<br/>سألملم جرحي واكتب 
+<br/>لك على أوراق 
+<br/>الشجر 
+<br/>لقد باع حبي وهجر وغدر
+<br/>وانا الوفا عنواني
+<br/>يطالعني بحجج الكلام 
+<br/>مرة متعب 
+<br/>واخرى على الهاتف وأخرى
+<br/>يلهو ويلعب
+<br/>كل شيئ لك مباح هكذا
+<br/>قال لي ديك الصباح 
+<br/>لكن بمشاعري لاتلعب
+<br/>تأتيني وتتأسف تقول لي
+<br/>انا متعب 
+<br/>حبيبتي ...روحي ...عمري
+<br/>انت في قلبي وحبي 
+<br/>لك نبعا لاينضب
+<br/>فهل اصدق كلامك وأصفح
+<br/>تأتيني وتتأسف تقول لأم ابقى هكذا أتعذب 
+{: .ar}
+
+Don’t ask me “where are you?”
+<br/>If you smell a distinct scent,
+
+<br/>I’m there
+
+<br/>And if you stare at the sky
+
+<br/>I’m the moon
+
+<br/>And if you look for me in a pathway
+
+<br/>You’ll find me within a heart, wandering
+
+<br/>So, stop questioning me, and quit
+
+<br/>Like I can’t quit your love
+
+<br/>Don’t ask about me if I’m gone
+
+<br/>No matter how far apart we are
+
+<br/>No matter how cruel the nights are
+
+<br/>I will hide my pain and write for you
+
+<br/>On tree leaves, my love was sold, abandoned and betrayed
+
+<br/>But I remain loyal
+
+<br/>He speaks to me, sometimes tired, others on the food
+
+<br/>He fools around and plays
+
+<br/>Everything is accepted if it’s done by him
+
+<br/>The early morning rooster told me
+
+<br/>Don’t play with my feelings
+ 
+<br/>But you then apologize and tell me, you’re tired
+
+<br/>“My love … my soul … my life”
+
+<br/>“You’re forever in my heart”
+
+<br/>“For you there’s a spring that’s full of water”
+
+<br/>But do I believe him and forget?
+ 
+<br/>Or stay like this, suffering
