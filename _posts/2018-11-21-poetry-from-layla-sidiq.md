@@ -67,12 +67,12 @@ May peace and God’s blessings and mercy be upon you,
 <br/>And what happened in Iraq from revolutions to military coups has affected daily life there, but women stood firm and were there for their husbands and houses...
 <br/>And endured many burdens, including raising children which was not easy … despite all 
 <br/>She made it through...
-<br/>She suffered from hunger, displacement [or moving a lot/being homeless] and lost many of her rights 
-<br/>And yet she’s well-mannered [more accurately: a well-mannered housewife], and she’s a fighter, a fighter who persisted, who raised generations, who stayed
+<br/>She suffered from hunger, displacement and the loss of her rights
+<br/>And yet she’s a well-mannered housewife, and she’s a fighter, a fighter who persisted, who raised generations, who stayed
 <br/>With her husband, she survived the cruelty of life .. and I can’t forget the Syrian woman
-<br/>And the Palestinian and the Yemeni [and women in all “hot” regions]... Bless women, wherever they are
+<br/>And the Palestinian and the Yemeni and all the women living in warzones … Bless women, wherever they are
 <br/>What worries me now is the separation of a wife from her husband or divorce 
-<br/>Or marriage [/men marrying a second ..] to a second wife which ruins a family’s happiness and life
+<br/>Or her husband’s marriage to a second wife which ruins a family’s happiness and life
 <br/>Let alone what it would do to the children and how that would affect their feelings and behavior... a child in such a family would grow up to be complicated and emotionally exhausted 
 <br/>Not understanding what’s going on, and how it’s affected their lives negatively...
 <br/>So fear God husbands with your wives, the mothers of your children, and the partners
