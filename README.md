@@ -6,4 +6,6 @@ Swarthmore College’s Friends, Peace, and Sanctuary project, supported by The P
 
 [@fpsbookarts](https://twitter.com/fpsbookarts)
 
-Consult the [wiki](https://github.com/swat-ds/fps.swarthmore.edu/wiki) for instructions on how to add and edit content.  
+Consult the [wiki](https://github.com/swat-ds/fps.swarthmore.edu/wiki) for instructions on how to add and edit content. 
+
+ 
