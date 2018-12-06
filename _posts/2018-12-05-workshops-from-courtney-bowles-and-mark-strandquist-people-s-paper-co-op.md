@@ -28,16 +28,14 @@ gallery:
   - PPC_Wksp1.JPG
   - PPC_Wksp2_AbdulKarim
   - PPC_Wksp2_Humanity.jpg
-  - PPC_Wksp2_Money.png
   - PPC_Wksp3_AKpresent.JPG
   - PPC_wksp3_bin.JPG
   - PPC_Wksp3_makingpaper
   - PPC_Wksp3_reading.JPG
-  - PPC_Wksp3_ripping.JPG
   - PPC_Wksp3_writing
   - PPC_wksp3-throwing.JPG
-  - 5.jpg
-  - MCpapermaking.jpg
+  - PPC_Wksp2_Money.jpg
+  - ppc_wksp3_rippingfadaa.jpg
 ---
 **Goal:** [Courtney and Mark](http://peoplespaperco-op.weebly.com/) were invited to be artists on this project for their deeply-rooted social practice art. Leading the first series of workshops with project collaborators, they set the foundation for artist’s engagement with the Syrian and Iraqi families that committed to the project. They created activities—at times painful and at times uplifting—that allowed collaborators to share their pasts, presents, and collectively imagine their futures. 
 
