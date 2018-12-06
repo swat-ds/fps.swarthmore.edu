@@ -18,6 +18,8 @@ tags:
   - 'artist:Osama Herkal'
   - 'artist:Raghad'
 image: MCpapermaking.jpg
+categories:
+  - workshops
 ---
 **Goal:** [Courtney and Mark](http://peoplespaperco-op.weebly.com/) were invited to be artists on this project for their deeply-rooted social practice art. Leading the first series of workshops with project collaborators, they set the foundation for artist’s engagement with the Syrian and Iraqi families that committed to the project. They created activities—at times painful and at times uplifting—that allowed collaborators to share their pasts, presents, and collectively imagine their futures. 
 
