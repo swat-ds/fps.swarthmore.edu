@@ -20,6 +20,24 @@ tags:
 image: MCpapermaking.jpg
 categories:
   - workshops
+gallery:
+  - PPC_Abir_Wksp1.jpg
+  - PPC_images_table.jpg
+  - PPC_Wksp1_2.JPG
+  - PPC_Wksp1_wishes.JPG
+  - PPC_Wksp1.JPG
+  - PPC_Wksp2_AbdulKarim
+  - PPC_Wksp2_Humanity.jpg
+  - PPC_Wksp2_Money.png
+  - PPC_Wksp3_AKpresent.JPG
+  - PPC_wksp3_bin.JPG
+  - PPC_Wksp3_makingpaper
+  - PPC_Wksp3_reading.JPG
+  - PPC_Wksp3_ripping.JPG
+  - PPC_Wksp3_writing
+  - PPC_wksp3-throwing.JPG
+  - 5.jpg
+  - MCpapermaking.jpg
 ---
 **Goal:** [Courtney and Mark](http://peoplespaperco-op.weebly.com/) were invited to be artists on this project for their deeply-rooted social practice art. Leading the first series of workshops with project collaborators, they set the foundation for artist’s engagement with the Syrian and Iraqi families that committed to the project. They created activities—at times painful and at times uplifting—that allowed collaborators to share their pasts, presents, and collectively imagine their futures. 
 
@@ -30,8 +48,6 @@ They will be creating a variety of books out of these workshops, including a cod
 **Workshop 1:**
 
 Every workshop is a family affair. Each selected collaborator was free to bring the entire family, so often spouses and children were there and/or participated. Courtney and Mark began by dividing the group into two—collaborators and family members—and facilitated story-circles simultaneously. This was followed by a mapping exercise about the project that looked at content, audience, reach, and product collectively. They used worksheets to guide everyone through a set of questions that led into an exercise about skills and interests. Mark photographed people acting out how they would like to use that skill in Philadelphia and they were printed. Using transparency, they drew out the rest of the image they  were acting out with an accompanied statement. These are all used to inform the resource guide.
-
-![PPC_Wksp1.JPG]({{site.baseurl}}/assets/images/PPC_Wksp1.JPG)   ![PPC_Wksp1_2.JPG]({{site.baseurl}}/assets/images/PPC_Wksp1_2.JPG)  ![PPC_Abir_Wksp1.jpg]({{site.baseurl}}/assets/images/PPC_Abir_Wksp1.jpg)
 
 **Workshop 2:**
 
