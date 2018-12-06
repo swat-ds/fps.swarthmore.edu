@@ -31,7 +31,7 @@ They will be creating a variety of books out of these workshops, including a cod
 
 Every workshop is a family affair. Each selected collaborator was free to bring the entire family, so often spouses and children were there and/or participated. Courtney and Mark began by dividing the group into two—collaborators and family members—and facilitated story-circles simultaneously. This was followed by a mapping exercise about the project that looked at content, audience, reach, and product collectively. They used worksheets to guide everyone through a set of questions that led into an exercise about skills and interests. Mark photographed people acting out how they would like to use that skill in Philadelphia and they were printed. Using transparency, they drew out the rest of the image they  were acting out with an accompanied statement. These are all used to inform the resource guide.
 
-
+![PPC_Wksp1.JPG]({{site.baseurl}}/assets/images/PPC_Wksp1.JPG)   ![PPC_Wksp1_2.JPG]({{site.baseurl}}/assets/images/PPC_Wksp1_2.JPG)  ![PPC_Abir_Wksp1.jpg]({{site.baseurl}}/assets/images/PPC_Abir_Wksp1.jpg)
 
 **Workshop 2:**
 
