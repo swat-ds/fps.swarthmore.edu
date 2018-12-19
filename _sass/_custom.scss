@@ -200,6 +200,10 @@ div.masthead {
         max-height: 2.5rem;
     }
 
+    &>li {
+        text-align: center;
+    }
+
     a, span {
         transition: initial;
     }
@@ -272,8 +276,9 @@ div.masthead {
       content: unset;
     }
 
-    li {
+    li.masthead__menu-item {
         display: block;
+        text-align: left; 
         border-bottom: 1px solid $border-color;
         &:last-child {  
             border-bottom: none;
