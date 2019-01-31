@@ -2,7 +2,7 @@
 date: '2018-12-05 15:44 -0500'
 lang: en
 published: true
-title: Courtney Bowles and Mark Strandquist (The People’s Paper Co-op) Workshops
+title: Workshops with Courtney Bowles & Mark Strandquist (The People’s Paper Co-op)
 tags:
   - 'artist:Abir AlArnab'
   - 'artist:Abdul Karim Awad'
