@@ -3,6 +3,39 @@ date: '2019-01-31 17:34 -0500'
 lang: en
 published: true
 title: Workshops with Maureen Cummins
+categories:
+  - workshops
+tags:
+  - 'artist:Amaal AlNajjar'
+  - 'artist:Abir AlArnab'
+  - 'artist:Abdul Karim Awad'
+  - 'artist:Ali Salman'
+  - 'artist:Asmaa Diab'
+  - 'artist:Fadaa Ali'
+  - 'artist:Fadia Lilmakhzoub'
+  - 'artist:Fouad Sakhnini'
+  - 'artist:Layla Al Huseini'
+  - 'artist:Marwa'
+  - 'artist:Maureen Cummins'
+  - 'artist:Mohamed'
+  - 'artist:Osama Herkal'
+  - 'artist:Raghad'
+  - 'artist:Roula Al Jabi'
+  - 'artist:Samah AlKasab'
+image: MCYestoHopePrintBlock.JPG
+gallery:
+  - MCYestoHopeCover.JPG
+  - MCSSPteachingbacks.JPG
+  - MCteachingssp.JPG
+  - MCtopgrouppress.JPG
+  - MCAbirAmaalbookbinding.JPG
+  - MCAliprinting.JPG
+  - MCbookmakingcenter.JPG
+  - MCfood.JPG
+  - MCfood1.JPG
+  - mcfood3.jpg
+  - mcma7shi.jpg
+  - mcricekibbe.JPG
 ---
 Book Artist Maureen Cummins led the second series of artist workshops that took place across three Sundays in March 2018. She shared skills based on her experiences as a printmaker, book binder, and editor of multi-author volumes to guide Collaborators in using writing to connect memory to present day experiences. Working closely with the FPS team to design her workshops, Maureen’s workshops explored themes of names, family, food, travel and neighborhoods. As the workshops involved sharing potentially re-traumatic experiences through written word and imagery, Walid Musarsa, a translator, and Rabab Alma, a family therapist known in the community, provided additional communication support throughout all of the workshops. The workshops resulted in a bilingual, self-made, collective book called _Yes to Hope_. 
 
