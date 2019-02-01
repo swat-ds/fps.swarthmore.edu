@@ -7,7 +7,6 @@ categories:
   - public events
 tags:
   - 'artist:Amaal AlNajjar'
-  - 'artist:Abdul Karim'
   - 'artist:Ali Salman'
   - 'artist:Asmaa Diab'
   - 'artist:Courtney Bowles'
@@ -24,6 +23,7 @@ tags:
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
+  - 'artist:Abdul Karim'
 gallery:
   - 5.jpg
   - FPS. Maureen. Wksp3 (1).JPG
@@ -42,7 +42,8 @@ gallery:
 
 **March-April 2019**
 
-- Swarthmore College (Swarthmore, PA)
+**Swarthmore College (Swarthmore, PA)**
+[Opening Weekend March 28-30, 2019](https://www.swarthmore.edu/cooper-series/friends-peace-and-sanctuary)
     
 **June-August 2019**
 
