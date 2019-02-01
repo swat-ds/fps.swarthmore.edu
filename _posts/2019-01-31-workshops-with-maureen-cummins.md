@@ -2,7 +2,7 @@
 date: '2019-01-31 17:34 -0500'
 lang: en
 published: true
-title: Workshops with Maureen Cummins
+title: 'Yes to Hope: Artist Workshops with Maureen Cummins'
 categories:
   - workshops
 tags:
