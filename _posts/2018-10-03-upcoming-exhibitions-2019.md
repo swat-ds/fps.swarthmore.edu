@@ -7,6 +7,8 @@ categories:
   - public events
 tags:
   - 'artist:Amaal AlNajjar'
+  - 'artist:Abir AlArnab'
+  - 'artist:Abdul Karim Awad'
   - 'artist:Ali Salman'
   - 'artist:Asmaa Diab'
   - 'artist:Courtney Bowles'
@@ -17,13 +19,13 @@ tags:
   - 'artist:Islam Aly'
   - 'artist:Layla Al Huseini'
   - 'artist:Mark Strandquist'
+  - 'artist:Marwa'
   - 'artist:Maureen Cummins'
   - 'artist:Mohamed'
   - 'artist:Osama Herkal'
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
-  - 'artist:Abdul Karim'
 gallery:
   - 5.jpg
   - FPS. Maureen. Wksp3 (1).JPG
