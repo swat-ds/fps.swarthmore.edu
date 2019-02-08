@@ -96,13 +96,14 @@ This all-day community event celebrates two-years of community collaboration off
 
 [Twelve Gates Arts](http://www.twelvegatesarts.org/)
 
-June 7th: _First Friday Opening:_ 
-|
+June 7th: _First Friday Opening_ 
+
 **June 7th - July 26th**
 
 [Parkway Central Free Library](http://www.freelibrary.org/)
-|
+
 **June 7th - August 2nd**
+
 [Philadelphia City Hall](http://creativephl.org/exhibitions/)
 
 
