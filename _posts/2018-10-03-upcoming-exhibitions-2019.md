@@ -64,7 +64,7 @@ Friends, Peace, and Sanctuary Exhibitions will explore how art that combines sch
 
 ## **March 28th - April 24th**
 
-**Swarthmore College, McCabe Library (Swarthmore, PA)**
+## **Swarthmore College, McCabe Library (Swarthmore, PA)**
 
 **[Opening Weekend](https://www.swarthmore.edu/cooper-series/friends-peace-and-sanctuary)**
 
@@ -92,16 +92,18 @@ This all-day community event celebrates two-years of community collaboration off
 
 ## **Center City Philadelphia, PA**
 
-**[Twelve Gates Arts](http://www.twelvegatesarts.org/)**
-June 7th - August 15th 
+**June 7th - August 15th** 
 
-_First Friday Opening:_ June 7th
+[Twelve Gates Arts](http://www.twelvegatesarts.org/)
 
-**[Parkway Central Free Library](http://www.freelibrary.org/)**
-June 7th - July 26th
+June 7th: _First Friday Opening:_ 
+|
+**June 7th - July 26th**
 
-**[Philadelphia City Hall](http://creativephl.org/exhibitions/)**
-June 7th - August 2nd
+[Parkway Central Free Library](http://www.freelibrary.org/)
+|
+**June 7th - August 2nd**
+[Philadelphia City Hall](http://creativephl.org/exhibitions/)
 
 
 <hr/>
@@ -110,8 +112,10 @@ June 7th - August 2nd
 
 ## **Brooklyn, New York**
 
-**[Booklyn](https://booklyn.org/)**
-October 5 - November 2
+**October 5 - November 2**
+
+[Booklyn](https://booklyn.org/)
+
 
 <hr/>
 
