@@ -66,6 +66,7 @@ Friends, Peace, and Sanctuary Exhibitions will explore how art that combines sch
 
 ## **Swarthmore College, McCabe Library (Swarthmore, PA)**
 
+
 **[Opening Weekend](https://www.swarthmore.edu/cooper-series/friends-peace-and-sanctuary)**
 
 **March 28**
@@ -90,9 +91,9 @@ This all-day community event celebrates two-years of community collaboration off
 
 **June-August 2019**
 
-## **Center City Philadelphia, PA**
-
 Each site will be focused around different themes and goals of the project that tie together into one exhibit.
+
+## **Center City Philadelphia, PA**
 
 
 ## **[Twelve Gates Arts](http://www.twelvegatesarts.org/)**
