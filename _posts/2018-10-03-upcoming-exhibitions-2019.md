@@ -74,11 +74,16 @@ Friends, Peace, and Sanctuary Exhibitions will explore how art that combines sch
 _Art, History, Experience: A Panel on Displacement_
 
 How can academic, artistic, and situated knowledges work together to address issues of displacement? Hear from four esteemed panelists—each with different types of expertise on the topic of displacement—discuss the potential of a multifaceted approach to addressing this pressing issue.
-	Moderated by Nora Elmarzouky, the panel includes: 
-	Erik Ruin, Artist with Friends, Peace & Sanctuary
-	Osman Balkan, Visiting Assistant Professor at Swarthmore College
-	Rona Buchalter, Director of Refugee Programming and Planning from HIAS Pennsylvania
-	Yaroub Al-Obaidi, Community Liaison Friends, Peace & Sanctuary
+	
+    Moderated by Nora Elmarzouky, the panel includes: 
+	
+    Erik Ruin, Artist with Friends, Peace & Sanctuary
+	
+    Osman Balkan, Visiting Assistant Professor at Swarthmore College
+	
+    Rona Buchalter, Director of Refugee Programming and Planning from HIAS Pennsylvania
+	
+    Yaroub Al-Obaidi, Community Liaison Friends, Peace & Sanctuary
 
 **March 29**
 
