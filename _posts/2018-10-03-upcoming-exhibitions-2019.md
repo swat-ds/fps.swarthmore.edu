@@ -29,15 +29,34 @@ tags:
 gallery:
   - 5.jpg
   - FPS. Maureen. Wksp3 (1).JPG
-  - FPS. Maureen. Wksp3.JPG
-  - IMG_3969.JPG
-  - IMG_5448.jpg
   - IMG_5695.jpg
   - IMG_5701.jpg
-  - IMG_6388.jpg
-  - IMG_6391.jpg
   - IMG_6411 (1).jpg
   - images_tableSmall.jpg
+  - PPC_Wksp2_Humanity.jpg
+  - PPC_Wksp2_Money.jpg
+  - erik_journeys.jpg
+  - erik_journeys2.jpg
+  - erik_journeys3.jpg
+  - erik_journeys4.jpg
+  - erik_journeys5.jpg
+  - islam_incepetion3.jpg
+  - islam_inception.JPG
+  - islam_inception2.JPG
+  - islam_inception4.jpg
+  - ppc_lines.jpg
+  - ppc_lines2.jpg
+  - ppc_lines3.JPG
+  - maureen_alienation2.jpg
+  - maureen_alienation4.jpg
+  - maureen_alienation5.jpg
+  - maureen_alienation.jpg
+  - maureen_alienation3.jpg
+  - PPC_images_table.jpg
+  - erik_collab_journeys.jpg
+  - erik_collab_journeys2.jpg
+  - erik_collab_journeys3.jpg
+  - erik_collab_journeys4.jpg
 ---
 Friends, Peace, and Sanctuary Exhibitions will explore how art that combines scholarly and experiential ways of knowing can build understanding of current issues. Featuring commissioned works by book artists Islam Aly, Maureen Cummins, Erik Ruin, Courtney Bowles and Mark Strandquist, exhibitions bring together historical and contemporary experiences of seeking refuge. These commissioned works will be shown alongside works by the project’s Syrian and Iraqi collaborators and archival material from Swarthmore’s Friends Historical Library and Peace Collections.
 
