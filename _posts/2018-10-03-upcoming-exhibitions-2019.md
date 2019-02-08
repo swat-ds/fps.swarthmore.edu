@@ -92,6 +92,8 @@ This all-day community event celebrates two-years of community collaboration off
 
 ## **Center City Philadelphia, PA**
 
+Each site will be focused around different themes and goals of the project that tie together into one exhibit.
+
 
 ## **[Twelve Gates Arts](http://www.twelvegatesarts.org/)**
 
