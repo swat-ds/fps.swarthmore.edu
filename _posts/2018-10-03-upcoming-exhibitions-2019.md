@@ -64,24 +64,25 @@ Friends, Peace, and Sanctuary Exhibitions will explore how art that combines sch
 
 ## **March 28th - April 24th**
 
-## **Swarthmore College, McCabe Library (Swarthmore, PA)**
-
-
+**Swarthmore College, McCabe Library (Swarthmore, PA)**
 
 **[Opening Weekend](https://www.swarthmore.edu/cooper-series/friends-peace-and-sanctuary)**
 
-**March 28** | _Art, History, Experience: A Panel on Displacement_
+**March 28**
+_Art, History, Experience: A Panel on Displacement_
 
 How can academic, artistic, and situated knowledges work together to address issues of displacement? Hear from four esteemed panelists—each with different types of expertise on the topic of displacement—discuss the potential of a multifaceted approach to addressing this pressing issue.Moderated by Nora Elmarzouky, the panel includes: Erik Ruin (Artist with Friends, Peace & Sanctuary), Osman Balkan (Visiting Assistant Professor at Swarthmore College), Rona Buchalter (Director of Refugee Programming and Planning from HIAS Pennsylvania, and Yaroub Al-Obaidi (Community Liaison Friends, Peace & Sanctuary).
 
-**March 29** | _Exhibition Opening & Communal Dinner_
+**March 29**
+_Exhibition Opening & Communal Dinner_
 
 This will be the premier exhibition of artists books from world renowned book artists Islam Aly, Maureen Cummins, Erik Ruin, Courtney Bowles and Mark Strandquist that weave archival research of refugee and migrant experiences with contemporary Syrian and Iraqi narratives of resettlement to Philadelphia. Their works will be exhibited alongside the works made by Syrian and Iraqi project collaborators that were produced throughout a series of workshops led by the project artists, as well as co-created works with artists Maryan Captan, Joshua Graupera, Eric Battle. The original artwork will be accompanied by archival materials related to displacement from Swarthmore College’s Friends Historical Library and Peace Collection.
 
 Experience the exhibition with an opening walkthrough with Artistic Director, Suzanne Seesman. It will be followed by a communal dinner, catered by [Aria Mediterranean Cuisine](http://www.aria610.com/)to meet all collaborators, commissioned artists, and project team members who made this project possible.Expect delicious food and stimulating conversation as we continue to build community together.
 
 
-**March 30** | _Community Celebration_
+**March 30**
+_Community Celebration_
 
 This all-day community event celebrates two-years of community collaboration offering a chance to experience a taste of the project for yourself. Friends and family members of all ages are invited to to sample Syrian and Iraqi food, learn more about partner organizations, and participate in a variety of art demonstrations with commissioned artists. The day will end with the premiere of Erik Ruin’s musical collaboration with Julius Al-Masry, a companion to his artists’ book.
 
@@ -91,13 +92,16 @@ This all-day community event celebrates two-years of community collaboration off
 
 ## **Center City Philadelphia, PA**
 
-**[Twelve Gates Arts](http://www.twelvegatesarts.org/)** | June 7th - August 15th 
+**[Twelve Gates Arts](http://www.twelvegatesarts.org/)**
+June 7th - August 15th 
 
 _First Friday Opening:_ June 7th
 
-**[Parkway Central Free Library](http://www.freelibrary.org/)** | June 7th - July 26th
+**[Parkway Central Free Library](http://www.freelibrary.org/)**
+June 7th - July 26th
 
-**[Philadelphia City Hall](http://creativephl.org/exhibitions/)** | June 7th - August 2nd
+**[Philadelphia City Hall](http://creativephl.org/exhibitions/)**
+June 7th - August 2nd
 
 
 <hr/>
@@ -107,7 +111,6 @@ _First Friday Opening:_ June 7th
 ## **Brooklyn, New York**
 
 **[Booklyn](https://booklyn.org/)**
-
 October 5 - November 2
 
 <hr/>
