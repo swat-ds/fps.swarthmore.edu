@@ -182,11 +182,36 @@ prose:
         field:
           element: "text"
           label: "title"
+      - name: "title_ar"
+        field:
+          element: "text"
+          label: "Event Title in Arabic"
+          help: "For Exhibition Programming, Event Title in Arabic (optional)"
       - name: "date"
         field:
           element: "text"
           help: Date of post affects in which order posts appear
           value: CURRENT_DATETIME
+      - name: "event_date"
+        field:
+          element: "text"
+          label: "Event Date"
+          help: "For Exhibition Programming, Event Date"
+      - name: "event_date_Ar"
+        field:
+          element: "text"
+          label: "Event Date in Arabic"
+          help: "For Exhibition Programming, Event Date in Arabic (optional)"
+      - name: "event_location"
+        field:
+          element: "text"
+          label: "Event Date"
+          help: "For Exhibition Programming, Event Location (optional)"
+      - name: "event_location_ar"
+        field:
+          element: "text"
+          label: "Event Date in Arabic"
+          help: "For Exhibition Programming, Event Location in Arabic (optional)"
       - name: "lang"
         field:
           element: "select"
@@ -210,6 +235,10 @@ prose:
               value: works
             - name: "Workshops"
               value: workshops
+            - name: "Exhibitions"
+              value: exhibitions
+            - name: "Exhibition Programming"
+              value: exhibition programming
       - name: "tags"
         field:
           element: "multiselect"

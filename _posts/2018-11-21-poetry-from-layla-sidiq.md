@@ -6,7 +6,7 @@ title: Poetry from Layla Al Hussein
 categories:
   - works
 tags:
-  - 'artist:Layla Al Huseini'
+  - 'artist:Layla Al Hussein'
 image: layla.jpeg
 gallery:
   - laylapoetry1.jpg

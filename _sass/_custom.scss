@@ -710,7 +710,7 @@ footer .fa { font-size: 2rem; }
 .about #contributing-artists {
 
     column-count: 2;
-    -webikit-column-count: 2;
+    -webkit-column-count: 2;
     -moz-column-count: 2;
 
     column-gap: 0px;
@@ -821,3 +821,47 @@ img.pew-logo {
 
 /*----- end Artists ------ */
 
+/*----- start Exhibition Programming ------ */
+
+#main section.exhibition-programming {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 2rem;
+    
+    column-count: 2;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+
+    .square {
+
+        width: 400px;
+    }
+
+    .content {
+        width: 50%;
+
+        header {
+            padding-top: 0;
+            margin-bottom: 1.5rem;
+
+            h1.page__title {
+                text-align: left;
+                padding-top: 0;
+            }
+            h3 { 
+                color: $primary-color; 
+            }
+        }
+    }
+
+    @media screen and (max-width: $medium-wide) {
+        .content { width: 100%; }
+        .content header {
+            padding-top: 1rem;
+       } 
+    }  
+}
+
+/*----- end Exhibition Programming ------ */

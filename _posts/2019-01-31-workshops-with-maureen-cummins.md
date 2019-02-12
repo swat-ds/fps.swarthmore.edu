@@ -14,7 +14,7 @@ tags:
   - 'artist:Fadaa Ali'
   - 'artist:Fadia Lilmakhzoub'
   - 'artist:Fouad Sakhnini'
-  - 'artist:Layla Al Huseini'
+  - 'artist:Layla Al Hussein'
   - 'artist:Marwa'
   - 'artist:Maureen Cummins'
   - 'artist:Mohamed'

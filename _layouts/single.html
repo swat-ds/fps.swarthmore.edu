@@ -24,6 +24,8 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
     <div class="page__inner-wrap" id="{% if page.id %}{{ page.id }}{% endif %}">
+      
+      {% unless page.categories contains 'exhibition programming' %}
 
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
@@ -46,6 +48,8 @@ layout: default
       <hr/>
 
       <section class="page__content" itemprop="text">
+  
+
         {% if page.toc %}
           <aside class="sidebar__right">
             <nav class="toc">
@@ -68,7 +72,13 @@ layout: default
 
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        {% else %}
+
+        {% include exhibition-program.html %}
+
       </section>
+      {% endunless %}
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}

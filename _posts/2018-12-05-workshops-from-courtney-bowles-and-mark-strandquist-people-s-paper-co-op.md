@@ -11,7 +11,7 @@ tags:
   - 'artist:Courtney Bowles'
   - 'artist:Fadaa Ali'
   - 'artist:Fouad Sakhnini'
-  - 'artist:Layla Al Huseini'
+  - 'artist:Layla Al Hussein'
   - 'artist:Mark Strandquist'
   - 'artist:Marwa'
   - 'artist:Mohamed'

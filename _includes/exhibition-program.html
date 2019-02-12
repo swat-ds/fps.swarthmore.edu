@@ -1,0 +1,45 @@
+<!-- exhibition program post template -->
+
+{% assign img_path = page.image | prepend: "/" | prepend: site.prose.media | absolute_url %}
+
+<section class="page__content exhibition-programming" itemprop="text">
+<div class="square">
+    <img src="{{ img_path }}" />
+</div>
+
+<div class="content">
+
+    <header>
+
+    {% assign title = page.title | downcase %}
+
+    <h1 class="page__title" itemprop="headline">
+    {% if page.title_ar %}
+    <span class="ar">{{ page.title_ar }}</span> / 
+    {% endif %}
+    {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+
+    <hr/>
+
+    <h3>
+
+    {% if page.event_date_ar %}
+    <span class="ar">{{ page.event_date_ar}}<br/>
+    {% if page.event_location_ar %}
+    {{ page.event_location_ar}}<br/>
+    {% endif %}
+    <br/>
+    </span>
+    {% endif %}
+
+    {{ page.event_date | markdownify | remove: "<p>" | remove: "</p>" }}
+    {% if page.event_location %}
+    </br>{{ page.event_location | markdownify | remove: "<p>" | remove: "</p>" }}
+    {% endif %}
+    </h3>
+
+    </header>
+    {{ page.content }}
+</div>
+
+</section>

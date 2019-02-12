@@ -1,5 +1,5 @@
 ---
-date: '2018-10-03 16:32 -0400'
+date: '2019-02-09 16:32 -0400'
 lang: en
 published: true
 title: Upcoming Exhibitions 2019
@@ -17,7 +17,7 @@ tags:
   - 'artist:Fadia Lilmakhzoub'
   - 'artist:Fouad Sakhnini'
   - 'artist:Islam Aly'
-  - 'artist:Layla Al Huseini'
+  - 'artist:Layla Al Hussein'
   - 'artist:Mark Strandquist'
   - 'artist:Marwa'
   - 'artist:Maureen Cummins'
