@@ -42,4 +42,5 @@ main:
   # - title: resources
   #   url: /resources/
   - title: exhibitions
-    url: /public%20events/upcoming-exhibitions-2019
+    # url: /public%20events/upcoming-exhibitions-2019
+    url: /exhibitions-and-programming/

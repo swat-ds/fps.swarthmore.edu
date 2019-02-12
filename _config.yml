@@ -111,7 +111,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 
 # Plugins (previously gems:)
@@ -239,8 +239,8 @@ prose:
               value: "artist:Fouad Sakhnini"
             - name: "Islam Aly"
               value: "artist:Islam Aly"
-            - name: "Layla Al Huseini"
-              value: "artist:Layla Al Huseini"
+            - name: "Layla Al Hussein"
+              value: "artist:Layla Al Hussein"
             - name: "Mark Strandquist"
               value: "artist:Mark Strandquist"
             - name: "Marwa"

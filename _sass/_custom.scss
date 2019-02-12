@@ -310,7 +310,7 @@ div.masthead {
 
 }
 
-h1.archive__category,
+.archive__category h1,
 h1.page__title {
 
     color: $primary-color;
@@ -422,6 +422,7 @@ footer .fa { font-size: 2rem; }
                 @include color-transition();
                 color: $blue;
                 margin-bottom: 0;
+                padding-top: 0rem;
             }
 
             &:hover h1 span {
