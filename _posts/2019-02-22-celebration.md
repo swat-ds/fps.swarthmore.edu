@@ -1,13 +1,11 @@
 ---
-lang: en
-published: true
 title: Celebration
 title_ar: "المناسبات العامة"
+lang: en
 categories:
      - exhibition programming
      - public events
      - 'exhibit:swarthmore'
-tags:
 image: 4.jpg
 event_date: "March 30, 2019 12-6pm"
 event_location: "Science Center, Swarthmore College"

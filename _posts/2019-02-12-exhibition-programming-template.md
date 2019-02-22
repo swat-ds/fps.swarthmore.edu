@@ -1,7 +1,7 @@
 ---
-lang: en
 title: Exhibition Opening & Communal Dinner
 title_ar: "المناسبات العامة"
+lang: en
 categories:
      - exhibition programming
      - public events

@@ -1,13 +1,11 @@
 ---
-lang: en
-published: true
 title: "Art, History, Experience: A Panel on Displacement"
 title_ar: "المناسبات العامة"
+lang: en
 categories:
      - exhibition programming
      - public events
      - exhibit:swarthmore
-tags:
 image: Ceramic_Fadaa.jpg
 event_date: "March 28, 2019 4:30-6pm"
 event_location: "Lang Performing Arts Center(LPAC) Cinema, Swarthmore College"

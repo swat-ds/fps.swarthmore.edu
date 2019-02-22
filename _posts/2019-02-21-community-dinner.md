@@ -1,8 +1,7 @@
 ---
-lang: en
-published: true
 title: Exhibition Opening & Community Dinner
 title_ar: "المناسبات العامة"
+lang: en
 categories:
      - exhibition programming
      - 'exhibit:swarthmore'

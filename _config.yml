@@ -188,36 +188,6 @@ prose:
           element: "text"
           label: "Event Title in Arabic"
           help: "For Exhibition Programming, Event Title in Arabic (optional)"
-      - name: "date"
-        field:
-          element: "text"
-          help: Date of post affects in which order posts appear
-          value: CURRENT_DATETIME
-      - name: "event_date"
-        field:
-          element: "text"
-          label: "Event Date"
-          help: "For Exhibition Programming, Event Date"
-      - name: "event_date_Ar"
-        field:
-          element: "text"
-          label: "Event Date in Arabic"
-          help: "For Exhibition Programming, Event Date in Arabic (optional)"
-      - name: "event_location"
-        field:
-          element: "text"
-          label: "Event Date"
-          help: "For Exhibition Programming, Event Location (optional)"
-      - name: "event_location_ar"
-        field:
-          element: "text"
-          label: "Event Date in Arabic"
-          help: "For Exhibition Programming, Event Location in Arabic (optional)"
-      - name: "event_fb_url"
-        field:
-          element: "text"
-          label: "Facebook Event URL"
-          help: "For Exhibition Programming, Event Facebook Page (optional)"
       - name: "lang"
         field:
           element: "select"
@@ -227,6 +197,11 @@ prose:
               value: "en"
             - name: "Arabic"
               value: "ar"
+      - name: "date"
+        field:
+          element: "text"
+          help: Date of post affects in which order posts appear
+          value: CURRENT_DATETIME
       - name: "categories"
         field:
           element: "multiselect"
@@ -311,6 +286,31 @@ prose:
           label: "Gallery images"
           help: Enter the filenames for uploaded images.
           alterable: true
+      - name: "event_date"
+        field:
+          element: "text"
+          label: "Event Date"
+          help: "For Exhibition Programming, Event Date"
+      - name: "event_location"
+        field:
+          element: "text"
+          label: "Event Location"
+          help: "For Exhibition Programming, Event Location (optional)"
+      - name: "event_date_ar"
+        field:
+          element: "text"
+          label: "Event Date in Arabic"
+          help: "For Exhibition Programming, Event Date in Arabic (optional)"
+      - name: "event_location_ar"
+        field:
+          element: "text"
+          label: "Event Location in Arabic"
+          help: "For Exhibition Programming, Event Location in Arabic (optional)"
+      - name: "event_fb_url"
+        field:
+          element: "text"
+          label: "Facebook Event URL"
+          help: "For Exhibition Programming, Event Facebook Page (optional)"
       - name: "published"
         field:
           element: checkbox
