@@ -33,6 +33,13 @@
       transition: color .5s;
 }
 
+@mixin background-color-transition(){
+      -webkit-transition: background-color .5s;
+      -moz-transition: background-color .5s;
+      -o-transition: background-color .5s;
+      transition: background-color .5s;
+}
+
 @mixin opacity-transition(){
       -webkit-transition: opacity .5s;
       -moz-transition: opacity .5s;
@@ -328,13 +335,31 @@ h1.archive__category.page__title {
 // Footer
 
 div.page__footer {
+
+
         background-color: rgba($light-gray, .9);
         margin-top: 0;
+
+        footer {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        footer div {
+            max-width: 20rem;
+        }
         
+        a {
+            @include color-transition();
+            text-decoration: underline;
+        }
+
+        a:hover, a:focus {
+            color: $salmon;
+        }
+
         .page__footer-follow { 
-            display: inline-block;
-            float: left;
-            max-width: 500px;
 
             a .fa {
                 @include color-transition();
@@ -344,9 +369,12 @@ div.page__footer {
                 color: $salmon;
             }
         }
+
+        .page__footer-center {
+            margin-top: 1em;
+            vertical-align: middle;
+        }
         .page__footer-copyright {
-            max-width: 500px;
-            float: right;
             margin-top: 1em;
             vertical-align: middle;
         }
@@ -854,6 +882,22 @@ img.pew-logo {
                 color: $primary-color; 
             }
         }
+    }
+
+    a.btn {
+    
+        background-color:$blue;
+        color: #fff;
+        @include background-color-transition();
+
+      &:hover {
+        color: #fff;
+        background-color:$salmon;
+      }
+
+      // &:visited {
+      //   @include yiq-contrasted($blue);
+      // }    
     }
 
     @media screen and (max-width: $medium-wide) {

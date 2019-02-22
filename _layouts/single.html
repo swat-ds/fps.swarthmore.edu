@@ -80,6 +80,18 @@ layout: default
       </section>
       {% endunless %}
 
+      {% if page.categories contains 'exhibitions' %}
+      
+      {% for c in page.categories  %}
+        {% if c contains ':' %}
+        {% assign category_posts = site.posts | where: 'categories', c | where: 'categories', 'exhibition programming' | reverse %}
+        {% include post-row.html posts = category_posts %}
+        {% endif %}
+      {% endfor %}
+
+
+      {% endif %}
+
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>

@@ -78,6 +78,7 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - "*.gempspec"
 keep_files:
   - .git
 encoding: "utf-8"
@@ -212,6 +213,11 @@ prose:
           element: "text"
           label: "Event Date in Arabic"
           help: "For Exhibition Programming, Event Location in Arabic (optional)"
+      - name: "event_fb_url"
+        field:
+          element: "text"
+          label: "Facebook Event URL"
+          help: "For Exhibition Programming, Event Facebook Page (optional)"
       - name: "lang"
         field:
           element: "select"
@@ -239,6 +245,14 @@ prose:
               value: exhibitions
             - name: "Exhibition Programming"
               value: exhibition programming
+            - name: "Swarthmore Exhibit"
+              value: "exhibit:swarthmore"
+            - name: "City Hall Exhibit"
+              value: "exhibit:city hall"
+            - name: "Twelve Gates Exhibit"
+              value: "exhibit:twelve gates"
+            - name: "Booklyn Exhibit"
+              value: "exhibit:booklyn"
       - name: "tags"
         field:
           element: "multiselect"

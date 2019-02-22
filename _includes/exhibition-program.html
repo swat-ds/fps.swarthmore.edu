@@ -40,6 +40,8 @@
 
     </header>
     {{ page.content }}
+
+    {% if page.event_fb_url %}<a class="btn btn--block btn--x-large" href="{{ page.event_fb_url }}">Facebook Event</a>{% endif %}
 </div>
 
 </section>

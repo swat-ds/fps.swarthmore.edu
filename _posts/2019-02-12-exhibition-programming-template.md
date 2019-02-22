@@ -1,6 +1,5 @@
 ---
 lang: en
-published: true
 title: Exhibition Opening & Communal Dinner
 title_ar: "المناسبات العامة"
 categories:
@@ -13,6 +12,7 @@ event_date: "March 29, 2019 6-9pm"
 event_location: "McCabe Library, Swarthmore College"
 event_date_ar: "March 29, 2019 6-9pm"
 event_location_ar: "McCabe Library, Swarthmore College"
+event_fb_url:
 published: false
 ---
 

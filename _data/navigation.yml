@@ -5,11 +5,13 @@ main:
     children:
       - title: project team
         url: /project-team/
+      # - title: funders & partners
+      #   url: /funders-and-partners/
   - title: project team
     url: /project-team/
     tag: child
-  # - title: partner organizations
-  #   url: /partner-organizations/
+  # - title: funders & partners
+  #   url: /funders-and-partners/
   #   tag: child
   - title: project
     url: /
