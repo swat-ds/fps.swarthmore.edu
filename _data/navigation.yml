@@ -5,14 +5,14 @@ main:
     children:
       - title: project team
         url: /project-team/
-      # - title: funders & partners
-      #   url: /funders-and-partners/
+      - title: press release
+        url: /press-release/
   - title: project team
     url: /project-team/
     tag: child
-  # - title: funders & partners
-  #   url: /funders-and-partners/
-  #   tag: child
+  - title: press release
+    url: /press-release/
+    tag: child
   - title: project
     url: /
     children:

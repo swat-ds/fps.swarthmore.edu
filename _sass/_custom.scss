@@ -909,3 +909,28 @@ img.pew-logo {
 }
 
 /*----- end Exhibition Programming ------ */
+
+/*----- Press Release ------ */
+
+#press-release {
+
+    h1 + h2 {
+        margin-top: 0;
+    }
+
+    p:nth-child(3), p:nth-child(4) {
+
+     text-align: center;
+    
+        img {
+            height: 200px;
+        }
+    }
+
+    strong, h3 {
+        text-transform: uppercase;
+    }
+}
+
+/*----- end Press Release ------ */
+
