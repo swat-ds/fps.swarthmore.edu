@@ -70,8 +70,9 @@ Following our conversation, please join us for a reception with a variety of Syr
 
 ٢٨ مارس ٢٠١٩ 
 {: .ar}
-
-٤:٣٠-٧ مساء
+٤:٣٠-٦ مساء
+{: .ar}
+استقبال لمتابعة من الساعة ٦-٧ مساء
 {: .ar}
 
 كلية سوارثمور: مركز لانغ للفنون في سينما
