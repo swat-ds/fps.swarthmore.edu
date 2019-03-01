@@ -1,19 +1,19 @@
 ---
-title: Exhibition Opening & Community Dinner
-title_ar: "المناسبات العامة"
+title: >-
+  Exhibition Opening & Community Dinner / افتتاح معرض الأصدقاء والسلام والملاذ
+  والعشاء المحلي
+title_ar: المناسبات العامة
 lang: en
 categories:
-     - exhibition programming
-     - 'exhibit:swarthmore'
-     - public events
-tags:
+  - public events
+  - exhibition programming
+  - 'exhibit:swarthmore'
 image: islam_inception2.JPG
-event_date: "March 29, 2019 4-8pm"
-event_location: "McCabe Library, Swarthmore College"
-event_date_ar:
-event_location_ar:
-event_fb_url: https://www.facebook.com/events/296067711049125/
+event_date: 'March 29, 2019 4-8pm'
+event_location: 'McCabe Library, Swarthmore College'
+event_fb_url: 'https://www.facebook.com/events/296067711049125/'
 published: true
+date: '2019-03-01 14:59 -0500'
 ---
 
 You are invited to celebrate the culmination of this two-year project at our exhibition opening and communal dinner to become part of the Friends, Peace & Sanctuary conversation.
@@ -23,3 +23,14 @@ Join us for the premier exhibition of artists books from world renowned book art
 After experiencing the exhibition, meet all collaborators, commissioned artists, and project team members who made this project possible at the communal dinner catered by @Aria Mediterranean Cuisine. Expect delicious food and stimulating conversation as we continue to build community together.
 
 To join us at the (free) community dinner, held at Swarthmore College's Clothier Hall, [please RSVP](https://bit.ly/FPSDinner).
+
+
+<hr/>
+
+
+نرحب بكم في احتفال ختام مشروع (الأصدقاء، السلام، والملاذ الآمن) الذي امتد على عامين و ايضا ندعوكم في المشاركة في عشاء اجتماعي لكي تصبحوا جزءا من المحادثة في مشروع (الأصدقاء، السلام، والملاذ الآمن).
+
+تفضلوا معنا في احتفال ختم مشروع (الاصدقاء، السلام والملاذ الآمن) و افتتاح معرض الأول للفنانين "إسلام علي"، "مورين كومينز"، "إيريك روين"، "كورتني بولز" و "مارك ستراندكويست"، الذين تضمنوا أبحاث المحفوظات عن تجارب اللاجئين والمهاجرين مع التجارب السورية والعراقية المعاصرة لإعادة التوطين في فيلادلفيا. وسيتم عرض أعمالهم جنباً إلى جنب مع الأعمال التي يقوم بها متعاونون من المشاريع السورية والعراقية التي تم إنتاجها خلال سلسلة من ورش العمل التي يقودها الفنانون، بالإضافة إلى مواد أرشيفية متعلقة بالنزوح من مكتبة أصدقاء كلية "سوارثمور" التاريخية ومجموعة السلام.
+
+بعد تجربة المعرض، اجتمع مع جميع المتعاونين والفنانين وأعضاء فريق المشروع الذين جعلوا هذا المشروع ممكنا في عشاء يقدمه مطبخ "أريا". توقع الطعام اللذيذ وحفز المحادثة بينما نواصل بناء المجتمع معًا.
+{: .ar}
