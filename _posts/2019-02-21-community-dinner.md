@@ -2,7 +2,6 @@
 title: >-
   Exhibition Opening & Community Dinner/افتتاح معرض الأصدقاء والسلام والملاذ
   والعشاء المحلي
-title_ar: افتتاح معرض الأصدقاء والسلام والملاذ والعشاء المحلي
 lang: en
 categories:
   - public events
