@@ -1,6 +1,6 @@
 ---
 title: Exhibition Opening & Community Dinner
-title_ar: المناسبات العامة
+title_ar: افتتاح معرض الأصدقاء والسلام والملاذ والعشاء المحلي
 lang: en
 categories:
   - public events
@@ -8,10 +8,33 @@ categories:
   - 'exhibit:swarthmore'
 image: islam_inception2.JPG
 event_date: 'March 29, 2019 4-8pm'
-event_location: 'McCabe Library, Swarthmore College'
+event_location: 'Swarthmore College: McCabe Library/Upper Tarble (Clothier Hall)'
 event_fb_url: 'https://www.facebook.com/events/296067711049125/'
 published: true
 date: '2019-03-01 14:59 -0500'
+tags:
+  - 'artist:Amaal AlNajjar'
+  - 'artist:Abir AlArnab'
+  - 'artist:Abdul Karim Awad'
+  - 'artist:Ali Salman'
+  - 'artist:Asmaa Diab'
+  - 'artist:Courtney Bowles'
+  - 'artist:Erik Ruin'
+  - 'artist:Fadaa Ali'
+  - 'artist:Fadia Lilmakhzoub'
+  - 'artist:Fouad Sakhnini'
+  - 'artist:Islam Aly'
+  - 'artist:Layla Al Hussein'
+  - 'artist:Mark Strandquist'
+  - 'artist:Marwa'
+  - 'artist:Maureen Cummins'
+  - 'artist:Mohamed'
+  - 'artist:Osama Herkal'
+  - 'artist:Raghad'
+  - 'artist:Roula Al Jabi'
+  - 'artist:Samah AlKasab'
+event_location_ar: 'قاعة كلوثير/كلية سوارثمور: مكتبة مكايب'
+event_date_ar: ٢٩ مارس ٢٠١٩ ٤-٨ مساء
 ---
 
 You are invited to celebrate the culmination of this two-year project at our exhibition opening and communal dinner to become part of the Friends, Peace & Sanctuary conversation.
