@@ -1,5 +1,5 @@
 ---
-title: Exhibition Opening & Community Dinner
+title: 'Exhibition Opening & Community Dinner/قاعة كلوثير/كلية سوارثمور: مكتبة مكايب'
 title_ar: افتتاح معرض الأصدقاء والسلام والملاذ والعشاء المحلي
 lang: en
 categories:
