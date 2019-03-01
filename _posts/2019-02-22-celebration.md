@@ -54,6 +54,8 @@ This all-day community event celebrates two years of community collaboration tha
 
 ١٢ بعد ظهر الي ٦ مساء
 {: .ar}
+عرض موسيقي من ٥-٦
+{: .ar}
 
 كلية سوارثمور: مركز العلوم
 {: .ar}
