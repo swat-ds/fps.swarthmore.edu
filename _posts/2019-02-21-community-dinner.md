@@ -47,8 +47,10 @@ To join us at the (free) community dinner, held at Swarthmore College's Clothier
 
 ٢٩ مارس ٢٠١٩ 
 {: .ar}
+
 ٤-٨ مساء
 {: .ar}
+
 كلية سوارثمور: مكتبة مكايب و قاعة كلوثير
 {: .ar}
 
