@@ -50,6 +50,7 @@ This all-day community event celebrates two years of community collaboration tha
 
 <hr/>
 
+
 يرحب مشروع الاصدقاء، السلام والملاذ الآمن بالأصدقاء وأفراد العائلة من جميع الأعمار لتجربة الأشخاص والطعام والفن في قلب المشروع خلال إفتاح معرض في كلية سوارثمور!
 {: .ar}
 
