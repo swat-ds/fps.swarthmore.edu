@@ -1,5 +1,5 @@
 ---
-title: Community Celebration | احتفال مجتمع مشروع
+title: 'SATURDAY: Community Celebration | احتفال مجتمع مشروع'
 lang: en
 categories:
   - public events
@@ -74,4 +74,3 @@ This all-day community event celebrates two years of community collaboration tha
 
 يحتفل هذا الحدث المجتمعي الذي يستمر على مدار اليوم بسنتين من التعاون المجتمعي الذي أدى إلى معرض الأصدقاء والسلام والمعبد الحالي. جرب هذه الأعمال من الآن وحتى نهاية أبريل قبل أن ينتقل معرض موسع إلى مركز المدينة في صيف ٢٠١٩.
 {: .ar}
-
