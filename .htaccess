@@ -1,0 +1,9 @@
+# Six months for image files
+<filesMatch ".(jpg|jpeg|png|gif)$">
+Header set Cache-Control "max-age=15768000, public"
+</filesMatch>
+# One week for css, js, svg
+<filesMatch ".(css|js|svg|ico)$">
+Header set Cache-Control "max-age=604800, public"
+</filesMatch>
+ErrorDocument 404 /404.html

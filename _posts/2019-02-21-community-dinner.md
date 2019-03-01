@@ -22,4 +22,4 @@ Join us for the premier exhibition of artists books from world renowned book art
 
 After experiencing the exhibition, meet all collaborators, commissioned artists, and project team members who made this project possible at the communal dinner catered by @Aria Mediterranean Cuisine. Expect delicious food and stimulating conversation as we continue to build community together.
 
-To join us at the (free) community dinner, held at Swarthmore College's Clothier Hall, [please RSVP](bit.ly/FPSDinner).
+To join us at the (free) community dinner, held at Swarthmore College's Clothier Hall, [please RSVP](https://bit.ly/FPSDinner).
