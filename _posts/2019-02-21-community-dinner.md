@@ -34,8 +34,9 @@ tags:
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
-event_location_ar: 'قاعة كلوثير/كلية سوارثمور: مكتبة مكايب'
-event_date_ar: ٢٩ مارس ٢٠١٩ ٤-٨ مساء
+event_location_ar: 'كلية سوارثمور: مكتبة مكايب و قاعة كلوثير'
+event_date_ar: ٢٩ مارس ٢٠١٩  - ٤-٨ مساء
+title_ar: افتتاح معرض الأصدقاء والسلام والملاذ والعشاء المحلي
 ---
 
 You are invited to celebrate the culmination of this two-year project at our exhibition opening and communal dinner to become part of the Friends, Peace & Sanctuary conversation.
