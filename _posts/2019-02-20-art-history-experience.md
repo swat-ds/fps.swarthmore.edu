@@ -34,8 +34,6 @@ tags:
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
-event_date_ar: '٢٨ مارس . \ ٤:٣٠-٦ مساء'
-event_location_ar: 'كلية سوارثمور: مركزلانغ للفنون في سينما'
 ---
 
 The United Nations High Commission on Refugees estimates that there are currently more than 65.6 million forcibly displaced persons throughout the globe—the largest number since the second world war. 
@@ -76,7 +74,7 @@ Following our conversation, please join us for a reception with a variety of Syr
 ٤:٣٠-٧ مساء
 {: .ar}
 
-كلية سوارثمور: مكتبة مكايب و قاعة كلوثير
+كلية سوارثمور: مركز لانغ للفنون في سينما
 {: .ar}
 
 تقدر المفوضية العليا لشؤون اللاجئين التابعة للأمم المتحدة أنه يوجد حالياً أكثر من 65.6 مليون نازح في جميع أنحاء العالم - وهو أكبر عدد منذ الحرب العالمية الثانية.
