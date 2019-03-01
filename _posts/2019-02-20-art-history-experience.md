@@ -2,7 +2,6 @@
 title: >-
   Art, History, Experience: A Panel on Displacement | الفن والتاريخ والخبرة:
   مناقشة حول النزوح
-title_ar: المناسبات العامة
 lang: en
 categories:
   - public events
