@@ -6,7 +6,7 @@ categories:
   - exhibition programming
   - 'exhibit:swarthmore'
 image: islam_inception2.JPG
-event_date: 'March 29, 2019 4-8pm'
+event_date: 'March 29, 2019 | 4-8pm'
 event_location: 'Swarthmore College: McCabe Library/Upper Tarble (Clothier Hall)'
 event_fb_url: 'https://www.facebook.com/events/296067711049125/'
 published: true
@@ -33,7 +33,7 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 event_location_ar: 'كلية سوارثمور: مكتبة مكايب و قاعة كلوثير'
-event_date_ar: ٢٩ مارس ٢٠١٩  - ٤-٨ مساء
+event_date_ar: ٢٩ مارس ٢٠١٩  | ٤-٨ مساء
 ---
 
 You are invited to celebrate the culmination of this two-year project at our exhibition opening and communal dinner to become part of the Friends, Peace & Sanctuary conversation.
