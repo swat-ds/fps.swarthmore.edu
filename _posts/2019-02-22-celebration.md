@@ -32,8 +32,6 @@ tags:
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
-event_date_ar: ٣٠ مارس ٢٠١٩ \ ٤-٨ مساء
-event_location_ar: 'كلية سوارثمور: مركز العلوم'
 ---
 
 Friends, Peace & Sanctuary welcomes friends and family members of all ages to experience the people, food, and art at the heart of the project during the exhibition’s opening weekend at Swarthmore College! 
@@ -57,7 +55,7 @@ This all-day community event celebrates two years of community collaboration tha
 ١٢ بعد ظهر الي ٦ مساء
 {: .ar}
 
-كلية سوارثمور: مكتبة مكايب و قاعة كلوثير
+كلية سوارثمور: مركز العلوم
 {: .ar}
 
 يرحب مشروع الاصدقاء، السلام والملاذ الآمن بالأصدقاء وأفراد العائلة من جميع الأعمار لتجربة الأشخاص والطعام والفن في قلب المشروع خلال إفتاح معرض في كلية سوارثمور!
