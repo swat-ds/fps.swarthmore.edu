@@ -10,7 +10,7 @@ event_date: 'March 29, 2019 / 4-8pm'
 event_location: 'Swarthmore College: McCabe Library/Upper Tarble (Clothier Hall)'
 event_fb_url: 'https://www.facebook.com/events/296067711049125/'
 published: true
-date: '2019-03-01 14:59 -0500'
+date: '2019-03-01 15:57 -0500'
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abir AlArnab'
