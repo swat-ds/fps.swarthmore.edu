@@ -42,7 +42,7 @@ This Community Celebration offers you the chance to experience a taste of the pr
 
 You will get to sample Syrian and Iraqi food, learn more about partner organizations, and participate in a variety of art demonstrations. These include: letterpress with Maureen Cummins, laser cutting with Islam Aly, papermaking with Mark Strandquist and Courtney Bowles, and silk-screening with Second State Press—all techniques used by book artists and Syrian and Iraqi collaborators to produce the works on view in the exhibitions.
 
-Closing out the Community Celebration will be the premiere of Erik Ruin’s musical collaboration with Julius Al-Masry, a companion to his artists’ book. You won’t want to miss this multisensory performance. 
+Closing out the Community Celebration will be the premiere of Julius Al-Masry and Erik Ruin’s visual-musical collaboration, a companion to his artists’ book. You won’t want to miss this multisensory performance. 
 
 This all-day community event celebrates two years of community collaboration that has led to the current Friends, Peace & Sanctuary exhibition. Experience these works from now until the end of April before an expanded exhibition moves to Center City in Summer 2019.
 
