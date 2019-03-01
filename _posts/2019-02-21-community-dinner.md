@@ -32,8 +32,6 @@ tags:
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
-event_location_ar: 'كلية سوارثمور: مكتبة مكايب و قاعة كلوثير'
-event_date_ar: ٢٩ مارس ٢٠١٩ \ ٤-٨ مساء
 ---
 
 You are invited to celebrate the culmination of this two-year project at our exhibition opening and communal dinner to become part of the Friends, Peace & Sanctuary conversation.
@@ -47,6 +45,12 @@ To join us at the (free) community dinner, held at Swarthmore College's Clothier
 
 <hr/>
 
+٢٩ مارس ٢٠١٩ 
+{: .ar}
+٤-٨ مساء
+{: .ar}
+كلية سوارثمور: مكتبة مكايب و قاعة كلوثير
+{: .ar}
 
 نرحب بكم في احتفال ختام مشروع الأصدقاء، السلام، والملاذ الآمن الذي امتد على عامين و ايضا ندعوكم في المشاركة في عشاء اجتماعي لكي تصبحوا جزءا من المحادثة في مشروع الأصدقاء، السلام، والملاذ الآمن.
 {: .ar}
