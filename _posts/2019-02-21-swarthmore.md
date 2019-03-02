@@ -2,7 +2,7 @@
 lang: en
 date: '2019-03-01 21:28 -0500'
 published: true
-title: 'SPRING 2019: Exhibitions at Swarthmore College'
+title: 'SPRING 2019: Exhibition Premier at Swarthmore College'
 ---
 
 Connecting renowned book artists with individuals who have resettled to Philadelphia from Syria and Iraq, the Friends, Peace, & Sanctuary project has worked to create and share works that explore art’s capacity to increase belonging and empathy. 
