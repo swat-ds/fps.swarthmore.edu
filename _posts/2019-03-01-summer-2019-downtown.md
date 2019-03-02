@@ -5,6 +5,7 @@ published: true
 title: 'SUMMER 2019: Downtown'
 categories:
   - exhibitions
+image: erik_collab_journeys4.jpg
 ---
 Each of the three downtown sites will exhibit a different aspect/side of the project.
 
