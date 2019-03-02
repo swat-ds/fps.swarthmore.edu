@@ -5,6 +5,7 @@ published: true
 title: 'SPRING 2019: Exhibition Premier at Swarthmore College'
 categories:
   - exhibitions
+image: islam_inception2.JPG
 ---
 
 Connecting renowned book artists with individuals who have resettled to Philadelphia from Syria and Iraq, the Friends, Peace, & Sanctuary project has worked to create and share works that explore art’s capacity to increase belonging and empathy. 
