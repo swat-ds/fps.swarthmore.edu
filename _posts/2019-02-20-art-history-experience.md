@@ -8,7 +8,7 @@ categories:
   - exhibition programming
   - 'exhibit:swarthmore'
 image: Ceramic_Fadaa.jpg
-event_date: 'March 28, 2019 4:30-6pm'
+event_date: 'March 28, 2019 4:30-6pm / Reception: 6-7pm'
 event_location: 'Lang Performing Arts Center(LPAC) Cinema, Swarthmore College'
 event_fb_url: 'https://www.facebook.com/events/541753682896910/'
 published: true
@@ -70,9 +70,9 @@ Following our conversation, please join us for a reception with a variety of Syr
 
 ٢٨ مارس ٢٠١٩ 
 {: .ar}
-٤:٣٠إلى ٦ مساء
+٤:٣٠ إلى ٦ مساء
 {: .ar}
-استقبال لمتابعة من الساعة ٦إلى٧ مساء
+استقبال لمتابعة من الساعة ٦ إلى٧ مساء
 {: .ar}
 
 كلية سوارثمور:سينما مركز لانغ للفنون 
