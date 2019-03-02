@@ -2,7 +2,6 @@
 title: ' FRIDAY: Exhibition Opening & Communal Dinner | افتتاح معرض الأصدقاء والسلام والملاذ والعشاء المحلي'
 lang: en
 categories:
-  - public events
   - exhibition programming
   - 'exhibit:swarthmore'
 image: islam_inception2.JPG
