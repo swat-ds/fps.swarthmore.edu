@@ -6,6 +6,23 @@ title: 'SUMMER 2019: Downtown'
 categories:
   - exhibitions
 image: erik_collab_journeys4.jpg
+gallery:
+  - 5.jpg
+  - FPS. Maureen. Wksp3 (1).JPG
+  - IMG_5695.jpg
+  - IMG_5701.jpg
+  - IMG_6411 (1).jpg
+  - images_tableSmall.jpg
+  - PPC_Wksp2_Humanity.jpg
+  - PPC_Wksp2_Money.jpg
+  - erik_journeys.jpg
+  - erik_journeys2.jpg
+  - erik_journeys3.jpg
+  - erik_journeys4.jpg
+  - erik_journeys5.jpg
+  - islam_inception.JPG
+  - islam_inception2.JPG
+  - islam_inception4.jpg
 ---
 Each of the three downtown sites will exhibit a different aspect/side of the project.
 
