@@ -5,8 +5,12 @@ published: true
 title: 'SPRING 2019: Exhibition Premier at Swarthmore College'
 categories:
   - exhibitions
+  - 'exhibit:city hall'
+  - 'exhibit:twelve gates'
 image: islam_inception2.JPG
 ---
+
+This exhbition will be up from March 29, 2019 until April 24, 2019 at McCabe Library at Swarthmore College.
 
 Connecting renowned book artists with individuals who have resettled to Philadelphia from Syria and Iraq, the Friends, Peace, & Sanctuary project has worked to create and share works that explore art’s capacity to increase belonging and empathy. 
 
