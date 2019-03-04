@@ -2,7 +2,7 @@
 lang: en
 date: '2019-03-01 21:30 -0500'
 published: true
-title: 'SUMMER 2019: Downtown'
+title: 'SUMMER 2019: 3 sites Center City Philadelphia'
 categories:
   - exhibitions
 image: erik_collab_journeys4.jpg
