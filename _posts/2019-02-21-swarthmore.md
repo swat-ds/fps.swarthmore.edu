@@ -5,9 +5,29 @@ published: true
 title: 'SPRING 2019: Exhibition Premier at Swarthmore College'
 categories:
   - exhibitions
-  - 'exhibit:city hall'
-  - 'exhibit:twelve gates'
+  - 'exhibit:swarthmore'
 image: islam_inception2.JPG
+tags:
+  - 'artist:Amaal AlNajjar'
+  - 'artist:Abir AlArnab'
+  - 'artist:Abdul Karim Awad'
+  - 'artist:Ali Salman'
+  - 'artist:Asmaa Diab'
+  - 'artist:Courtney Bowles'
+  - 'artist:Erik Ruin'
+  - 'artist:Fadaa Ali'
+  - 'artist:Fadia Lilmakhzoub'
+  - 'artist:Fouad Sakhnini'
+  - 'artist:Islam Aly'
+  - 'artist:Layla Al Hussein'
+  - 'artist:Mark Strandquist'
+  - 'artist:Marwa'
+  - 'artist:Maureen Cummins'
+  - 'artist:Mohamed'
+  - 'artist:Osama Herkal'
+  - 'artist:Raghad'
+  - 'artist:Roula Al Jabi'
+  - 'artist:Samah AlKasab'
 ---
 
 This exhbition will be up from March 29, 2019 until April 24, 2019 at McCabe Library at Swarthmore College.
