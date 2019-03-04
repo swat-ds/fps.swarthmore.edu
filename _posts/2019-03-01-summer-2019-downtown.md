@@ -5,6 +5,8 @@ published: true
 title: 'SUMMER 2019: 3 sites Center City Philadelphia'
 categories:
   - exhibitions
+  - 'exhibit:city hall'
+  - 'exhibit:twelve gates'
 image: erik_collab_journeys4.jpg
 gallery:
   - 5.jpg
@@ -23,6 +25,27 @@ gallery:
   - islam_inception.JPG
   - islam_inception2.JPG
   - islam_inception4.jpg
+tags:
+  - 'artist:Amaal AlNajjar'
+  - 'artist:Abir AlArnab'
+  - 'artist:Abdul Karim Awad'
+  - 'artist:Ali Salman'
+  - 'artist:Asmaa Diab'
+  - 'artist:Courtney Bowles'
+  - 'artist:Erik Ruin'
+  - 'artist:Fadaa Ali'
+  - 'artist:Fadia Lilmakhzoub'
+  - 'artist:Fouad Sakhnini'
+  - 'artist:Islam Aly'
+  - 'artist:Layla Al Hussein'
+  - 'artist:Mark Strandquist'
+  - 'artist:Marwa'
+  - 'artist:Maureen Cummins'
+  - 'artist:Mohamed'
+  - 'artist:Osama Herkal'
+  - 'artist:Raghad'
+  - 'artist:Roula Al Jabi'
+  - 'artist:Samah AlKasab'
 ---
 Each of the three downtown sites will exhibit a different aspect/side of the project.
 
