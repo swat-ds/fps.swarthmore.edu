@@ -22,8 +22,6 @@ tags:
   - 'artist:Samah AlKasab'
 image: erik_collab_journeys_many.jpg
 gallery:
-  - erik_collab_journeys.jpg
-  - erik_collab_journeys10.jpg
   - erik_collab_journeys11.jpg
   - erik_collab_journeys12.jpg
   - erik_collab_journeys13.jpg
@@ -39,6 +37,8 @@ gallery:
   - erik_collab_journeysprep4.JPG
   - erik_collab_journeysprep5.JPG
   - erik_collab_journeysprep6.JPG
+  - erik_collab_journeys.jpg
+  - erik_collab_journeys10.jpg
 ---
 Erik Ruin led the third series of artist workshops sharing his techniques for paper cutting and silk screening alongside his methods for developing visual vocabulary and multivocal narratives.  The workshops focused around exploring how to visually express the story of journeys in the form of silk-screened accordion books. Accordion books are made from a single long piece of paper folded many times to create pages. This was the selected artistic medium to allow the the reader to look at either a portion or the whole of an image at one time, making them uniquely well-suited to tell the story of a journey. By the end of the workshops, collaborators and participants created their own accordion books based on their experiences and interpretations of the idea of journey and transition. These workshops took place across three Sundays in April/May 2018. Like the other artist workshops, the first two occurred at Prince of Peace Church in the northeast and the third at Second State Press.
 
