@@ -7,8 +7,8 @@ categories:
 image: islam_inception2.JPG
 event_date: 'March 29, 2019 '
 event_location: >-
-  4:30-6pm - Opening Exhibition: Swarthmore College: McCabe Library | 6-8pm -
-  Communal Dinner: Upper Tarble (Clothier Hall)
+  4:30-6pm - Opening Exhibition at Swarthmore College: McCabe Library | 6-8pm -
+  Communal Dinner at Upper Tarble (Clothier Hall)
 event_fb_url: 'https://www.facebook.com/events/296067711049125/'
 published: true
 date: '2019-03-01 15:57 -0500'
