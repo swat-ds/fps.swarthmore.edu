@@ -3,6 +3,49 @@ lang: en
 date: '2019-03-20 17:54 -0400'
 published: true
 title: 'Alternative Structures: Artist Workshops with Islam Aly'
+categories:
+  - workshops
+tags:
+  - 'artist:Amaal AlNajjar'
+  - 'artist:Abdul Karim Awad'
+  - 'artist:Ali Salman'
+  - 'artist:Asmaa Diab'
+  - 'artist:Fadaa Ali'
+  - 'artist:Fadia Lilmakhzoub'
+  - 'artist:Fouad Sakhnini'
+  - 'artist:Islam Aly'
+  - 'artist:Layla Al Hussein'
+  - 'artist:Mark Strandquist'
+  - 'artist:Marwa'
+  - 'artist:Mohamed'
+  - 'artist:Osama Herkal'
+  - 'artist:Raghad'
+  - 'artist:Roula Al Jabi'
+  - 'artist:Samah AlKasab'
+image: islam_wksp1.jpg
+gallery:
+  - islam_wksp11.jpg
+  - islam_wksp2.jpg
+  - islam_wksp3.jpg
+  - islam_wksp4.jpg
+  - islam_wksp5.jpg
+  - islam_wksp6.jpg
+  - islam_wksp7.jpg
+  - islam_wksp8.jpg
+  - islam_wksp9.jpg
+  - islam_wksp10.jpg
+  - islam_wksp12.jpg
+  - islam_wksp13.jpg
+  - islam_wksp14.jpg
+  - islam_wksp15.jpg
+  - islam_wksp16.jpg
+  - islam_wksp17.jpg
+  - islam_wksp18.jpg
+  - islam_wksp19.jpg
+  - islam_wksp20.jpg
+  - islam_wksp21.jpg
+  - islam_wksp22.jpg
+  - islam_wksp23.jpg
 ---
 Islam Aly led the fourth and final series of the book artist’s workshops. Islam offered three intensive workshops on advanced book binding practices. His series focused on creating book structures capable of housing multiple narratives within the same book. He encouraged collaborators to share their stories using text, image, typography, and calligraphy in elegant and simple book structures. He also demonstrated methods of book binding that participants could complete at their home desk or kitchen table. The emphasis of the workshops were the connections between the book form and it’s content.These workshops took place across three Sundays in May and June 2018. The first two occurred at Prince of Peace Church in the northeast and the third at [Fleisher Art Memorial](https://fleisher.org/).
 
