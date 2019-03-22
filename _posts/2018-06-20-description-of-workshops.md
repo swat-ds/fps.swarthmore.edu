@@ -2,7 +2,7 @@
 date: '2018-06-20 13:14 -0400'
 lang: en
 published: true
-title: Workshops overview
+title: Overview of Workshops
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abir AlArnab'
