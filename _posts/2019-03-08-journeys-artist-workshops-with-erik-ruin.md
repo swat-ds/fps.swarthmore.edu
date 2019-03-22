@@ -45,14 +45,17 @@ Erik Ruin led the third series of artist workshops sharing his techniques for pa
 <hr/>
 
 **Workshop 1:**
+
 In the first workshop, Erik demonstrated his methods for story development and drawing. He led a discussion on different ways that images can be used to depict narratives using a slideshow of his own work in addition to rare works and archives from Swarthmore Library and Erik’s personal collection.
 
 Each collaborator and participant received a tool kit including a sketchbook, notebook, healing mat, exacto knives, and more to etch their narratives. Erik led the group in different ways they could layout their work, moving into a mapping exercise to begin planning what and how participants wanted to illustrate their narratives. Participants were each given 8’ x 24’ paper to fold into either 4 or 6 sections. It was critical to ensure that images were drawn in a way that connected each section together to prepare for creating positives that would be burned into screens. 
 
 **Workshop 2:**
+
 Building on this in his second session, Erik shared his techniques for cutting paper templates that can be used to prepare and burn silkscreens for printing. Throughout this workshop collaborators and participants continued to draw and cut their narratives into paper, applying the techniques learned in practice.  
 
 Between the second and third workshops, Erik and Artistic Director Suzanne Seesman took the paper cuts to burn silk screens at Second State Press that would be used in the final workshop.
 
 **Workshop 3:**
-Erik demonstrated how to make prints using a prepared screen at his third and final workshop at Second State Press. The workshop was joined by another commissioned book artist, Islam Aly, who provided additional support and guidance. Collaborators and participants worked together to print and edition each person’s individual accordion book. They also played with mixing paint to make colors that would reflect another aspect of the journeys they were sharing. Each maker’s book played with the template of the accordion form and explored literal and symbolic ideas about journey in unique ways. 
+
+Erik demonstrated how to make prints using a prepared screen at his third and final workshop at Second State Press. The workshop was joined by another commissioned book artist, Islam Aly, who provided additional support and guidance. Collaborators and participants worked together to print and edition each person’s individual accordion book. They also played with mixing paint to make colors that would reflect another aspect of the journeys they were sharing. Each maker’s book played with the template of the accordion form and explored literal and symbolic ideas about journey in unique ways.
