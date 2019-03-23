@@ -2,7 +2,7 @@
 lang: en
 date: '2019-03-01 21:28 -0500'
 published: true
-title: 'SPRING 2019: Exhibition Premier at Swarthmore College'
+title: Exhibition Premier at Swarthmore College 3/28/19-4/24/19
 categories:
   - exhibitions
   - 'exhibit:swarthmore'
