@@ -52,12 +52,15 @@ Islam Aly led the fourth and final series of the book artist’s workshops. Isla
 <hr/>
 
 **Workshop 1:**
+
 Islam opened with a presentation of various artists who use special book structures that convey multiple narratives. He taught the basics of bookmaking including folding, sewing pamphlets and using adhesives. The workshop started with simple book structures and moved into more advanced structures like double sewn pamphlet, double-wire spiral binding, french door, back to back, and basic stiff leaf structure and its variations We will Working with handmade paper, museum board, book cloth and other materials, Islam led the exploration of the relationship between bindings and materials. 
 
 **Workshop 2:**
+
 Starting with a discussion regarding participant's stories, Islam led the group to consider which structures would fit best with their stories. The second workshop focused on how to use the binding techniques to create unique books, particularly the basic stiff leaf structure and how this structure provides a complete view of the content. They explored how the structure can operate as a traditional codex and the ways it allows creating folios using various elements. They investigated different variations such as, using printed material as the hinge, using windows, creating mats or inserts, and hinging accordion folds. The participants explored ways to include found text, images, typography and calligraphy into their books. Participants left this workshop with a solid knowledge regarding the stiff leaf structure as well as a variety of simple, and beautiful structures.
 
 **Workshop 3:**
+
 At the legendary Philadelphia community arts space, Fleisher Art Memorial, Islam focused his third workshop on adding content to the books using different printing techniques stenciling, gelatin printing, transfer drawings and more. While the structures and binding techniques he shared required no specialized equipment to complete, Islam used the space and tools available to show the group how to make prints for covers or interior pages with linoleum and recycled styrofoam. The interactions with Islam were not guided by any particular themes, so each book that collaborators and participants made tells a different story, many of which were 3D with samples of weaving and spices using the multicover book structure to question how peace is defined. Each participant left these workshops having made at least one book. 
 
 
