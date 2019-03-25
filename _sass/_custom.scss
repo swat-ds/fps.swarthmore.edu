@@ -934,3 +934,25 @@ img.pew-logo {
 
 /*----- end Press Release ------ */
 
+/*----- Threnody ------ */
+
+.threnody-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    a {
+        width: 33%;
+        min-width: 300px;
+        margin-bottom: 1.5rem;
+    }
+}
+
+#\2f threnody footer.page__meta {
+    display: none;
+}
+
+/*----- end Threnody ------ */
+
+
+
