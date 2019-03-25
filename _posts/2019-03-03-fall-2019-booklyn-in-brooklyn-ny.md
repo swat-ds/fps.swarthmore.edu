@@ -3,7 +3,8 @@ lang: en
 date: '2019-03-03 22:40 -0500'
 published: true
 title: 'FALL 2019: Booklyn in Brooklyn, NY'
-image: booklyn.png
+gallery:
+    - booklyn.png
 categories:
   - exhibitions
   - 'exhibit:booklyn'

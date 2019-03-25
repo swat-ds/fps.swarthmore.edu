@@ -12,3 +12,4 @@ node_modules
 _config.gh-pages.yml
 
 Gemfile.lock
+images_orig

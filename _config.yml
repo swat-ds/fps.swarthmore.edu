@@ -79,6 +79,7 @@ exclude:
   - Rakefile
   - README
   - "*.gempspec"
+  - images_orig
 keep_files:
   - .git
 encoding: "utf-8"
