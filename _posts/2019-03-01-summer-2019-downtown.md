@@ -71,13 +71,11 @@ June 7th: _First Friday Opening_
 
 ## **[Parkway Central Free Library](http://www.freelibrary.org/)**
 
-June 7th - July 26th
+June 7th - August 2nd
 
 
 
 
 ## **[Philadelphia City Hall](http://creativephl.org/exhibitions/)**
 
-June 7th - August 2nd
-
-
+June 7th - July 26th
