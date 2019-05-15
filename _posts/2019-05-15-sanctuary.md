@@ -3,6 +3,14 @@ lang: en
 date: '2019-05-15 17:52 -0400'
 published: true
 title: SANCTUARY
+categories:
+  - exhibitions
+image: Friends_cover.png
+gallery:
+  - threnody-1.jpg
+  - islam_inception2.JPG
+  - ak.JPG
+  - fadaa_amaal.jpg
 ---
 A recurring question surfaced in both public and private conversations over the past two years of the Friends, Peace, and Sanctuary project. “Why, when we (Syrians and Iraqis) know so much about American culture, do Americans know so little about ours?”. Forming connections as friends takes time. It requires trust and reciprocity. To expose pieces of individual and collective selves—sharing culture, beliefs, feelings, and personal stories—both parties must be fully present with one another.  Home is a reflection of self, and to be invited to share a meal or drink tea is to welcome another into one’s own personal museum of history, beliefs, and current status in the modern world. When shared with friends, a home can become a place of refuge and a space to honor difference.
 
