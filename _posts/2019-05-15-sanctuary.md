@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-15 17:52 -0400'
 published: true
-title: FRIENDS
+title: FRIENDS (JUNE 7 - AUGUST 15)
 categories:
   - exhibitions
 image: Friends_cover.png
