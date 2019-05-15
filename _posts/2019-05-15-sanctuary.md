@@ -20,10 +20,9 @@ In partnership with [12Gates Arts](http://www.twelvegatesarts.org/), _Friends, P
 
 **Programs:**
 
--June 7, 2019 at 6-8:30pm - First Friday Opening Reception with live performance by Erik Ruin and Julius Masry
+-June 7, 2019 at 6-8:30pm - _First Friday Opening Reception with live performance by Erik Ruin and Julius Masry_
 
--June 8, 2019 from 10am-1pm | Art-Making with Islam Aly
-
+-June 8, 2019 from 10am-1pm - _Art-Making with Islam Aly_
 
 **About 12Gates Arts:**
 
