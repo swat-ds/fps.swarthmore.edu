@@ -19,8 +19,8 @@ Throughout the _Friends, Peace, and Sanctuary_ project, participants opened thei
 In partnership with [12Gates Arts](http://www.twelvegatesarts.org/), _Friends, Peace, and Sanctuary_ invites you into their home away from home – the gallery. Join us in experiencing everything from sculptures and dictionaries to archaeology books and paintings that celebrate and enumerate cultural and historical moments, conversations, personal stories, and most of all, friendships. These artworks reflect the process of artmaking that rectifies misinformation about Syrian and Iraqi cultures and the global resettlement process by expanding the space in our hearts for more empathy, belonging, and friendship. Artists on display include FPS collaborators and book artists: Layla Al-Huseini, Fadaa Ali, Islam Ali, Samah Al-Kasab, Asmaa Diab, Amaal Alnajar, Abdul Karim Awad, Maureen Cummins, Osama Herkal, Mohamed, Marwa, Fadia, Erik Ruin, Fouad Sakhnini, and Ali Salman.
 
 Programs:
-June 7 6-8:30pm | First Friday Opening Reception with live performance by Erik Ruin and Julius Masry
-June 8 | 10-1 | Art-Making with Islam Aly
+June 7, 2019 at 6-8:30pm - First Friday Opening Reception with live performance by Erik Ruin and Julius Masry
+June 8, 2019 from 10am-1pm | Art-Making with Islam Aly
 
 
 About 12Gates Arts:
