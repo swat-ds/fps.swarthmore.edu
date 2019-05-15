@@ -122,7 +122,7 @@ Each site will be focused around different themes and goals of the project that 
 ## **Center City Philadelphia, PA**
 
 
-## __FRIENDS
+## FRIENDS
 
 **[Twelve Gates Arts](http://www.twelvegatesarts.org/)**
 
@@ -132,7 +132,7 @@ June 7th: _First Friday Opening_
 
 
 
-## __PEACE
+## PEACE
 
 **[Parkway Central Free Library](http://www.freelibrary.org/)**
 
@@ -141,7 +141,7 @@ June 7th - August 2nd
 
 
 
-## __SANCTUARY
+## SANCTUARY
 
 **[Philadelphia City Hall](http://creativephl.org/exhibitions/)**
 
