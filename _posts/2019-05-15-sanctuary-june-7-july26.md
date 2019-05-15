@@ -24,7 +24,7 @@ Informative and demanding, this exhibition showcases artworks that provoke and r
 **Programs:**
 
 - June 6: _Flag-raising kick-off of Immigrant Heritage Month with the Office of Immigrant Affairs_
-- June 15 from 2pm-5pm at Asian Arts Initiative: Beyond Borders and Binaries: A Conversation and Workshop 
+- June 15 from 2pm-5pm at Asian Arts Initiative (an official event of Immigrant Heritage Month with the Office of Immigrant Affairs: [Beyond Borders and Binaries: A Conversation and Workshop](http://asianartsinitiative.org/event/beyond-borders-and-binaries)
 
 
 **About Art in City Hall:**
