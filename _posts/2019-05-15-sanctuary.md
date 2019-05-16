@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-15 00:00 -0400'
 published: true
-title: 'Sanctuary: June 7 - July 26, 2019'
+title: 'Sanctuary: June 7-July 26, 2019'
 categories:
   - exhibitions
 gallery:
