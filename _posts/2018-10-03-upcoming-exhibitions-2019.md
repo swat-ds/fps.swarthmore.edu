@@ -122,7 +122,7 @@ Each site will be focused around different themes and goals of the project that 
 ## **Center City Philadelphia, PA**
 
 
-## FRIENDS
+## [FRIENDS](http://fps.swarthmore.edu/exhibitions/friends/)
 
 **[Twelve Gates Arts](http://www.twelvegatesarts.org/)**
 
@@ -132,7 +132,7 @@ June 7th: _First Friday Opening_
 
 
 
-## PEACE
+## [PEACE](http://fps.swarthmore.edu/exhibitions/peace/)
 
 **[Parkway Central Free Library](http://www.freelibrary.org/)**
 
@@ -141,7 +141,7 @@ June 7th - August 2nd
 
 
 
-## SANCTUARY
+## [SANCTUARY](http://fps.swarthmore.edu/exhibitions/sanctuary/)
 
 **[Philadelphia City Hall](http://creativephl.org/exhibitions/)**
 
