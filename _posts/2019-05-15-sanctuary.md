@@ -1,29 +1,34 @@
 ---
 lang: en
-date: '2019-05-15 17:52 -0400'
+date: '2019-05-15 00:00 -0400'
 published: true
-title: FRIENDS (JUNE 7 - AUGUST 15)
+title: SANCTUARY (JUNE 7 - JULY 26)
 categories:
   - exhibitions
-image: Friends_cover.png
+image: sanctuary_cover.png
 gallery:
-  - threnody-1.jpg
-  - islam_inception2.JPG
-  - ak.JPG
-  - fadaa_amaal.jpg
+  - Layla Dove.jpg
+  - PPC_Wksp2_AbdulKarim.jpg
+  - C&M_Book with Pencils.jpg
+  - 9.jpg
+  - 5.jpg
 ---
-A recurring question surfaced in both public and private conversations over the past two years of the Friends, Peace, and Sanctuary project. “Why, when we (Syrians and Iraqis) know so much about American culture, do Americans know so little about ours?”. Forming connections as friends takes time. It requires trust and reciprocity. To expose pieces of individual and collective selves—sharing culture, beliefs, feelings, and personal stories—both parties must be fully present with one another.  Home is a reflection of self, and to be invited to share a meal or drink tea is to welcome another into one’s own personal museum of history, beliefs, and current status in the modern world. When shared with friends, a home can become a place of refuge and a space to honor difference.
+The connection between friends that arouse feelings of peace are the foundations for building  spaces of sanctuary, where one can exist and move uninhibited by fear. Sanctuary is a feeling of comfort and confidence to navigate space, and the stability needed to address daily needs and long-term goals and dreams. Sanctuary can be a personal sensation provoked or shattered in the home, on the block, in the neighborhood, or on a city, country, or even global scale. 
 
-Throughout the _Friends, Peace, and Sanctuary_ project, participants opened their homes, hearts, and minds and shared their histories, cultures, and personal stories. Together, over tea, coffee, and home-cooked food, participants shared the excitement of commonalities while also cultivating love for nuance and appreciating difference. If common interests, values, history, are the elements that draw people together as friends, we want to know: Is it possible for art to help us address this gap? Can we use art to transform conflict into connection? Can we turn a gallery into a home?
- 
-In partnership with [12Gates Arts](http://www.twelvegatesarts.org/), _Friends, Peace, and Sanctuary_ invites you into their home away from home – the gallery. Join us in experiencing everything from sculptures and dictionaries to archaeology books and paintings that celebrate and enumerate cultural and historical moments, conversations, personal stories, and most of all, friendships. These artworks reflect the process of artmaking that rectifies misinformation about Syrian and Iraqi cultures and the global resettlement process by expanding the space in our hearts for more empathy, belonging, and friendship. Artists on display include FPS collaborators and book artists: Layla Al-Huseini, Fadaa Ali, Islam Ali, Samah Al-Kasab, Asmaa Diab, Amaal Alnajar, Abdul Karim Awad, Maureen Cummins, Osama Herkal, Mohamed, Marwa, Fadia, Erik Ruin, Fouad Sakhnini, and Ali Salman.
+How might listening to Syrians and Iraqis who have been resettled in Philadelphia help the City’s institutions, policy-makers, and residents live into our shared values as a Sanctuary City? Where are the lines of commonality of cause and effect between the global refugee crisis and issues of local urban displacement, mass incarceration, education, and community economic development? How can we make Philadelphia a true place of sanctuary for resettled individuals? 
+
+Informative and demanding, this exhibition showcases artworks that provoke and raise questions surrounding the process of resettlement to Philadelphia and the dynamics of power between the state, community, and the individual. Project collaborators who resettled from Syria and Iraq joined forces with commissioned book artists [Courtney Bowles and Mark Strandquist](http://peoplespaperco-op.weebly.com/) to co-create collective and individual works that reflect both resiliency and challenges navigating Philadelphia to re-establish a quality of life they had at home. These works take the experiences of challenges faced with language, culture, translation, and access to create resources; assert personal dreams; and to help inform a more supportive process for new refugees. Challenge your understanding about what it means to resettle in a new country, where one’s identity has already been defined by negative media portrayals and stereotypes.
+
+****__Sanctuary__**** will be displayed on the 4th and 5th floors of City Hall.
 
 **Programs:**
 
--June 7, 2019 at 6-8:30pm - _First Friday Opening Reception with live performance by Erik Ruin and Julius Masry_
+- June 6: _Flag-raising kick-off of Immigrant Heritage Month with the Office of Immigrant Affairs_
+- June 15 from 2pm-5pm at Asian Arts Initiative (an official event of Immigrant Heritage Month with the Office of Immigrant Affairs: [Beyond Borders and Binaries: A Conversation and Workshop](http://asianartsinitiative.org/event/beyond-borders-and-binaries)
 
--June 8, 2019 from 10am-1pm - _Art-Making with Islam Aly_
 
-**About 12Gates Arts:**
+**About Art in City Hall:**
 
-[12Gates Arts (12G)](http://www.twelvegatesarts.org/) showcases international multidisciplinary arts bound by the sensibilities of a diasporic identity – with a special focus on South Asian diasporic identities – and to create and promote projects in the community that cross geographic and cultural boundaries. 
+**The Office of Arts, Culture and Creative Economy** presents Art in City Hall, which features exhibitions in the Art Gallery in City Hall, public corridors, and in display cases throughout the building. The year-round schedule of exhibitions highlights the diverse cultural vibrancy of Philadelphia and showcases artwork by professional, emerging, and aspiring artists.
+
+**The Office of Arts, Culture and The Creative Economy** (OACCE) supports Philadelphia’s arts, culture and the creative industries through partnership, promotion, and education. OACCE partners with for-profit and nonprofit organizations and City offices and agencies to ensure that culture and creativity are essential to the City’s strategies for revitalizing communities, improving educational outcomes, and spurring economic development. OACCE also promotes quality resources and programming in the city’s neighborhoods and closes the gap to quality arts experiences. For more information, visit: www.creativephl.org
