@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-15 00:00 -0400'
 published: true
-title: 'JUNE 7 - JULY 26, 2019'
+title: 'Sanctuary: June 7 - July 26, 2019'
 categories:
   - exhibitions
 gallery:
@@ -15,7 +15,6 @@ gallery:
   - asmaa-tree.JPG
   - asmaa images.jpeg
   - asmaa-dress.JPG
-image: SANCTUARY_SIMPLE.png
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abir AlArnab'
@@ -33,6 +32,7 @@ tags:
   - 'artist:Osama Herkal'
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
+image: sanctuary_simple_loc.png
 ---
 The connection between friends that arouse feelings of peace are the foundations for building  spaces of sanctuary, where one can exist and move uninhibited by fear. Sanctuary is a feeling of comfort and confidence to navigate space, and the stability needed to address daily needs and long-term goals and dreams. Sanctuary can be a personal sensation provoked or shattered in the home, on the block, in the neighborhood, or on a city, country, or even global scale. 
 
