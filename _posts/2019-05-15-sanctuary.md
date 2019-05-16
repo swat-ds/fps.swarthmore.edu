@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-15 00:00 -0400'
 published: true
-title: 'City Hall (JUNE 7 - JULY 26, 2019)'
+title: 'JUNE 7 - JULY 26, 2019'
 categories:
   - exhibitions
 gallery:
