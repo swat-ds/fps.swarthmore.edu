@@ -47,35 +47,46 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 ---
-Each of the three downtown sites will exhibit a different aspect/side of the project.
+Did you miss the _Friends, Peace, and Sanctuary_ exhibition at Swarthmore College in April? 
 
-Friends, Peace, and Sanctuary Exhibitions will explore how art that combines scholarly and experiential ways of knowing can build understanding of current issues. Featuring commissioned works by book artists Islam Aly, Maureen Cummins, Erik Ruin, Courtney Bowles and Mark Strandquist, exhibitions bring together historical and contemporary experiences of seeking refuge. These commissioned works will be shown alongside works by the project’s Syrian and Iraqi collaborators and archival material from Swarthmore’s Friends Historical Library and Peace Collections.
+Experience an expanded, multi-site exhibition that delves deeper into three concepts of human connection at the heart of the project—friends, peace, and sanctuary—and their ability to create a sense of belonging and empathy. 
 
-سوف تستكشف المعارض كيف أن الفن الذي يجمع بين الطرق العلمية والتجريبية للمعرفة يمكن أن يبني فهمًا للقضايا الحالية. يضم المعرض أعمالاً تكريمية لفنانين من كتاب إسلام علي و مورين كومينز و إيريك روين و كورتني بولز و مارك ستراندكويست، وتجمع المعارض بين التجارب التاريخية والمعاصرة للبحث عن ملجأ. سيتم عرض هذه الأعمال التي تم تكليفها جنبًا إلى جنب مع أعمال المتعاونين السوريين والعراقيين في المشروع والمواد الأرشيفية من مكتبة أصدقاء سواردز التاريخية ومجموعات السلام. كل معرض من المعارض الثلاثة في وسط المدينة جانبًا مختلفًا / جانبًا مختلفًا من المشروع.
-{: .ar}
-
-**June-August 2019**
-
-Each site will be focused around different themes and goals of the project that tie together into one exhibit.
-
-## **Center City Philadelphia, PA**
+Works by resettled Syrians and Iraqis of the Philadelphia community and renowned book artists interweave historical and contemporary narratives, feelings, and experiences of refuge. 
 
 
-## **[Twelve Gates Arts](http://www.twelvegatesarts.org/)**
+## **June-August 2019 in Center City Philadelphia**
 
-June 7th - August 15th
+Each site will be focused around different themes and goals of the project that tie together as one exhibit. Click on the exhibition title for more details and programming information.
+
+
+## **[Friends](http://fps.swarthmore.edu/exhibitions/friends/)**
+
+On display at [12Gates Arts](http://www.twelvegatesarts.org/) from June 7 to August 15, 2019
+
+_Friends_ includes works by fifteen unique artists that explore the relationships between personal experiences, culture, and history. 
+
 
 June 7th: _First Friday Opening_ 
+June 8th: _Art Making with Islam Aly_
 
 
 
-## **[Parkway Central Free Library](http://www.freelibrary.org/)**
+## **[Peace](http://fps.swarthmore.edu/exhibitions/peace/)**
 
-June 7th - August 2nd
+On display at [Parkway Central Library of the Free Library of Philadelphia](http://www.freelibrary.org/) from June 7 to August 2, 2019.
+
+_Peace_ brings together artists’ books, archival materials, and process documentation that tell the personal stories of people striving for peace during historical and contemporary conflicts.
+
+
+July 13: _Open House + Reception_
 
 
 
+## **[Sanctuary](http://fps.swarthmore.edu/exhibitions/sanctuary/)**
 
-## **[Philadelphia City Hall](http://creativephl.org/exhibitions/)**
+On display at [Philadelphia City Hall](http://creativephl.org/exhibitions/) from June 7 - July 26, 2019.
 
-June 7th - July 26th
+Sanctuary presents multi-form artworks and new resources that explore the dynamics of power between the state, community, and the individual that challenge our understanding of the global resettlement process.
+
+
+Programming in partnership with the Office of Immigrant Affairs and Asian Arts Initiative.
