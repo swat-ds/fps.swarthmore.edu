@@ -2,7 +2,7 @@
 lang: en
 date: '2019-03-01 21:30 -0500'
 published: true
-title: 'SUMMER 2019: 3 sites Center City Philadelphia'
+title: 'SUMMER 2019: 3 sites in Center City Philadelphia'
 categories:
   - exhibitions
   - 'exhibit:city hall'
@@ -66,8 +66,8 @@ On display at [12Gates Arts](http://www.twelvegatesarts.org/) from June 7 to Aug
 _Friends_ includes works by fifteen unique artists that explore the relationships between personal experiences, culture, and history. 
 
 
-June 7th: _First Friday Opening_ 
-June 8th: _Art Making with Islam Aly_
+- June 7, 2019: _First Friday Opening_ 
+- June 8, 2019: _Art Making with Islam Aly_
 
 
 
@@ -78,7 +78,7 @@ On display at [Parkway Central Library of the Free Library of Philadelphia](http
 _Peace_ brings together artists’ books, archival materials, and process documentation that tell the personal stories of people striving for peace during historical and contemporary conflicts.
 
 
-July 13: _Open House + Reception_
+- July 13, 2019: _Open House + Reception_
 
 
 
@@ -90,3 +90,4 @@ Sanctuary presents multi-form artworks and new resources that explore the dynami
 
 
 Programming in partnership with the Office of Immigrant Affairs and Asian Arts Initiative.
+- June 15, 2019: [Beyond Borders and Binaries: Conversation and Bookmaking Workshop](http://asianartsinitiative.org/event/beyond-borders-and-binaries)
