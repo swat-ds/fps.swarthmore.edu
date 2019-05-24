@@ -70,9 +70,9 @@ Informative and demanding, this exhibition showcases artworks that provoke and r
 **برامج**
 {: .ar}
 
-- ٦\٦ : _انطلاقة شهر تراث المهاجرين يتخللها رفع العلم_
+- ٦\٦\١٩: _انطلاقة شهر تراث المهاجرين يتخللها رفع العلم_
 {: .ar}
-- ٦\١٥ 2pm-5pm ،في مبادرة الفنون الآسيوية و برنامج رسمي لشهر تراث المهاجرين مع مكتب شؤون المهاجرين: [_ما وراء الحدود والثنائيات: محادثة وورشة عمل_](http://asianartsinitiative.org/event/beyond-borders-and-binaries)
+- ٦\١٥\١٩ 2pm-5pm ،في مبادرة الفنون الآسيوية و برنامج رسمي لشهر تراث المهاجرين مع مكتب شؤون المهاجرين: [_ما وراء الحدود والثنائيات: محادثة وورشة عمل_](http://asianartsinitiative.org/event/beyond-borders-and-binaries)
 {: .ar}
 
 
