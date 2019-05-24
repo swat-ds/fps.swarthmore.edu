@@ -44,7 +44,7 @@ Informative and demanding, this exhibition showcases artworks that provoke and r
 
 **Programs:**
 
-- June 6: _Flag-raising kick-off of Immigrant Heritage Month with the Office of Immigrant Affairs_
+- June 6: _[Flag-raising kick-off of Immigrant Heritage Month with the Office of Immigrant Affairs](https://www.phila.gov/spotlight/immigrant-heritage-month/)_
 - June 15 from 2pm-5pm at Asian Arts Initiative, an official event of Immigrant Heritage Month with the Office of Immigrant Affairs: _[Beyond Borders and Binaries: A Conversation and Workshop]_(http://asianartsinitiative.org/event/beyond-borders-and-binaries)
 
 
@@ -70,7 +70,7 @@ Informative and demanding, this exhibition showcases artworks that provoke and r
 **برامج**
 {: .ar}
 
-- ٦\٦\١٩: _انطلاقة شهر تراث المهاجرين يتخللها رفع العلم_
+- ٦\٦\١٩: _[انطلاقة شهر تراث المهاجرين يتخللها رفع العلم](https://www.phila.gov/spotlight/immigrant-heritage-month/)_
 {: .ar}
 - ٦\١٥\١٩ 2pm-5pm ،في مبادرة الفنون الآسيوية و برنامج رسمي لشهر تراث المهاجرين مع مكتب شؤون المهاجرين: [_ما وراء الحدود والثنائيات: محادثة وورشة عمل_](http://asianartsinitiative.org/event/beyond-borders-and-binaries)
 {: .ar}
