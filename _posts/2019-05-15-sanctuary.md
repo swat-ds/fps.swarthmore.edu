@@ -45,7 +45,7 @@ Informative and demanding, this exhibition showcases artworks that provoke and r
 **Programs:**
 
 - June 6: _Flag-raising kick-off of Immigrant Heritage Month with the Office of Immigrant Affairs_
-- June 15 from 2pm-5pm at Asian Arts Initiative, an official event of Immigrant Heritage Month with the Office of Immigrant Affairs: [Beyond Borders and Binaries: A Conversation and Workshop](http://asianartsinitiative.org/event/beyond-borders-and-binaries)
+- June 15 from 2pm-5pm at Asian Arts Initiative, an official event of Immigrant Heritage Month with the Office of Immigrant Affairs: _[Beyond Borders and Binaries: A Conversation and Workshop]_(http://asianartsinitiative.org/event/beyond-borders-and-binaries)
 
 
 **About Art in City Hall:**
@@ -53,3 +53,41 @@ Informative and demanding, this exhibition showcases artworks that provoke and r
 **The Office of Arts, Culture and Creative Economy** presents Art in City Hall, which features exhibitions in the Art Gallery in City Hall, public corridors, and in display cases throughout the building. The year-round schedule of exhibitions highlights the diverse cultural vibrancy of Philadelphia and showcases artwork by professional, emerging, and aspiring artists.
 
 **The Office of Arts, Culture and The Creative Economy** (OACCE) supports Philadelphia’s arts, culture and the creative industries through partnership, promotion, and education. OACCE partners with for-profit and nonprofit organizations and City offices and agencies to ensure that culture and creativity are essential to the City’s strategies for revitalizing communities, improving educational outcomes, and spurring economic development. OACCE also promotes quality resources and programming in the city’s neighborhoods and closes the gap to quality arts experiences. For more information, visit: www.creativephl.org
+
+## **الملاذ الآمن**
+{: .ar}
+
+إن العلاقة بين الأصدقاء التي تثير مشاعر السلام هي الأساس لبناء مساحات للملاذ ، حيث يمكن للمرء أن يعيش ويتنقل دون خوف. الملاذ الآمن هو شعور بالراحة والثقة للتنقل في حيزك الخاص ، ويعني أيضاً الاستقرار اللازم لتلبية الاحتياجات اليومية والأهداف والأحلام طويلة الأجل. يمكن أن يكون الملاذ الآمن إحساسًا شخصيًا مستفزًا أو محطماً في المنز ، أو الجوار، أو الحي، أو في مدينة أو بلد ، أو حتى على نطاق عالمي.
+{: .ar}
+
+ كيف يمكن للاستماع إلى السوريين والعراقيين الذين أعيد توطينهم في فيلادلفيا مساعدة مؤسسات المدينة وواضعي السياسات والمقيمين على العيش تبعاً لقيمنا المشتركة كمدينة للملاذ الآمن؟ أين هي خطوط السبب والنتيجة المشتركة بين أزمة اللاجئين العالمية وقضايا النزوح الحضري المحلي وضخامة عدد المساجين والتعليم والتنمية الاقتصادية المجتمعية؟ كيف يمكننا أن نجعل من فيلادلفيا مكانًا حقيقيًا كملاذ آمن للأفراد المعاد توطينهم؟ 
+{: .ar}
+
+ يقوم هذا المعرض، الغني بالمعلومات والمطالب، بعرض الأعمال الفنية التي تثير وتطرح عدة أسئلة حول عملية إعادة التوطين في فيلادلفيا والقوى المحركة بين الدولة والمجتمع والفرد. انضم المتعاونون في المشروع الذين أعيد توطينهم من سوريا والعراق مع فناني الكتب المنتدبين كورتني بولز ومارك ستراندكويست للمشاركة في إنشاء أعمال جماعية وفردية تعكس كلاً من المرونة والتحديات فيما يخص التنقل في فيلادلفيا لإعادة بناء حياة تشبه تلك التي عاشوها في موطنهم. تأخذ هذه الأعمال الخبرات المكتسبة من التحديات التي تواجه اللغة والثقافة والترجمة وسهولة الوصول إلى إنشاء الموارد؛ تأكيد الأحلام الشخصية؛ والمساعدة في تأسيس المعرفة الكافية عن عملية أكثر دعمًا للاجئين الجدد. تتحدى هذه الأعمال المفاهيم السائدة لما يعنيه إعادة التوطين في بلد جديد ، حيث تم مسبقاً تعريف هوية الشخص من خلال وسائل الإعلام المورة والصور النمطية. 
+{: .ar}
+
+
+**برامج**
+{: .ar}
+
+- June 6: _انطلاقة شهر تراث المهاجرين يتخللها رفع العلم_
+{: .ar}
+- June 15 from 2pm-5pm ، في مبادرة الفنون الآسيوية و برنامج رسمي لشهر تراث المهاجرين مع مكتب شؤون المهاجرين: [_ما وراء الحدود والثنائيات: محادثة وورشة عمل_](http://asianartsinitiative.org/event/beyond-borders-and-binaries)
+{: .ar}
+
+
+**معلومات عن الفن في قاعة المدينة**
+{: .ar}
+
+يقدم مكتب الفنون والثقافة والاقتصاد الخلاق معرض الفنون في قاعة المدينة ، والذي يضم مجموعة معارض في معرض الفنون في قاعة المدينة (قاعة المدينة غرفة رقم 116) وفي الممرات العامة وفي خزن المعروضات في جميع أنحاء المبنى. يسلط جدول المعارض على مدار السنة الضوء على الحيوية الثقافية المتنوعة لفيلادلفيا ويعرض الأعمال الفنية لفنانين محترفين ناشئين وطموحين.
+{: .ar}
+
+
+**معلومات عن مكتب الفنون والثقافة والاقتصاد**
+{: .ar}
+
+يدعم مكتب الفنون والثقافة والاقتصاد الخلاق (OACCE) الفنون والثقافة والصناعات الإبداعية في فيلادلفيا من خلال الشراكة والترويج والتعليم. تتعاون OACCE مع المنظمات غير الهادفة للربح والمنظمات غير الربحية ومكاتب ووكالات المدينة لضمان أن الثقافة والإبداع هما من الاستراتيجيات الأساسية للمدينة لإنعاش المجتمعات وتحسين النتائج التعليمية وتحفيز التنمية الاقتصادية. تعمل OACCE أيضًا على الترويج للموارد والبرامج عالية الجودة في أحياء المدينة وتغلق الفجوة بين تجارب فنون الجودة. لمزيد من المعلومات ، يرجى زيارة: www.creativephl.org
+{: .ar}
+
+
+
