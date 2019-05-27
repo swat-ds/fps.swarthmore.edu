@@ -13,7 +13,7 @@ gallery:
   - 1st friday.jpg
 event_date: 'Friday, June 7, 2019 / 6:00pm-8:30pm'
 event_location: '12 Gates Arts: 106 N 2nd St, Philadelphia, PA 19106'
-event_date_ar: 'يوم الجمعة ٧ يونيو ٢٠١٩: ٦:٠٠-٨:٣٠ مساء'
+event_date_ar: 'يوم  الحمعة ٧ يونيو ٢٠١٩: من ٦ مساء إلى ٨:٣٠ مساء'
 ---
 Join _Friends, Peace, and Sanctuary_ for the First Friday Opening Reception of _Friends_. Experience everything from sculptures and dictionaries to archaeology books and paintings that celebrate and enumerate cultural and historical moments, conversations, personal stories, and most of all, friendships.
 
