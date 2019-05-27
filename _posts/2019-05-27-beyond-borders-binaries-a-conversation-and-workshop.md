@@ -10,7 +10,7 @@ categories:
   - exhibition programming
   - 'exhibit:city hall'
 event_location: 'Asian Arts Initiative: 1219 Vine St, Philadelphia, PA 19107'
-event_date_ar: 'يوم السبت ١٥ يونيو ٢٠١٩: ٢:٠٠-٥:٠٠ مساء'
+event_date_ar: 'يوم السبت ١٥ يونيو ٢٠١٩: من ٢ إلى ٥ مساء'
 gallery:
   - beyond borders image.jpg
 event_fb_url: 'https://www.facebook.com/events/455654898524386/'
