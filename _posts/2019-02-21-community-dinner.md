@@ -2,7 +2,7 @@
 title: ' FRIDAY: Exhibition Opening & Communal Dinner | افتتاح معرض الأصدقاء والسلام والملاذ والعشاء المحلي'
 lang: en
 categories:
-  - exhibition programming
+  - public events
   - 'exhibit:swarthmore'
 image: islam_inception2.JPG
 event_date: 'March 29, 2019 '
