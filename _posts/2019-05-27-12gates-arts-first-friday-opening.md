@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-27 16:45 -0400'
 published: true
-title: '12Gates Arts: First Friday Opening'
+title: 'Friends: First Friday Opening'
 categories:
   - public events
   - exhibition programming
