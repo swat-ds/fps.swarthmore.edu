@@ -229,6 +229,8 @@ prose:
               value: "exhibit:twelve gates"
             - name: "Booklyn Exhibit"
               value: "exhibit:booklyn"
+            - name: "Free Library"
+              value: "exhibit:free library"
       - name: "tags"
         field:
           element: "multiselect"
