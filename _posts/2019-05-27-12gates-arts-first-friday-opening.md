@@ -8,7 +8,7 @@ categories:
   - exhibition programming
   - 'exhibit:twelve gates'
 event_fb_url: 'https://www.facebook.com/events/408026806716998/?active_tab=about'
-image: 1st friday cover.png
+image: 1st friday cover2.png
 gallery:
   - 1st friday.jpg
 event_date: 'Friday, June 7, 2019 / 6:00pm-8:30pm'
