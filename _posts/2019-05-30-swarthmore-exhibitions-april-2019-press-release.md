@@ -1,9 +1,10 @@
 ---
 lang: en
-date: '2019-05-30 12:33 -0400'
+date: '2019-03-30 12:33 -0400'
 published: true
 title: Swarthmore Exhibitions April 2019 Press Release
 categories:
+  - exhibitions
   - 'exhibit:swarthmore'
 image: swatexhibithug.jpg
 gallery:
