@@ -24,3 +24,15 @@ Enjoy food made by Syrian Chef and Project Collaborator, Asmaa Diab.
 
 
 Organized in partnership with [Asian Arts Initative](http://asianartsinitiative.org/), this is an official event that is part of this year’s partnering between The [Office of Immigrant Affairs](https://www.phila.gov/departments/office-of-immigrant-affairs/) and the [Office of LGBT Affairs](https://www.phila.gov/departments/office-of-lgbt-affairs/) for [Immigrant Heritage Month](https://www.phila.gov/spotlight/immigrant-heritage-month/) and [Pride Month](http://www.phillygaypride.org/) to ["explore intersectionality and highlight the diversity and depth of Philadelphia’s immigrant and LGBTQ communities, while also engaging broader audiences—regardless of how they identify."](https://www.phila.gov/2019-05-24-immigrant-heritage-month-and-pride-month-focus-on-intersectionality/)
+
+
+الحركة الآسيوية الفنيّة
+{: .ar}
+ظلم الولايات يأخذ أشكال متنوعة-تفريق العوائل، التجريم، المراقبة، و السيطرة على الأجسام. كيف نبني تحليل متعدد الجوانب يعالج السَجن، أحتجاز المهاجرين، عداء المثلية الجنسية، و مشكلة اللاجئين العالمية؟ أسمع من المتحدثين عن التجارب التي عاشوها و عملهم لمعارضة ظلم الولايات الذي يؤدي إلى نتائج مشابهة-تفريق العوائل، التجريم، و المراقبة.
+{: .ar}
+الحديث سيُتبع بعمل كتاب بسيط بشكل يحوك التجارب المعاصرة و المواد الأرشيفية التي، بشكل متعاون، تستكشف، تُعيد كتابة، و تستصلح القصص الأنسانية التي تكافح الصور النمطية السلبية. المشاركون يستطيعون الاختيار لكتبهم أن تكون جزئاً من أرشيف جامعة ساوثمور، احتمالاً مع "مجموعة السلام"، أكبر أرشيف لحركة السلام في الولايات المتحدة، أو مكتبة الأصدقاء التاريخية.
+{: .ar}
+أستمتع بأكلات بأعداد الطباخة السورية و شريكة المشروع، أسماء دياب.
+{: .ar}
+نظمت بالاشتراك مع الحركة الآسيوية الفنيّة، هذا حدث رسمي و جزء من الشراكة لهذه السنة مع "مكتب شؤون المهاجرين" و "مكتب شؤون إل جئ بي تي" "لشهر تراث المهاجرين" و "شهر الفخر" "للأطلاع على التعددية و تسليط الضوء على التنوع و عمق جماعات المهاجرين و إل جئ بي تي كيو  في فيلاديلفيا" و "ربطها مع جمهور أكبر-بغض النطر عن تحديد هويتهم الشخصي".
+{: .ar}
