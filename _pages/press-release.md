@@ -23,9 +23,13 @@ After an initial exhibition at Swarthmore, the project moves to Philadelphia, sh
 
 All exhibitions and programs are free and open to the public.
 
+
 _Friends_ **at Twelve Gates Arts: June 7–August 15** 
-_106 N 2nd St, Philadelphia, PA 19106
-Visiting Hours: Thursday to Saturday, 12–6 p.m._
+
+_106 N 2nd St, Philadelphia, PA 19106_
+
+_Visiting Hours: Thursday to Saturday, 12–6 p.m._
+
 
 _Friends, Peace, and Sanctuary_ participants opened their homes and hearts, sharing their histories, cultures, and personal stories. Yet a recurring question surfaced: “Why, when we [Syrians and Iraqis] know so much about American culture, do Americans know so little about ours?” 
 
@@ -35,9 +39,13 @@ Events:
 - **June 7, 6–8:30 p.m.:** First Friday Opening Reception with live musical performance by artists Erik Ruin and Julius Masri
 - **June 8, 10 a.m.–1 p.m.:** Accordion book workshop and story share with book artist Islam Aly
 
+
 _Peace_ **at the Free Library of Philadelphia, Parkway Central Branch: June 7–August 2**
-_1901 Vine St, Philadelphia, PA 19103
-Open during regular library hours (2nd Floor)_
+
+_1901 Vine St, Philadelphia, PA 19103_
+
+_Open during regular library hours (2nd Floor)_
+
 
 Peace is not simply living free of war; it is a sensation that comes with being close to one’s support network of friends, family, and neighbors.
 
@@ -49,8 +57,10 @@ Events:
 - **July 13, 10 a.m.–4 p.m.: Open House + Reception** (Heim Center for Cultural and Civic Engagement at Parkway Central Library)
 
 _Sanctuary_ **at City Hall: June 7–July 26**
-_Philadelphia City Hall: 1400 John F Kennedy Blvd, Philadelphia, PA 19107 (floors 4 + 5)
-Visiting Hours:_ Monday–Friday, 9 a.m.–5 p.m.
+
+_Philadelphia City Hall: 1400 John F Kennedy Blvd, Philadelphia, PA 19107 (floors 4 + 5)_
+
+_Visiting Hours:_ Monday–Friday, 9 a.m.–5 p.m.
 
 What does it mean to resettle in a new country, where one’s identity has already been defined by negative media portrayals and stereotypes? How might listening to resettled Syrians and Iraqis help policy-makers and residents realize our shared values as a Sanctuary City? What are the commonalities between the global refugee crisis and local issues like urban displacement, mass incarceration, education, and community economic development? How can we make Philadelphia a true place of sanctuary for all?
 
