@@ -4,6 +4,7 @@ date: '2019-05-30 15:26 -0400'
 published: true
 title: 'Sanctuary: Closing Reception'
 categories:
+  - public events
   - exhibition programming
   - 'exhibit:city hall'
 image: sanct_closing_cover.png
