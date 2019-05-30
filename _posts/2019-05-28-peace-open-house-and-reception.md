@@ -6,6 +6,7 @@ title: 'Peace: Open House and Reception'
 categories:
   - public events
   - exhibition programming
+  - 'exhibit:free library'
 image: open house cover2.png
 gallery:
   - open house image.jpg
