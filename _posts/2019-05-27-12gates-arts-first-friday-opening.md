@@ -20,3 +20,10 @@ Join _Friends, Peace, and Sanctuary_ for the First Friday Opening Reception of _
 Hear the stories behind the works form Artistic Director, Suzanne L. Seesman, enjoy original poetry from project collaborators, and witness a performance by Erik Ruin and Julius Masri celebrating the past two years of the Friends, Peace, and Sanctuary project. 
 
 _Friends_ will be on-display until Thursday, August 15th. Special thanks to our partners at 12Gates Arts for opening their space to our exhibition and don’t forget to witness our other two exhibitions, “Peace” and “Sanctuary” at the Free Library of Philadelphia & Art in City Hall.
+
+شارك الأصدقاء، السلام، و الملاذ الآمن في أستقبال أفتتاحية الجمعة الأولى. أختبر كل شئ من المنحوتات و القواميس إلى كتب علم الآثار و اللوحات التي تحتفل و تسرد لحظات تاريخية و حضارية، قصص شخصية، و فوق كل شئ، الصداقة.
+{: .ar}
+أسمع القصص خلف الأعمال من المخرجة الفنية، سوزان ل. سييزمان، و أشهد أداء فني من أيرك روِن و جوليوس مصري يحتفل بالسنتين الماضيتين للأصدقاء، السلام، و الملاذ الآمن.
+{: .ar}
+الأصدقاء سوف يكون معروضاً إلى الخميس، ١٥ أوغسطس. شكر خاص لشركائنا من فنون الأبواب الأثناعشر لفتحم مجالهم لمعرضنا، ولا تنسوا أن تشهدوا معارضنا الأخرا "السلام" و "الملاذ الآمن" في مكتبة فيلاديلفيا الحرة و الفن في مجلس المدينة.
+{: .ar}
