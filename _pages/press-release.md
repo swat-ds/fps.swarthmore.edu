@@ -8,51 +8,69 @@ classes:
 published: true
 ---
 
-# FRIENDS, PEACE AND SANCTUARY: A NEW CONVERSATION ABOUT IMMIGRATION AND REFUGE
-## *Art’s Power to Connect Highlighted in Regional Exhibitions and Events*
+# ART, CONNECTION, REFUGE: A TRIO OF CENTER CITY EXHIBITIONS OPEN WINDOWS ON THE IMMIGRANT EXPERIENCE
 
-[![press release thumbnail](/assets/images/press-release-thumb.png)](/assets/20190226-FPS-Press-Release.pdf)
+## **_The_ Friends, Peace, and Sanctuary Project _Travels to City Hall, Old City, and the 
+Free Library of Philadelphia_**
 
-*[[Press Release PDF](/assets/20190226-FPS-Press-Release.pdf)]*
 
-**February 1, 2019 (Swarthmore, PA) —** Friends, Peace & Sanctuary, an innovative project that creates fellowship and dialogue between recent immigrants to Philadelphia and their extended community, launches a series of exhibitions and events starting March 28, 2019 at Swarthmore College. Bringing together the stories of displaced people past and present through art, the exhibition brings work by resettled people and nationally known artists to Swarthmore, Philadelphia, and New York City, March through October 2019.
+[![press release thumbnail](/assets/images/cc press release.pdf)](/assets/FPS Philly Press Release_05-28-19_Final2.pdf)
 
-A program of Swarthmore College Libraries and Swarthmore’s Lang Center for Civic & Social Responsibility, Friends, Peace & Sanctuary explores art as a tool to build empathy and create a deeper sense of belonging. The exhibitions will introduce arts created by resettled Syrian and Iraqi individuals, as well as by commissioned artists, to open up conversations about displacement and refuge, history and experience, art and life.
+*[[Press Release PDF](/assets/FPS Philly Press Release_05-28-19_Final2.pdf)]*
 
-Too often, refugees are portrayed as a monolithic group. Friends, Peace, & Sanctuary seeks to change that perception through artwork that extends individual people’s stories beyond the label of refugee, as well as bringing current stories into conversation with archival materials. Project collaborators—Syrians and Iraqis who have resettled in the United States—learned book-arts skills such as bookbinding, paper cutting, silk screening, paper making, and photography, through workshops with professional book artists who also created works based on their interactions with collaborators.
+**May 28, 2019 (Philadelphia, PA)** — Connecting renowned book artists with individuals from Syria and Iraq who came to Philadelphia as refugees, a trio of Center City exhibitions will delve into concepts of human connection and sanctuary. 
 
-The exhibition will include commissioned works by:
+Friends, Peace, and Sanctuary, a project of Swarthmore College Libraries and Swarthmore’s Lang Center for Civic & Social Responsibility, creates and shares works that explore art’s capacity to increase empathy and a sense of belonging. 
 
-- [Maureen Cummins](http://maureencummins.com), book artist
+After an initial exhibition at Swarthmore, the project moves to Philadelphia, showcasing works by resettled Syrians and Iraqis and by commissioned book artists. Three distinct exhibitions, each focusing on one aspect of the resettled experience, interweave historical and contemporary narratives and experiences to open up conversations about displacement and refuge, history and culture, art and life. The project highlights the ways resettled people define themselves, outside of restrictive labels like “immigrants” or “refugees.”
+
+All exhibitions and programs are free and open to the public.
+
+_Friends_ **at Twelve Gates Arts: June 7–August 15** 
+_106 N 2nd St, Philadelphia, PA 19106
+Visiting Hours: Thursday to Saturday, 12–6 p.m._
+
+_Friends, Peace, and Sanctuary_ participants opened their homes and hearts, sharing their histories, cultures, and personal stories. Yet a recurring question surfaced: “Why, when we [Syrians and Iraqis] know so much about American culture, do Americans know so little about ours?” 
+
+Can art help us to address that gap, and transform conflict into connection? Can we turn a gallery into a home? [_Friends_](http://fps.swarthmore.edu/exhibitions/friends/)invites you to experience works by fifteen unique artists that explore the relationships between personal experiences, culture, and history.  Sculptures and dictionaries, archaeology books and paintings celebrate moments, conversations, personal stories, and most of all, friendships.
+
+Events: 
+- **June 7, 6–8:30 p.m.:** First Friday Opening Reception with live musical performance by artists Erik Ruin and Julius Masri
+- **June 8, 10 a.m.–1 p.m.:** Accordion book workshop and story share with book artist Islam Aly
+
+_Peace_ **at the Free Library of Philadelphia, Parkway Central Branch: June 7–August 2**
+_1901 Vine St, Philadelphia, PA 19103
+Open during regular library hours (2nd Floor)_
+
+Peace is not simply living free of war; it is a sensation that comes with being close to one’s support network of friends, family, and neighbors.
+
+[_Peace_](http://fps.swarthmore.edu/exhibitions/peace/) brings together artists’ books, archival materials, and more to tell the personal stories of people striving for peace during historical and contemporary conflicts.
+
+From archival materials from the Swarthmore College Libraries to a collaborative comic book inspired by stories of resettlement, to handmade works from _Friends, Peace, and Sanctuary_ project collaborators and commissioned book artists, visitors will feel the lengths human beings will go to for peace, and the importance of working together.
+
+Events:
+- **July 13, 10 a.m.–4 p.m.: Open House + Reception** (Heim Center for Cultural and Civic Engagement at Parkway Central Library)
+
+_Sanctuary_ **at City Hall: June 7–July 26**
+_Philadelphia City Hall: 1400 John F Kennedy Blvd, Philadelphia, PA 19107 (floors 4 + 5)
+Visiting Hours:_ Monday–Friday, 9 a.m.–5 p.m.
+
+What does it mean to resettle in a new country, where one’s identity has already been defined by negative media portrayals and stereotypes? How might listening to resettled Syrians and Iraqis help policy-makers and residents realize our shared values as a Sanctuary City? What are the commonalities between the global refugee crisis and local issues like urban displacement, mass incarceration, education, and community economic development? How can we make Philadelphia a true place of sanctuary for all?
+
+Co-hosted by the Office of Arts, Culture and Creative Economy, [_Sanctuary_](http://fps.swarthmore.edu/exhibitions/sanctuary/) presents multi-form artworks and new resources that explore the dynamics of power between the state, community, and the individual to challenge our understanding of the global resettlement process. Project collaborators who resettled from Syria and Iraq joined forces with commissioned book artists Courtney Bowles and Mark Strandquist to create collective and individual works that reflect both resiliency and the challenges inherent in navigating Philadelphia to re-establish their lives.
+
+Events:
+- **June 6, 5–6 p.m.:** Flag-raising kick-off of Immigrant Heritage Month
+- **June 15, 2–5 p.m.:** [Beyond Borders and Binaries: A Conversation and Workshop](https://www.facebook.com/events/455654898524386/) (at Asian Arts Initiative, 1219 Vine Street)
+**- July 26 5-10pm:** Closing celebration with guided tours of exhibition, dinner, art-making, and a projection show by the Illuminators on the North side of City Hall
+
+The exhibitions include commissioned works by:
+- [Maureen Cummins](http://maureencummins.com/), book artist
 - [Islam Aly](https://www.islamaly.com/), MFA, PhD, book artist, teacher and researcher
-- [Erik Ruin](http://erikruin.info/), printmaker, shadow puppeteer, and cut-paper artist
+- [Erik Ruin](https://erikruin.info/), printmaker, shadow puppeteer, and cut-paper artist
 - Courtney Bowles and Mark Strandquist, co-directors of [The People’s Paper Co-op](http://peoplespaperco-op.weebly.com/)
 
-“Art is an extension of human connection,” states book artist Maureen Cummins. “It’s the closest thing to getting to know a person, short of actually meeting someone. Art can cut through that process of demonizing this person who’s different from me.”
-
-“I haven’t derived much enjoyment since I was forced to leave my work in Iraq and realized that returning is a dream and not reality,” says project participant Mohamed, who sold books on Al Mutanabbi Street in Baghdad, Iraq, before fleeing to the U.S. “Now, through the FPS project, I have been able to return to my beloved world of books.”
-
-The project began when Swarthmore College Librarian Peggy Ann Seiden encountered, in Swarthmore’s archives, the story of a Jewish family who fled the Nazis. She and co-director Katie Price described the project’s beginnings: “We are almost entirely a nation of people who came to the United States from other countries, yet each successive generation of new immigrants faces antipathy. We wondered: in what ways could the Swarthmore community combine its collective resources and knowledge with those of local refugees to create meaningful change?” The exhibitions are the culminating phase of a project which, in addition to art-making, has included courses and engaged scholarship programs at Swarthmore College, community dinners, and more. 
-
-The first exhibition — enhanced by workshops, gallery talks, and community events — opens at Swarthmore College March 29 and continues through April 2019. In June, the exhibition moves to three locations in Philadelphia, each location encompassing a distinct theme.
-
-The exhibition moves to Brooklyn in October of this year:
-
-### __March 29–April 26, 2019__
-- [Swarthmore College](https://www.swarthmore.edu/cooper-series/friends-peace-and-sanctuary), McCabe Library (Swarthmore, PA)
-
-### __June 7–July 26__
-- [Philadelphia City Hall](http://creativephl.org/exhibitions/) (Philadelphia, PA)
-
-### __June 7–August 15, 2019__
-- [Twelve Gates Arts](http://www.twelvegatesarts.org/) (Philadelphia, PA)
-
-### __June 7–August 2, 2019__
-- [Free Library Parkway Central](http://www.freelibrary.org/) (Philadelphia, PA)
-
-### October 2019
-- [Booklyn](https://booklyn.org/) (Brooklyn, NY)
-
-Major support for Friends, Peace & Sanctuary has been provided by [The Pew Center for Arts & Heritage](https://pcah.org/), with additional support from the William J. Cooper Foundation, the Andrew W. Mellon Foundation, Swarthmore College Libraries, and the Lang Center for Civic and Social Responsibility. Learn more about the Friends, Peace & Sanctuary project at [http://fps.swarthmore.edu/](http://fps.swarthmore.edu/) or on social media (@FPSBookArts on Facebook, Twitter and Instagram).
+Friends, Peace, and Sanctuary moves to Brooklyn in October.
 
 
+Major support for _Friends, Peace, and Sanctuary_ has been provided by [The Pew Center for Arts & Heritage](https://www.pewcenterarts.org/), with additional support from the William J. Cooper Foundation, the Andrew W. Mellon Foundation, Swarthmore College Libraries, and the Lang Center for Civic and Social Responsibility. Learn more about the Friends, Peace, and Sanctuary project at fps.swarthmore.edu or on social media (@FPSBookArts on Facebook, Twitter, and Instagram).
