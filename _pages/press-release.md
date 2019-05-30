@@ -7,16 +7,13 @@ classes:
   - press-release
 published: true
 ---
-
 # ART, CONNECTION, REFUGE: A TRIO OF CENTER CITY EXHIBITIONS OPEN WINDOWS ON THE IMMIGRANT EXPERIENCE
+## *The Friends, Peace, and Sanctuary Project Travels to City Hall, Old City, and the Free Library of Philadelphia*
 
-## **_The_ Friends, Peace, and Sanctuary Project _Travels to City Hall, Old City, and the 
-Free Library of Philadelphia_**
-
-
-[![press release thumbnail](/assets/images/cc press release.pdf)](/assets/FPS Philly Press Release_05-28-19_Final2.pdf)
+[![press release thumbnail](/assets/images/cc press releasethumb.jpg)](/assets/FPS Philly Press Release_05-28-19_Final2.pdf)
 
 *[[Press Release PDF](/assets/FPS Philly Press Release_05-28-19_Final2.pdf)]*
+
 
 **May 28, 2019 (Philadelphia, PA)** — Connecting renowned book artists with individuals from Syria and Iraq who came to Philadelphia as refugees, a trio of Center City exhibitions will delve into concepts of human connection and sanctuary. 
 
