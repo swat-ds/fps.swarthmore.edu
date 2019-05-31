@@ -5,6 +5,7 @@ title: >-
 lang: en
 categories:
   - public events
+  - exhibition programming
   - 'exhibit:swarthmore'
 image: Ceramic_Fadaa.jpg
 event_date: 'March 28, 2019 4:30-6pm / Reception: 6-7pm'
