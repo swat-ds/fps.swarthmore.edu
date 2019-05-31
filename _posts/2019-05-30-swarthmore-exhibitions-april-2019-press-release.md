@@ -4,8 +4,9 @@ date: '2019-02-15 12:33 -0400'
 published: true
 title: Swarthmore Exhibitions April 2019 Press Release
 categories:
-  - exhibitions
+  - "exhibition programming"
   - 'exhibit:swarthmore'
+  - 'public events'
 image: swatexhibithug.jpg
 gallery:
   - swatexhibitlargegroup.jpg

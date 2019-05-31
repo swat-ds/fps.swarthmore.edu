@@ -10,9 +10,9 @@ published: true
 # ART, CONNECTION, REFUGE: A TRIO OF CENTER CITY EXHIBITIONS OPEN WINDOWS ON THE IMMIGRANT EXPERIENCE
 ## *The Friends, Peace, and Sanctuary Project Travels to City Hall, Old City, and the Free Library of Philadelphia*
 
-[![press release thumbnail](/assets/images/cc press releasethumb.jpg)](/assets/FPS Philly Press Release_05-28-19_Final2.pdf)
+[![press release thumbnail](/assets/images/cc-press-release-thumb.jpg)](/assets/20190528-FPS-Press-Release.pdf)
 
-*[[Press Release PDF](/assets/FPS Philly Press Release_05-28-19_Final2.pdf)]*
+*[[Press Release PDF](/assets/20190528-FPS-Press-Release.pdf)]*
 
 
 **May 28, 2019 (Philadelphia, PA)** — Connecting renowned book artists with individuals from Syria and Iraq who came to Philadelphia as refugees, a trio of Center City exhibitions will delve into concepts of human connection and sanctuary. 
@@ -24,26 +24,22 @@ After an initial exhibition at Swarthmore, the project moves to Philadelphia, sh
 All exhibitions and programs are free and open to the public.
 
 
-_Friends_ **at Twelve Gates Arts: June 7–August 15** 
-
-_106 N 2nd St, Philadelphia, PA 19106_
-
-_Visiting Hours: Thursday to Saturday, 12–6 p.m._
+**_Friends_** **at Twelve Gates Arts: June 7–August 15**<br/>
+_106 N 2nd St, Philadelphia, PA 19106_<br/>
+_Visiting Hours: Thursday to Saturday, 12–6 p.m._<br/>
 
 
 _Friends, Peace, and Sanctuary_ participants opened their homes and hearts, sharing their histories, cultures, and personal stories. Yet a recurring question surfaced: “Why, when we [Syrians and Iraqis] know so much about American culture, do Americans know so little about ours?” 
 
-Can art help us to address that gap, and transform conflict into connection? Can we turn a gallery into a home? [_Friends_](http://fps.swarthmore.edu/exhibitions/friends/)invites you to experience works by fifteen unique artists that explore the relationships between personal experiences, culture, and history.  Sculptures and dictionaries, archaeology books and paintings celebrate moments, conversations, personal stories, and most of all, friendships.
+Can art help us to address that gap, and transform conflict into connection? Can we turn a gallery into a home? [_Friends_](http://fps.swarthmore.edu/exhibitions/friends/) invites you to experience works by fifteen unique artists that explore the relationships between personal experiences, culture, and history.  Sculptures and dictionaries, archaeology books and paintings celebrate moments, conversations, personal stories, and most of all, friendships.
 
 Events: 
 - **June 7, 6–8:30 p.m.:** First Friday Opening Reception with live musical performance by artists Erik Ruin and Julius Masri
 - **June 8, 10 a.m.–1 p.m.:** Accordion book workshop and story share with book artist Islam Aly
 
 
-_Peace_ **at the Free Library of Philadelphia, Parkway Central Branch: June 7–August 2**
-
-_1901 Vine St, Philadelphia, PA 19103_
-
+**_Peace_** **at the Free Library of Philadelphia, Parkway Central Branch: June 7–August 2**<br/>
+_1901 Vine St, Philadelphia, PA 19103_<br/>
 _Open during regular library hours (2nd Floor)_
 
 
@@ -56,11 +52,9 @@ From archival materials from the Swarthmore College Libraries to a collaborative
 Events:
 - **July 13, 10 a.m.–4 p.m.: Open House + Reception** (Heim Center for Cultural and Civic Engagement at Parkway Central Library)
 
-_Sanctuary_ **at City Hall: June 7–July 26**
-
-_Philadelphia City Hall: 1400 John F Kennedy Blvd, Philadelphia, PA 19107 (floors 4 + 5)_
-
-_Visiting Hours:_ Monday–Friday, 9 a.m.–5 p.m.
+**_Sanctuary_** **at City Hall: June 7–July 26**<br/>
+_Philadelphia City Hall: 1400 John F Kennedy Blvd, Philadelphia, PA 19107 (floors 4 + 5)_<br/>
+_Visiting Hours:_ Monday–Friday, 9 a.m.–5 p.m.<br/>
 
 What does it mean to resettle in a new country, where one’s identity has already been defined by negative media portrayals and stereotypes? How might listening to resettled Syrians and Iraqis help policy-makers and residents realize our shared values as a Sanctuary City? What are the commonalities between the global refugee crisis and local issues like urban displacement, mass incarceration, education, and community economic development? How can we make Philadelphia a true place of sanctuary for all?
 
@@ -69,7 +63,7 @@ Co-hosted by the Office of Arts, Culture and Creative Economy, [_Sanctuary_](htt
 Events:
 - **June 6, 5–6 p.m.:** Flag-raising kick-off of Immigrant Heritage Month
 - **June 15, 2–5 p.m.:** [Beyond Borders and Binaries: A Conversation and Workshop](https://www.facebook.com/events/455654898524386/) (at Asian Arts Initiative, 1219 Vine Street)
-**- July 26 5-10pm:** Closing celebration with guided tours of exhibition, dinner, art-making, and a projection show by the Illuminators on the North side of City Hall
+- **July 26 5-10pm:** Closing celebration with guided tours of exhibition, dinner, art-making, and a projection show by the Illuminators on the North side of City Hall
 
 The exhibitions include commissioned works by:
 - [Maureen Cummins](http://maureencummins.com/), book artist
