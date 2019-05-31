@@ -5,7 +5,7 @@ published: true
 title: 'Sanctuary: June 7-July 26, 2019'
 categories:
   - exhibitions
-  - 'exhibit:city hall'
+  - "exhibit:city hall"
 gallery:
   - Layla Dove.jpg
   - PPC_Wksp2_AbdulKarim.jpg
