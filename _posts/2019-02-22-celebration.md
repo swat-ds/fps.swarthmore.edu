@@ -3,6 +3,7 @@ title: 'SATURDAY: Community Celebration | احتفال مجتمع مشروع'
 lang: en
 categories:
   - public events
+  - exhibition programming
   - 'exhibit:swarthmore'
 image: 4.jpg
 event_date: 'March 30, 2019 / 12-6pm'
