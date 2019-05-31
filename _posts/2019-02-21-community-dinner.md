@@ -3,6 +3,7 @@ title: ' FRIDAY: Exhibition Opening & Communal Dinner | افتتاح معرض ا
 lang: en
 categories:
   - public events
+  - exhibition programming
   - 'exhibit:swarthmore'
 image: islam_inception2.JPG
 event_date: 'March 29, 2019 '
