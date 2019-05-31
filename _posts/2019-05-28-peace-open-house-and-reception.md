@@ -28,3 +28,5 @@ Spend the day at the beautiful Parkway Central Branch whether that’s in the [C
 أقضي اليوم في فرع باركواي المركزي إمّا في "مركز تعليم الطهي" أو في "مركز هايم للعلاقات الثقافية و الحضارية".
 {: .ar}
 
+Translated by: Miriam Meriwani 
+
