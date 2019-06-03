@@ -30,8 +30,30 @@ Schedule:
 
 Don't forget your ID and be sure to give yourself enough time to check in at the visitor's entrance on the northeast corner.
 
-A big thanks to [Art in City Hall](http://creativephl.org/exhibitions/), [the Office or  Arts, Culture, and Creative Economy](http://creativephl.org/), [City of Philadelphia Managing Director's Office](https://www.phila.gov/mdo/pages/default.aspx), [the office of  Councilmember Helen Gym](http://phlcouncil.com/helengym/), and [the Office of Immigrant Affairs](https://www.phila.gov/departments/office-of-immigrant-affairs/) for making this event possible. 
+A big thanks to [Art in City Hall](http://creativephl.org/exhibitions/), [the Office or  Arts, Culture, and Creative Economy](http://creativephl.org/), [City of Philadelphia Managing Director's Office](https://www.phila.gov/mdo/pages/default.aspx), [the office of  Councilmember Helen Gym](http://phlcouncil.com/helengym/), and [the Office of Immigrant Affairs](https://www.phila.gov/departments/office-of-immigrant-affairs/) for making this event possible.
 
+لاحتفال الختامي سوف يُفّعل معرض الملاذ الآمن مع مركز المدينة المصحوب بجولات مع مرشدين، محادثات، عشاء، صنع الأعمال الفنية، و عرض برنامج بتقسيط الضوء في الجزء الشمالي من مركز المدينة بمواجهة برود ستريت.
+{: .ar}
+الجولات سوف تكون بإرشاد المديرة الفنية سوزان سيزمان و منسق الاتصال الاجتماعي يعرب العبيدي. سوف تكون هناك وجبة مشتركة في غرفة الأجتماع في مركز المدينة على الطابق الرابع  للألتقاء بفنانين المشروع و المشاركين فيه. هناك عدد محدود من الكراسي العامة.
+{: .ar}
+المساء سيبلغ أوجته مع صنع الفنون اليدوية و عرض فلم من الصور، الكلمات، و الجُمل التي تم ذكرها خلال المشروع عن عملية الأستيطان -السلامة، الملاذ، المكان، و الوطن- مصنوع من قبل ذا إلومنيترز، فريق ناشط فني. "المنظمة نظمت مئات من تدخلات إسقاط الضوء في مكانات عامة، محولةً الشارع من مكان للأستهلاك السلبي و المواصلات الى موقع للارتباط و التعارف، الصراع، و الحوار. عملنا يجذب الانتباه الى أزمات طارئة عديدة تواجهنا، بتأييد النضال المستمر لأجل عالم عادل، مسالم، و مستديم.
+{: .ar}
+هذا الحدث مصمم بطريقة لدعوة الجماهير للمشاركة بأي وقت يستطيعونه. الجدول:
+{: .ar}
+* ٥-٦ مساءً: جولات بإرشاد المديرة الفنية سوزان سيزمان و منسق الاتصال الاجتماعي يعرب العبيدي. (مفتوحة للعامّة).
+{: .ar}
+* ٦ مساءً: وجبة طعام مشتركة في غرفة الأجتماع (دعوة خاصة و عدد محدود من التذاكر العامة موجود).
+{: .ar}
+* ٧:٣٠ مساءً: آخر جولم مُرشدة (مفتوحة للعامّة).
+{: .ar}
+* ٨ مساءً: صنع الفنون اليدوية على الرصيف الشمالي من مركز المدينة.
+{: .ar}
+* ٩ مساءً: العرض مع تسليط الضوء يبدأ بالجزء الشمالي من مركز المدينة.
+{: .ar}
+لا تنسوا احضار هوياتهم الشخصية و إعطاء انفسكم وقتاً كافياً للتسجيل عند مدخل الزوار في الزاوية الشمال شرقية.
+{: .ar}
+شكر جزيل الى الفنون في مركز المدينة، مكتب الفن، التراث، و الاقتصاد الخلّاق، مكتب الإدارة لمدينة فيلاديلفيا، مكتب عضوة المجلس هيلين جِم، و مكتب شؤون المهاجرين لمساعدتهم في جعل هذا الحدث ممكناً.
+{: .ar}
 
-
+Translated by: Miriam Meriwani
 
