@@ -17,16 +17,16 @@ The closing celebration will activate the Sanctuary exhibition and City Hall wit
 
 Guided tours will be led by Artistic Director Suzanne Seesman and Community Liaison Yaroub Al-Obaidi. A shared meal will take place in the Caucus Room of City Hall on the 4th floor to meet project artists and collaborators. Limited public tickets available.  
 
-The evening will culminate with art-making and a projected movie of images, words, phrases that have come up throughout the project around the resettlement process - safety, sanctuary, place, and home - created by the [Illuminators](http://theilluminator.org/), an art-activist collective.
+The evening will culminate with art-making and a projected movie of images, words, phrases that have come up throughout the project around the resettlement process - safety, sanctuary, place, and home - created by the [Illuminator](http://theilluminator.org/), an art-activist collective.
 “The collective has staged hundreds of projection-interventions in public spaces, transforming the street from a space of passive consumption and transit into a site of engagement, conflict, and dialogue. Our work calls attention to the many urgent crises that confront us, in support of the ongoing struggle for a more just, peaceful and sustainable world.”
 
 This event is created in a way to invite audience to join where they can.
 Schedule:
 - 5-6pm: Guided tours led by Artistic Director Suzanne Seesman and Community Liaison Yaroub Al-Obaidi. (open to the public)
-- 6: shared meal in the Caucus Room (invitation event with limited public tickets available)
+- 6: shared meal of Syrian and Iraqi food in the Caucus Room (ticketed event with limited public tickets available - [reserve on Eventbrite](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%22Sanctuary%22%20Closing%20Celebration%20Dinner%20Tickets%2C%20Fri%2C%20Jul%2026%2C%202019%20at%205%3A00%20PM%20%7C%20Eventbrite&pos=0&uri=https://www.eventbrite.com/e/sanctuary-closing-celebration-dinner-tickets-65209010907))
 - 7:30 Final guided tour of the exhibition (open to the public)
-- 8: Art-making on the north sidewalk of City Hall
-- 9: Projection begins on northside of City Hall
+- 8: Art-making on the north sidewalk of City Hall with tunes provided by [DJ Rana Ransom](https://soundcloud.com/ranaransom)
+- 9: Projection begins on northside of City Hall with the [Illuminator](http://theilluminator.org/)
 
 Don't forget your ID and be sure to give yourself enough time to check in at the visitor's entrance on the northeast corner.
 
@@ -56,4 +56,3 @@ A big thanks to [Art in City Hall](http://creativephl.org/exhibitions/), [the Of
 {: .ar}
 
 Translated by: Miriam Meriwani
-
