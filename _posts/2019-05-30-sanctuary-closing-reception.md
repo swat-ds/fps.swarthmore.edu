@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-30 15:26 -0400'
 published: true
-title: 'Sanctuary: Closing Reception'
+title: 'Sanctuary: Closing Celebration'
 categories:
   - public events
   - exhibition programming
