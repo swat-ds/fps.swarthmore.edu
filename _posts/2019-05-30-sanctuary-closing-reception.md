@@ -10,7 +10,7 @@ categories:
 image: sanct_closing_cover.png
 event_date: 'Friday, July 26, 2019: 5pm-10pm'
 event_location: 'City Hall '
-event_date_ar: 'يوم الجمعة ٢٦ يوليو ٢٠١٩: من ٥مساء الى ١٠مساء'
+event_date_ar: 'يوم الجمعة ٢٦ يوليو ٢٠١٩: من  ٥ مساء الى ١٠ مساء'
 event_fb_url: 'https://www.facebook.com/events/347596042461502/'
 ---
 The closing celebration will activate the Sanctuary exhibition and City Hall with guided tours, conversation, dinner, art-making and a projection show on the northside of City Hall facing Broad Street.
