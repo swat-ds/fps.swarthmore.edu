@@ -23,7 +23,7 @@ The evening will culminate with art-making and a projected movie of images, word
 This event is created in a way to invite audience to join where they can.
 Schedule:
 - 5-6pm: Guided tours led by Artistic Director Suzanne Seesman and Community Liaison Yaroub Al-Obaidi. (open to the public)
-- 6: shared meal of Syrian and Iraqi food in the Caucus Room (ticketed event with limited public tickets available - [reserve on Eventbrite](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%22Sanctuary%22%20Closing%20Celebration%20Dinner%20Tickets%2C%20Fri%2C%20Jul%2026%2C%202019%20at%205%3A00%20PM%20%7C%20Eventbrite&pos=0&uri=https://www.eventbrite.com/e/sanctuary-closing-celebration-dinner-tickets-65209010907))
+- 6: shared meal of Syrian and Iraqi food in the Caucus Room (ticketed event with limited public tickets available - [reserve on Eventbrite](https://www.eventbrite.com/e/sanctuary-closing-celebration-dinner-tickets-65209010907))
 - 7:30 Final guided tour of the exhibition (open to the public)
 - 8: Art-making on the north sidewalk of City Hall with tunes provided by [DJ Rana Ransom](https://www.facebook.com/ranaransom/)
 - 9: Projection begins on northside of City Hall with the [Illuminator](http://theilluminator.org/)
