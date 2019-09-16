@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-15 00:00 -0400'
 published: true
-title: 'Sanctuary: June 7-July 26, 2019'
+title: 'June 7-July 26, 2019'
 categories:
   - exhibitions
   - "exhibit:city hall"
@@ -35,6 +35,10 @@ tags:
   - 'artist:Roula Al Jabi'
 image: sanctuary_simple_loc.png
 ---
+## **Sanctuary on 4th and 5th Floor of Philadelphia City Hall**
+
+
+
 The connection between friends that arouse feelings of peace are the foundations for building  spaces of sanctuary, where one can exist and move uninhibited by fear. Sanctuary is a feeling of comfort and confidence to navigate space, and the stability needed to address daily needs and long-term goals and dreams. Sanctuary can be a personal sensation provoked or shattered in the home, on the block, in the neighborhood, or on a city, country, or even global scale. 
 
 How might listening to Syrians and Iraqis who have been resettled in Philadelphia help the City’s institutions, policy-makers, and residents [live into our shared values](https://www.reuters.com/article/us-usa-immigration-philadelphia/philadelphia-beats-us-appeal-in-sanctuary-city-case-idUSKCN1Q42BS) as a [Sanctuary City](https://generocity.org/philly/2017/12/07/sanctuary-cities-101-philadelphia-timeline-immigration/)? Where are the lines of commonality of cause and effect between the global refugee crisis and issues of local urban displacement, mass incarceration, education, and community economic development? How can we make Philadelphia a true place of sanctuary for resettled individuals? 
@@ -90,3 +94,5 @@ Informative and demanding, this exhibition showcases artworks that provoke and r
 
 يدعم مكتب الفنون والثقافة والاقتصاد الخلاق (OACCE) الفنون والثقافة والصناعات الإبداعية في فيلادلفيا من خلال الشراكة والترويج والتعليم. تتعاون OACCE مع المنظمات غير الهادفة للربح والمنظمات غير الربحية ومكاتب ووكالات المدينة لضمان أن الثقافة والإبداع هما من الاستراتيجيات الأساسية للمدينة لإنعاش المجتمعات وتحسين النتائج التعليمية وتحفيز التنمية الاقتصادية. تعمل OACCE أيضًا على الترويج للموارد والبرامج عالية الجودة في أحياء المدينة وتغلق الفجوة بين تجارب فنون الجودة. لمزيد من المعلومات ، يرجى زيارة: www.creativephl.org
 {: .ar}
+
+Translated by: Fouad Sakhnini
