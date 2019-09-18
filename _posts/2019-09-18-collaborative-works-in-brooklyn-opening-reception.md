@@ -7,7 +7,7 @@ categories:
   - public events
   - exhibition programming
   - 'exhibit:booklyn'
-image: Booklyn Website opening.png
+image: Booklyn Website opening final.png
 event_date: 'Saturday, September 28, 2019: 6pm-9pm'
 event_location: >-
   Booklyn: (Brooklyn Army Terminal) 140 58th St, Building B-7G, Brooklyn, NY
