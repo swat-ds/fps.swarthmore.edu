@@ -4,8 +4,10 @@ date: '2019-05-13 02:00 -0400'
 published: true
 title: Philadelphia Exhibitions Summer 2019 Press Release
 categories:
-  - public events
   - exhibitions
+  - 'exhibit:city hall'
+  - 'exhibit:twelve gates'
+  - 'exhibit:free library'
 image: press release summer 2019.jpg
 gallery:
   - city hall 3.jpg
