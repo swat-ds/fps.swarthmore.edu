@@ -3,8 +3,6 @@ date: '2019-02-09 16:32 -0400'
 lang: en
 published: true
 title: Upcoming Exhibitions 2019
-categories:
-  - public events
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abir AlArnab'
@@ -57,6 +55,8 @@ gallery:
   - erik_collab_journeys2.jpg
   - erik_collab_journeys3.jpg
   - erik_collab_journeys4.jpg
+categories:
+  - exhibitions
 ---
 Friends, Peace, and Sanctuary Exhibitions will explore how art that combines scholarly and experiential ways of knowing can build understanding of current issues. Featuring commissioned works by book artists Islam Aly, Maureen Cummins, Erik Ruin, Courtney Bowles and Mark Strandquist, exhibitions bring together historical and contemporary experiences of seeking refuge. These commissioned works will be shown alongside works by the project’s Syrian and Iraqi collaborators and archival material from Swarthmore’s Friends Historical Library and Peace Collections.
 
