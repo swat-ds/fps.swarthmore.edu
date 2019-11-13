@@ -2,7 +2,7 @@
 lang: en
 date: '2019-02-15 12:33 -0400'
 published: true
-title: Swarthmore Exhibitions April 2019 Press Release
+title: 'Press Release: Swarthmore Exhibitions April 2019 '
 categories:
   - exhibitions
   - 'exhibit:swarthmore'
