@@ -2,10 +2,10 @@
 lang: en
 date: '2019-05-15 00:00 -0400'
 published: true
-title: 'June 7-July 26, 2019'
+title: 'Philadelphia City Hall Exhibit: Sanctuary'
 categories:
   - exhibitions
-  - "exhibit:city hall"
+  - 'exhibit:city hall'
 gallery:
   - Layla Dove.jpg
   - PPC_Wksp2_AbdulKarim.jpg
@@ -33,7 +33,7 @@ tags:
   - 'artist:Osama Herkal'
   - 'artist:Raghad'
   - 'artist:Roula Al Jabi'
-image: sanctuary_simple_loc.png
+image: sanctuary_updated.png
 ---
 ## **Sanctuary on 4th and 5th Floor of Philadelphia City Hall**
 
