@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-15 00:00 -0400'
 published: true
-title: 'Philadelphia City Hall Exhibit: Sanctuary'
+title: Summer 2019 Exhibit at Philadelphia City Hall
 categories:
   - exhibitions
   - 'exhibit:city hall'
