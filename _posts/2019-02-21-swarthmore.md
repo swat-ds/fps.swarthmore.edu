@@ -30,7 +30,7 @@ tags:
   - 'artist:Samah AlKasab'
 ---
 
-This exhbition will be up from March 29, 2019 until April 24, 2019 at [McCabe Library at Swarthmore College.](https://www.swarthmore.edu/libraries/mccabe-library)
+This exhibition will be up from March 29, 2019 until April 24, 2019 at [McCabe Library at Swarthmore College.](https://www.swarthmore.edu/libraries/mccabe-library)
 
 Connecting renowned book artists with individuals who have resettled to Philadelphia from Syria and Iraq, the Friends, Peace, & Sanctuary project has worked to create and share works that explore art’s capacity to increase belonging and empathy. 
 
