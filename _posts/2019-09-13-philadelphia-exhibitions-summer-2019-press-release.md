@@ -2,7 +2,7 @@
 lang: en
 date: '2019-05-13 02:00 -0400'
 published: true
-title: Philadelphia Exhibitions Summer 2019 Press Release
+title: 'Press Release: Philadelphia Exhibitions Summer 2019 '
 categories:
   - exhibitions
   - 'exhibit:city hall'
