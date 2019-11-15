@@ -5,7 +5,7 @@ published: true
 title: 'Collaborative Works in Brooklyn: Opening Reception'
 categories:
   - public events
-  - exhibition programming
+  - exhibitions
   - 'exhibit:booklyn'
 image: Booklyn Website opening final.png
 event_date: 'Saturday, September 28, 2019: 6pm-9pm'
@@ -34,4 +34,3 @@ Works by: Abir AlArnab, Layla Al-husseini, Fadaa Ali, Islam Aly, Roula Aljabi, S
 {: .ar}
 عبير الارنب, ليلى الحسيني, فضاء علي, اسلام علي, رلى الجابي, سماح القصاب, أمال النجار, يعرب العبيدي, نورا المرزوقي, فادية, اسامة هرقل, عبد الكريم عواد, أريك باتل, كورتني باولز, مورين كومينز, أسماء دياب, جوش كروبيرا, مروة, محمدعكاب, حسان مهتدي, رغد سمير, أريك روين, علي سلمان, فؤاد سخنيني, سوزان سيسمان, شوق رمضان, ومارك ستراندكويست.  
 {: .ar}
-
