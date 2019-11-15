@@ -5,7 +5,7 @@ published: true
 title: 'Collaborative Works in Brooklyn: Opening Reception'
 categories:
   - public events
-  - exhibitions
+  - exhibition programming
   - 'exhibit:booklyn'
 image: Booklyn Website opening final.png
 event_date: 'Saturday, September 28, 2019: 6pm-9pm'
