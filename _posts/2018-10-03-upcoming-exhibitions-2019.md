@@ -1,29 +1,8 @@
 ---
 date: '2019-02-09 16:32 -0400'
 lang: en
-published: true
+published: false
 title: Upcoming Exhibitions 2019
-tags:
-  - 'artist:Amaal AlNajjar'
-  - 'artist:Abir AlArnab'
-  - 'artist:Abdul Karim Awad'
-  - 'artist:Ali Salman'
-  - 'artist:Asmaa Diab'
-  - 'artist:Courtney Bowles'
-  - 'artist:Erik Ruin'
-  - 'artist:Fadaa Ali'
-  - 'artist:Fadia Lilmakhzoub'
-  - 'artist:Fouad Sakhnini'
-  - 'artist:Islam Aly'
-  - 'artist:Layla Al Hussein'
-  - 'artist:Mark Strandquist'
-  - 'artist:Marwa'
-  - 'artist:Maureen Cummins'
-  - 'artist:Mohamed'
-  - 'artist:Osama Herkal'
-  - 'artist:Raghad'
-  - 'artist:Roula Al Jabi'
-  - 'artist:Samah AlKasab'
 gallery:
   - 5.jpg
   - FPS. Maureen. Wksp3 (1).JPG
