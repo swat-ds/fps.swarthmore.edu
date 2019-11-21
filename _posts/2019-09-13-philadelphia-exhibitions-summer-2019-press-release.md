@@ -5,9 +5,6 @@ published: true
 title: 'Press Release: Philadelphia Exhibitions Summer 2019 '
 categories:
   - exhibitions
-  - 'exhibit:city hall'
-  - 'exhibit:twelve gates'
-  - 'exhibit:free library'
 gallery:
   - city hall 3.jpg
   - city hall.4.jpg
