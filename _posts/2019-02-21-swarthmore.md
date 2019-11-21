@@ -6,7 +6,7 @@ title: Spring 2019 Exhibition Premier at Swarthmore College
 categories:
   - exhibitions
   - 'exhibit:swarthmore'
-image: islam_inception2.JPG
+image: Website swarthmore post image.png
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abir AlArnab'
