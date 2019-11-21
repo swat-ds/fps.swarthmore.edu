@@ -8,7 +8,6 @@ categories:
   - 'exhibit:city hall'
   - 'exhibit:twelve gates'
   - 'exhibit:free library'
-image: press release summer 2019.jpg
 gallery:
   - city hall 3.jpg
   - city hall.4.jpg
