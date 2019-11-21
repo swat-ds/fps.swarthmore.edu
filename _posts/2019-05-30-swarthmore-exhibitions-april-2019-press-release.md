@@ -6,7 +6,6 @@ title: 'Press Release: Swarthmore Exhibitions April 2019 '
 categories:
   - exhibitions
   - 'exhibit:swarthmore'
-image: swatexhibithug.jpg
 gallery:
   - swatexhibitlargegroup.jpg
   - swatexhibitopen.jpg
