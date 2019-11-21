@@ -1,6 +1,6 @@
 ---
 lang: en
-date: '2019-11-21 14:34 -0500'
+date: '2019-09-13 16:43 -0400'
 published: true
 title: 'Press Release: Booklyn Exhibition Fall 2019'
 categories:
