@@ -6,7 +6,7 @@ title: Spring 2019 Exhibition Premier at Swarthmore College
 categories:
   - exhibitions
   - 'exhibit:swarthmore'
-image: swarthmore_exhibit_updated.png
+image: swat_exhibit_update.png
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abir AlArnab'
