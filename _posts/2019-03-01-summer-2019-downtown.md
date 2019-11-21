@@ -1,7 +1,7 @@
 ---
 lang: en
 date: '2019-03-01 21:30 -0500'
-published: true
+published: false
 title: 'SUMMER 2019: 3 sites in Center City Philadelphia'
 categories:
   - exhibitions
@@ -25,27 +25,6 @@ gallery:
   - islam_inception.JPG
   - islam_inception2.JPG
   - islam_inception4.jpg
-tags:
-  - 'artist:Amaal AlNajjar'
-  - 'artist:Abir AlArnab'
-  - 'artist:Abdul Karim Awad'
-  - 'artist:Ali Salman'
-  - 'artist:Asmaa Diab'
-  - 'artist:Courtney Bowles'
-  - 'artist:Erik Ruin'
-  - 'artist:Fadaa Ali'
-  - 'artist:Fadia Lilmakhzoub'
-  - 'artist:Fouad Sakhnini'
-  - 'artist:Islam Aly'
-  - 'artist:Layla Al Hussein'
-  - 'artist:Mark Strandquist'
-  - 'artist:Marwa'
-  - 'artist:Maureen Cummins'
-  - 'artist:Mohamed'
-  - 'artist:Osama Herkal'
-  - 'artist:Raghad'
-  - 'artist:Roula Al Jabi'
-  - 'artist:Samah AlKasab'
 ---
 Did you miss the _Friends, Peace, and Sanctuary_ exhibition at Swarthmore College in April? 
 
