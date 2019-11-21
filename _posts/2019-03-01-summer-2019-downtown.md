@@ -5,8 +5,6 @@ published: false
 title: 'SUMMER 2019: 3 sites in Center City Philadelphia'
 categories:
   - exhibitions
-  - 'exhibit:city hall'
-  - 'exhibit:twelve gates'
 image: erik_collab_journeys4.jpg
 gallery:
   - 5.jpg
