@@ -1,10 +1,10 @@
 ---
 layout: single
-title: Press Coverage
-permalink: /press-coverage/
-id: press-coverage
+title: Media Coverage
+permalink: /media-coverage/
+id: media-coverage
 classes:
-  - press-coverage
+  - media-coverage
 published: true
 ---
 
