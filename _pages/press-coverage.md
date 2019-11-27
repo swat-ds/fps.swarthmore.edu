@@ -1,9 +1,13 @@
 ---
-lang: en
-date: '2019-11-22 15:33 -0500'
-published: false
-title: Media Coverage
+layout: single
+title: Press Coverage
+permalink: /press-coverage/
+id: press-coverage
+classes:
+  - press-coverage
+published: true
 ---
+
 ## **Swarthmore College Bulletin**
 
 Winter 2019
@@ -48,7 +52,7 @@ May 8, 2019
 
 July 3, 2019
 
-[‘Now, I’m from Philly!’: Iraqi refugee has found a new home and calling | We the People](https://www.inquirer.com/news/philadelphia/iraq-refugee-art-philadelphia-friends-peace-sanctuary-project-20190703.html)
+[**‘Now, I’m from Philly!’: Iraqi refugee has found a new home and calling \| We the People**](https://www.inquirer.com/news/philadelphia/iraq-refugee-art-philadelphia-friends-peace-sanctuary-project-20190703.html)
 
 > After 10 years in the U.S., Ali said she now thinks of herself as Iraqi and American. She considers herself something else, too — and when she proudly proclaims it, it’s the only time her accent completely disappears. “Now, I’m from Philly!” she said.
 
@@ -58,7 +62,7 @@ July 3, 2019
 
 July 9, 2019
 
-[Displaced Iraqis and Syrians in Philly try to shift the ‘refugee narrative’ through art](https://whyy.org/articles/displaced-iraqis-and-syrians-in-philly-try-to-shift-the-refugee-narrative-through-art/)
+[**Displaced Iraqis and Syrians in Philly try to shift the ‘refugee narrative’ through art**](https://whyy.org/articles/displaced-iraqis-and-syrians-in-philly-try-to-shift-the-refugee-narrative-through-art/)
 
 > Diab said she worries some people see refugees as burdens on their new country’s public resources, and hopes the artwork she created will help shatter that stereotype and show instead what she can contribute. Making art has also helped the refugees process their displacement. Diab used the sewing skills that once helped her put food on the table to make an elegant lace wedding gown. News images of bombed-out Syrian streets and men armed with rifles hide beneath the white lace.
 
@@ -68,7 +72,7 @@ July 9, 2019
 
 October 22, 2019
 
-[Brooklyn Exhibit Tells Refugee Story With 'Power Of Art'](https://patch.com/new-york/sunset-park/photos-brooklyn-exhibit-tells-refugee-story-power-art?utm_term=article-slot-1&utm_source=newsletter-daily&utm_medium=email&utm_campaign=newsletter)
+[**Brooklyn Exhibit Tells Refugee Story With 'Power Of Art'**](https://patch.com/new-york/sunset-park/photos-brooklyn-exhibit-tells-refugee-story-power-art?utm_term=article-slot-1&utm_source=newsletter-daily&utm_medium=email&utm_campaign=newsletter)
 
 > One workshop, for instance, asked the "collaborators," as the refugee participants were called, to share negative media reports about resettlement or their own stories about discrimination, rip up the paper and use the scraps to make new paper. In others, collaborators learned book-binding by creating their own books or learned about calligraphy by writing poems on the paper they made.
 
@@ -76,6 +80,6 @@ October 22, 2019
 
 ## **Social Justice and Social Practice in Book Arts**
 
-[Interview with Maureen Cummins](https://justicepracticebooks.omeka.net/exhibits/show/interviews/maureen_cummins)
+[**Interview with Maureen Cummins**](https://justicepracticebooks.omeka.net/exhibits/show/interviews/maureen_cummins)
 
 > "I learned a lot about invisible violence hearing these stories. The US is often seen as heroic for taking in refugees, but my impression from interviewing the resettlers is that it’s more much about creating the next underclass. The refugees who are “allowed” in are in debt the second they get off the plane. Everything that’s paid for them to resettle here is simply a loan."

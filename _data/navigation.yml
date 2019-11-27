@@ -5,13 +5,13 @@ main:
     children:
       - title: project team
         url: /project-team/
-      - title: press release
-        url: /press-release/
+      - title: press coverage
+        url: /press-coverage/
   - title: project team
     url: /project-team/
     tag: child
-  - title: press release
-    url: /press-release/
+  - title: press coverage
+    url: /press-coverage/
     tag: child
   - title: project
     url: /

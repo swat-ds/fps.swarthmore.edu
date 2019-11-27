@@ -405,12 +405,12 @@ footer .fa { font-size: 2rem; }
     }    
 
     @media screen and (max-width: $medium) {
-        height: 60vh;
+        height: 50vh;
     }
     
     @media screen and (max-width: $small) {
         top: 7rem;
-        min-height: 45rem;
+        min-height: 25rem;
     }
 }
 
