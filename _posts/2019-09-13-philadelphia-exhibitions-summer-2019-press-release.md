@@ -28,6 +28,7 @@ gallery:
   - freelibrary7.jpg
   - freelibrary8.jpg
   - freelibrary9.jpg
+image: press-release-thumb.png
 ---
 # ART, CONNECTION, REFUGE: A TRIO OF CENTER CITY EXHIBITIONS OPEN WINDOWS ON THE IMMIGRANT EXPERIENCE
 ## *The Friends, Peace, and Sanctuary Project Travels to City Hall, Old City, and the Free Library of Philadelphia*
