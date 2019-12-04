@@ -30,7 +30,7 @@ Coptic bound book. Laser-cut Fabriano and tracing paper, plexiglass mirror, lase
 "Birds meet to begin searching for their perfect king. But to find him, they need to start a difficult journey. The birds show their doubts and fears to their leader, the hoopoe. He encouraged and supported the birds to be confident, grateful, and honest. Eventually the birds recognize that their king is each of them and all of them.
 "The English text is adapted from Afkham Darband’si translation. The Arabic text is adapted from Badee Mohamed Gomaa’s Arabic translation 'Manteq Al Tayr'. The bird images represented are from medieval Islamic artwork. Arabic calligraphy is done by Abdul Karim and Sabri.
 
-Exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
+This was commissioned as part of this project for Swarthmore College Rare Books Collection in 2019 and exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
 
 
 Parkway Central Free Library Exhibition photo credit: [Ricky Yanas](http://rickyyanas.com/)
