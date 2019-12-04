@@ -32,6 +32,7 @@ This was commissioned as part of this project in 2019.
 Exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
 
 
-Photos credit from Free Library Exhibition: [Ricky Yanas](http://rickyyanas.com/)
+Parkway Central Free Library Exhibition photo credit: [Ricky Yanas](http://rickyyanas.com/)
 
-Photos credit from Swarthmore College McCabe Library: Husam Al-Obaidi (IG: @hussam _alobaidi)
+Swarthmore College McCabe Library Exhibition photo credit: Husam Al-Obaidi (IG: @hussam _alobaidi)
+ 
