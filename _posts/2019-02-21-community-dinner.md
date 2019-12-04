@@ -5,7 +5,7 @@ categories:
   - public events
   - exhibition programming
   - 'exhibit:swarthmore'
-image: islam_inception2.JPG
+image: swat_event_update_29.png
 event_date: 'March 29, 2019 '
 event_location: >-
   4:30-6pm - Opening Exhibition at Swarthmore College: McCabe Library | 6-8pm -
