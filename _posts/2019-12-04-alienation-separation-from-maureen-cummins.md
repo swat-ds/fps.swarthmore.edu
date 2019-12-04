@@ -27,7 +27,7 @@ Coptic-bound books, silkscreen-printed on Arches Cover.
 _**AlieNation / SepaRation**_ contains text from a series of interviews that [Cummins](http://www.maureencummins.com/) conducted with ten collaborators on the FPS project. Cummins designed the book to give the reader a visceral sense of separation. While interacting with the book, readers experience how frustrating it can be when even the most ordinary tasks and routines, such as reading a book, become a challenge. Cummins hopes that the experience of the reader/viewer is in part one of dislocation, alienation, and separation and that this experience opens an empathetic space for reading the accounts shared by the individuals she interviewed.
 
 
-This was commissioned as part of this project for Swarthmore College Rare Books Collection in 2019 and exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
+This artist book was commissioned as part of this project for Swarthmore College Rare Books Collection in 2019 and exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
 
 
 Parkway Central Free Library Exhibition photo credit: [Ricky Yanas](http://rickyyanas.com/)
