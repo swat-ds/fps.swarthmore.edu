@@ -14,6 +14,7 @@ gallery:
   - swatexhibitionworks.jpg
   - swatexhibitionerik.jpg
   - swatexhibitgroup2.jpg
+image: press-release-thumb.png
 ---
 
 # FRIENDS, PEACE AND SANCTUARY: A NEW CONVERSATION ABOUT IMMIGRATION AND REFUGE
