@@ -5,7 +5,7 @@ categories:
   - public events
   - exhibition programming
   - 'exhibit:swarthmore'
-image: swat_event_update_29.png
+image: swat_event_update_292.png
 event_date: 'March 29, 2019 '
 event_location: >-
   4:30-6pm - Opening Exhibition at Swarthmore College: McCabe Library | 6-8pm -
