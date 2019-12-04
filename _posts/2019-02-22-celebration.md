@@ -5,7 +5,7 @@ categories:
   - public events
   - exhibition programming
   - 'exhibit:swarthmore'
-image: swat_event_update_30.png
+image: swat_event_update_302.png
 event_date: 'March 30, 2019 / 12-6pm'
 event_location: 'Science Center, Swarthmore College'
 event_fb_url: 'https://www.facebook.com/events/956984508023821/'
