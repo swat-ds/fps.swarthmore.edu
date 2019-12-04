@@ -7,7 +7,7 @@ categories:
   - public events
   - exhibition programming
   - 'exhibit:swarthmore'
-image: swat_event_update_28.png
+image: swat_event_update_282.png
 event_date: 'March 28, 2019 4:30-6pm / Reception: 6-7pm'
 event_location: 'Lang Performing Arts Center(LPAC) Cinema, Swarthmore College'
 event_fb_url: 'https://www.facebook.com/events/541753682896910/'
