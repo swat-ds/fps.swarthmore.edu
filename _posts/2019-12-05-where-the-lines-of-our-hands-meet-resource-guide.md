@@ -31,7 +31,7 @@ gallery:
 
 > Through sharing past obstacles and difficult experiences, while also renewing future dreams in a new place through artmaking, this guide was collaboratively made to extend an added hand of support - carrying forward the timelines of compassion, shared destiny, and spaces of sanctuary.
 
-Partnering organizations Nationalities Services Center and HIAS, along with other resettlement agencies and social service providers received copies to distribute to newly resettled individuals. View the entire [Resource Guide here](/assets/Resource Guide M+C.pdf). If you or someone you know works with refugees, feel free to reprint the guide and let us know!
+The resource guide was co-created to distribut to partnering organizations Nationalities Services Center and HIAS, along with other resettlement agencies and social service providers. View the entire [Resource Guide here](/assets/Resource Guide M+C.pdf). If you or someone you know works with refugees, feel free to reprint the guide for distribution and let us know!
 
 Large banners were made out of images found in the resource guide highlighting skills and passions that could strengthen community, along with a glossary of words to help newcomers thrive. They were exhibited along with the resource on the [4th Floor of the Philadelphia City Hall](https://creativephl.org/). The bannners and resource guide were also exhibited at [Booklyn](http://booklyn.org/).
 
