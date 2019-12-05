@@ -6,7 +6,6 @@ title: Inception from Islam Aly
 gallery:
   - islam_incepetion3.jpg
   - islam_inception.JPG
-  - slam_inception4.jpg
   - islam_inception5.JPG
   - islam_inception6.JPG
   - freelibrary7.jpg
@@ -16,6 +15,7 @@ gallery:
   - Islam_inception_FLcomp4.jpg
   - Islam_inception_FLcomp5.jpg
   - swatexhibitopeningslsia.jpg
+  - islam_inception4.jpg
 image: islam_inception2.JPG
 tags:
   - 'artist:Islam Aly'
