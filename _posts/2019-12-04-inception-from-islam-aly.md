@@ -15,8 +15,7 @@ gallery:
   - Islam_inception_FLcomp4.jpg
   - Islam_inception_FLcomp5.jpg
   - swatexhibitopeningslsia.jpg
-  - islam_inception4.jpg
-image: islam_inception2.JPG
+image: islam_inception.JPG
 tags:
   - 'artist:Islam Aly'
 categories:
@@ -26,15 +25,26 @@ categories:
 ---
 Coptic bound book. Laser-cut Fabriano and tracing paper, plexiglass mirror, laser-engraved wooden boards, leather wrappings connected to seven miniature circular books. Inkjet printed text in English and Arabic. 
 
-**_Inception_** is inspired by stories and journeys of immigrants and refugees. It is a bilingual codex in English and Arabic. The book is based on the twelfth-century Persian verse poem “The Conference of the Birds” written by Farid Aldin Al-Attar. The poem is about the search for truth and integrity, which is parallel to the stories of Friends, Peace, and Sanctuary collaborators that Islam engaged with during the project.  
-"Birds meet to begin searching for their perfect king. But to find him, they need to start a difficult journey. The birds show their doubts and fears to their leader, the hoopoe. He encouraged and supported the birds to be confident, grateful, and honest. Eventually the birds recognize that their king is each of them and all of them.
-"The English text is adapted from Afkham Darband’si translation. The Arabic text is adapted from Badee Mohamed Gomaa’s Arabic translation 'Manteq Al Tayr'. The bird images represented are from medieval Islamic artwork. Arabic calligraphy is done by Abdul Karim and Sabri.
+**_Inception_** is inspired by stories and journeys of immigrants and refugees. It is a bilingual codex in English and Arabic. The book is based on the twelfth-century Persian verse poem [“The Conference of the Birds”](http://data.nur.nu/Kutub/English/Attar_Conference-of-the-Birds_tr.C.S.Nott.pdf) written by Farid Aldin Al-Attar. The poem is about the search for truth and integrity, which is Aly parallels to the storiess he heard on this project of refugee's quest to rediscover themselves.
 
-This artist book was commissioned as part of this project for Swarthmore College Rare Books Collection in 2019 and exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
+> Birds meet to begin searching for their perfect king. But to find him, they need to start a difficult journey. The birds show their doubts and fears to their leader, the hoopoe. He encouraged and supported the birds to be confident, grateful, and honest. Eventually the birds recognize that their king is each of them and all of them.
 
+> The English text is adapted from Afkham Darband’si translation. The Arabic text is adapted from Badee Mohamed Gomaa’s Arabic translation 'Manteq Al Tayr'. The bird images represented are from medieval Islamic artwork. Arabic calligraphy is done by Abdul Karim and Sabri.
+
+Learn more about _Inception_ and his other works on his [website](https://www.islamaly.com/inception.html).
+
+This artist book was commissioned as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
+
+Photo credit for works: Islam Aly
 
 Parkway Central Free Library Exhibition photo credit: [Ricky Yanas](http://rickyyanas.com/)
 
-Swarthmore College McCabe Library Exhibition photo credit: Husam Al-Obaidi (IG: @hussam _alobaidi)
- 
+Swarthmore College McCabe Library Exhibition photo credit: [Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) (IG: @hussam_alobaidi)
+
+
+![islam_inception2.JPG]({{site.baseurl}}/assets/images/islam_inception2.JPG)
+
+
+
+
 
