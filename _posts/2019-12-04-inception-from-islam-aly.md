@@ -24,7 +24,7 @@ categories:
 ---
 Coptic bound book. Laser-cut Fabriano and tracing paper, plexiglass mirror, laser-engraved wooden boards, leather wrappings connected to seven miniature circular books. Inkjet printed text in English and Arabic. 
 
-**_Inception_** is inspired by stories and journeys of immigrants and refugees. It is a bilingual codex in English and Arabic. The book is based on the twelfth-century Persian verse poem [“The Conference of the Birds”](http://data.nur.nu/Kutub/English/Attar_Conference-of-the-Birds_tr.C.S.Nott.pdf) written by Farid Aldin Al-Attar. The poem is about the search for truth and integrity, which is Aly parallels to the storiess he heard on this project of refugee's quest to rediscover themselves.
+**_Inception_** is inspired by stories and journeys of immigrants and refugees. It is a bilingual codex in English and Arabic. The book is based on the twelfth-century Persian verse poem [“The Conference of the Birds”](http://data.nur.nu/Kutub/English/Attar_Conference-of-the-Birds_tr.C.S.Nott.pdf) written by Farid Aldin Al-Attar. The poem is about the search for truth and integrity, which Aly parallels to the storiess he heard on this project of refugee's quest to rediscover themselves.
 
 > Birds meet to begin searching for their perfect king. But to find him, they need to start a difficult journey. The birds show their doubts and fears to their leader, the hoopoe. He encouraged and supported the birds to be confident, grateful, and honest. Eventually the birds recognize that their king is each of them and all of them.
 
