@@ -5,7 +5,6 @@ published: true
 title: Inception from Islam Aly
 gallery:
   - islam_incepetion3.jpg
-  - islam_inception.JPG
   - islam_inception5.JPG
   - islam_inception6.JPG
   - freelibrary7.jpg
@@ -43,6 +42,18 @@ Swarthmore College McCabe Library Exhibition photo credit: [Husam Al-Obaidi](htt
 
 
 ![islam_inception2.JPG]({{site.baseurl}}/assets/images/islam_inception2.JPG)
+
+![Islam_close2_IMG_7795.JPG]({{site.baseurl}}/assets/images/Islam_close2_IMG_7795.JPG)
+
+![Islam_close_3_IMG_7749.JPG]({{site.baseurl}}/assets/images/Islam_close_3_IMG_7749.JPG)
+
+![Islam_close_IMG_7800.JPG]({{site.baseurl}}/assets/images/Islam_close_IMG_7800.JPG)
+
+
+Some archival materials that provided inspiration:
+![Islam inspiration.png]({{site.baseurl}}/assets/images/Islam inspiration.png)
+
+
 
 
 
