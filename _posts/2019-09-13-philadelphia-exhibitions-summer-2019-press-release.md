@@ -5,30 +5,7 @@ published: true
 title: 'Press Release: Philadelphia Exhibitions Summer 2019 '
 categories:
   - exhibitions
-gallery:
-  - city hall 3.jpg
-  - city hall.4.jpg
-  - city hall2.jpg
-  - city hall5.jpg
-  - freelibrary1.jpg
-  - freelibrary2.jpg
-  - freelibrary4.jpg
-  - freelibrary5.jpg
-  - freelibrary6.jpg
-  - 12gates.jpg
-  - 12gates2.jpg
-  - 12gates3.jpg
-  - 12gates4.jpg
-  - 12gates5.jpg
-  - 12gates6.jpg
-  - city-hall1.jpg
-  - cityhall6.jpg
-  - cityhall7.jpg
-  - cityhall8.jpg
-  - freelibrary7.jpg
-  - freelibrary8.jpg
-  - freelibrary9.jpg
-image: press-release-thumb.png
+
 ---
 # ART, CONNECTION, REFUGE: A TRIO OF CENTER CITY EXHIBITIONS OPEN WINDOWS ON THE IMMIGRANT EXPERIENCE
 ## *The Friends, Peace, and Sanctuary Project Travels to City Hall, Old City, and the Free Library of Philadelphia*

@@ -6,15 +6,6 @@ title: 'Press Release: Swarthmore Exhibitions April 2019 '
 categories:
   - exhibitions
   - 'exhibit:swarthmore'
-gallery:
-  - swatexhibitlargegroup.jpg
-  - swatexhibitopen.jpg
-  - swatexhibityaroub.jpg
-  - swatexhibitopeningslsia.jpg
-  - swatexhibitionworks.jpg
-  - swatexhibitionerik.jpg
-  - swatexhibitgroup2.jpg
-image: press-release-thumb.png
 ---
 
 # FRIENDS, PEACE AND SANCTUARY: A NEW CONVERSATION ABOUT IMMIGRATION AND REFUGE
