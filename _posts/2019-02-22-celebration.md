@@ -10,7 +10,7 @@ event_date: 'March 30, 2019 / 12-6pm'
 event_location: 'Science Center, Swarthmore College'
 event_fb_url: 'https://www.facebook.com/events/956984508023821/'
 published: true
-date: '2019-03-01 15:55 -0500'
+date: '2019-03-01 16:07 -0500'
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abir AlArnab'
