@@ -12,7 +12,7 @@ event_date: 'March 28, 2019 4:30-6pm / Reception: 6-7pm'
 event_location: 'Lang Performing Arts Center(LPAC) Cinema, Swarthmore College'
 event_fb_url: 'https://www.facebook.com/events/541753682896910/'
 published: true
-date: '2019-03-01 16:07 -0500'
+date: '2019-03-01 15:55 -0500'
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Abir AlArnab'
