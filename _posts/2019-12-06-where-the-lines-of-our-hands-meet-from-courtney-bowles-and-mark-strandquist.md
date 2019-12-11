@@ -1,7 +1,7 @@
 ---
 lang: en
 date: '2019-12-06 11:33 -0500'
-published: false
+published: true
 title: 'Where the Lines of Our Hands Meet from Courtney Bowles and Mark Strandquist '
 categories:
   - works
