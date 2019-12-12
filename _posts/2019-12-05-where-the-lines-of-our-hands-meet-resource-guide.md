@@ -41,7 +41,7 @@ Large banners were made out of images found in the resource guide highlighting s
 
 The poem below was created by weaving project collaborators' responses to a variety of prompts and is the centerfold of the resource guide.  You can learn more in the description of [workshops](http://fps.swarthmore.edu/workshops/workshops-from-courtney-bowles-and-mark-strandquist-people-s-paper-co-op/) and Mark and Courtney's other [artist book](http://fps.swarthmore.edu/works/exhibit:swarthmore/exhibit:city%20hall/exhibit:booklyn/where-the-lines-of-our-hands-meet-from-courtney-bowles-and-mark-strandquist/).
 
-Photo credits: [Ricky Yanas](http://rickyyanas.com/) (Photos 2-3 at Philadelphia City Hall)
+Photo credits: [Ricky Yanas](http://rickyyanas.com/) (Photos 2-3 at Philadelphia City Hall); [Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) (Photos 4-5 at Philadelphia City Hall - _Sanctuary_ closing event); [Marshall Weber](https://www.instagram.com/marshallsweber/?hl=en) (Photos 6-7 at [Booklyn](http://booklyn.org/))
 
 
 ![Resource Guide Poem.jpg]({{site.baseurl}}/assets/images/Resource Guide Poem.jpg)
