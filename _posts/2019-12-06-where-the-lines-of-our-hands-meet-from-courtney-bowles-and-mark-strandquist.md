@@ -64,8 +64,9 @@ By making...
 {: .ar}
 
 
-The hands printed on the handmade paper are the hands of project collaborators. The Arabic calligraphy was done by hand by project collaborator, Abdul Karim Awad.
+The hands printed on the handmade paper are photos made by Mark of the hands of project collaborators. The Arabic calligraphy was hand done by project artist collaborator, Abdul Karim Awad.
 
 This work was commissioned as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library,](https://www.swarthmore.edu/libraries/mccabe-library)[4th Floor of the Philadelphia City Hall](https://creativephl.org/), and [Booklyn](http://booklyn.org/).
 
+Photo credits: [Ricky Yanas](http://rickyyanas.com/) (Photos 1-3 at Philadelphia City Hall); [Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) (Photos 4-6 at Philadelphia City Hall - _Sanctuary_ closing event); [Marshall Weber](https://www.instagram.com/marshallsweber/?hl=en) (Photo 7 at [Booklyn](http://booklyn.org/))
 
