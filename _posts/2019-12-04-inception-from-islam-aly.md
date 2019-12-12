@@ -34,7 +34,7 @@ Learn more about _Inception_ and his other works on his [website](https://www.is
 
 This work was commissioned as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
 
-Photo credits: Islam Aly (Photos 1-3 and below); [Ricky Yanas](http://rickyyanas.com/) (Photos 4-9);[Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/)(Photo 10)
+Photo credits: Islam Aly (Photos 1-3 and below); [Ricky Yanas](http://rickyyanas.com/) (Photos 4-9  at [Parkway Central Free Library of Philadelphia](https://libwww.freelibrary.org/locations/parkway-central-library));[Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/)(Photo 10 at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library))
 
 
 ![islam_inception2.JPG]({{site.baseurl}}/assets/images/islam_inception2.JPG)
@@ -49,10 +49,3 @@ Photo credits: Islam Aly (Photos 1-3 and below); [Ricky Yanas](http://rickyyanas
 
 Some archival materials that provided inspiration:
 ![Islam inspiration.png]({{site.baseurl}}/assets/images/Islam inspiration.png)
-
-
-
-
-
-
-
