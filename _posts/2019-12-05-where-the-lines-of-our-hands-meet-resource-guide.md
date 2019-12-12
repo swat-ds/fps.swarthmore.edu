@@ -26,6 +26,10 @@ gallery:
   - Resource Guide M+C.jpg
   - city hall 3.jpg
   - city hall.4.jpg
+  - M_C_banner_andrew_cityhall_8X6A6394.jpg
+  - m_c_cityhall_audience_banner8X6A6386.jpg
+  - M_c_banner_booklyn_IMG_5902.jpg
+  - m_c_banner_hands_booklyn_IMG_5908.jpg
 ---
 ***Where the Lines of Our Hands Meet: Resource Guide*** was a collaborative effort led by [Courtney Bowles and Mark Strandquist](http://peoplespaperco-op.weebly.com/) in collaboration with Abdul Karim Awad, Abir AlArnab, Asmaa Diab, Fadaa Ali, Fouad Sakhnini, Layla Al Hussein, Marwa, Mohamed Okab, Osama Herkal, Raghad Samir, Roula Al-Jabi, their families, and multiple other people who wish to remain anonymous. Guide translations provided by Tamim Arabi, Yaroub Al-Obaidi, and Nationalities Services Center. Poem translation provided by Dana Beseiso with edits from Adam Amin. Graphic Design by [Jason Killinger](https://jasonkillinger.com/).
 
@@ -35,9 +39,9 @@ The resource guide was co-created to distribut to partnering organizations Natio
 
 Large banners were made out of images found in the resource guide highlighting skills and passions that could strengthen community, along with a glossary of words to help newcomers thrive. They were exhibited along with the resource on the [4th Floor of the Philadelphia City Hall](https://creativephl.org/). The bannners and resource guide were also exhibited at [Booklyn](http://booklyn.org/).
 
-The poem below was created by weaving project collaborators' responses to a variety of prompts and is the centerfold of the resource guide.
+The poem below was created by weaving project collaborators' responses to a variety of prompts and is the centerfold of the resource guide.  You can learn more in the description of [workshops](http://fps.swarthmore.edu/workshops/workshops-from-courtney-bowles-and-mark-strandquist-people-s-paper-co-op/) and Mark and Courtney's other [artist book](http://fps.swarthmore.edu/works/exhibit:swarthmore/exhibit:city%20hall/exhibit:booklyn/where-the-lines-of-our-hands-meet-from-courtney-bowles-and-mark-strandquist/).
+
+Photo credits: [Ricky Yanas](http://rickyyanas.com/) (Photos 2-3 at Philadelphia City Hall)
 
 
 ![Resource Guide Poem.jpg]({{site.baseurl}}/assets/images/Resource Guide Poem.jpg)
-
-
