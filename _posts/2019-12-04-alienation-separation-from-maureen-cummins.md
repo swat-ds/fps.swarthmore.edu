@@ -32,7 +32,7 @@ You can read more about the work in [Maureen's prospectus](/assets/Prospectus Al
 This work was produced as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
 
 Photo Credits:
-[Nancy Donskoj](https://www.nancydonskojphotography.com/) (Photos 1, 3, 10, & below); [Ricky Yanas](http://rickyyanas.com/) (Photos 4-7); [Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) (IG: @hussam_alobaidi)(Photos 8-9).
+[Nancy Donskoj](https://www.nancydonskojphotography.com/) (Photos 1, 3, 10, & below); [Ricky Yanas](http://rickyyanas.com/) (Photos 4-7 at [Parkway Central Free Library of Philadelphia](https://libwww.freelibrary.org/locations/parkway-central-library)); [Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) (IG: @hussam_alobaidi)(Photos 8-9).
 
 
 ![Maureen Prospectus AlieNation SepaRation 5.jpg]({{site.baseurl}}/assets/images/Maureen Prospectus AlieNation SepaRation 5.jpg)
@@ -40,8 +40,3 @@ Photo Credits:
 ![Maureen Prospectus AlieNation SepaRation 2.jpg]({{site.baseurl}}/assets/images/Maureen Prospectus AlieNation SepaRation 2.jpg)
 
 ![Maureen Prospectus AlieNation SepaRation 6.jpg]({{site.baseurl}}/assets/images/Maureen Prospectus AlieNation SepaRation 6.jpg)
-
-
-
-
- 
