@@ -9,9 +9,20 @@ categories:
   - 'exhibit:city hall'
   - 'exhibit:booklyn'
 tags:
+  - 'artist:Abir AlArnab'
   - 'artist:Abdul Karim Awad'
+  - 'artist:Asmaa Diab'
   - 'artist:Courtney Bowles'
+  - 'artist:Fadaa Ali'
+  - 'artist:Fouad Sakhnini'
+  - 'artist:Layla Al Hussein'
   - 'artist:Mark Strandquist'
+  - 'artist:Marwa'
+  - 'artist:Mohamed'
+  - 'artist:Osama Herkal'
+  - 'artist:Raghad'
+  - 'artist:Roula Al Jabi'
+  - 'artist:Samah AlKasab'
 image: M_C_cover_wood.png
 gallery:
   - city hall2.jpg
