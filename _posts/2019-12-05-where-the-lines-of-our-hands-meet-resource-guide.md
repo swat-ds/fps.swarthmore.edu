@@ -31,7 +31,7 @@ gallery:
   - M_c_banner_booklyn_IMG_5902.jpg
   - m_c_banner_hands_booklyn_IMG_5908.jpg
 ---
-***Where the Lines of Our Hands Meet: Resource Guide*** was a collaborative effort led by [Courtney Bowles and Mark Strandquist](http://peoplespaperco-op.weebly.com/) in collaboration with Abdul Karim Awad, Abir AlArnab, Asmaa Diab, Fadaa Ali, Fouad Sakhnini, Layla Al Hussein, Marwa, Mohamed Okab, Osama Herkal, Raghad Samir, Roula Al-Jabi, their families, and multiple other people who wish to remain anonymous. Guide translations provided by Tamim Arabi, Yaroub Al-Obaidi, and Nationalities Services Center. Poem translation provided by Dana Beseiso with edits from Adam Amin. Graphic Design by [Jason Killinger](https://jasonkillinger.com/).
+***Where the Lines of Our Hands Meet: Resource Guide*** was a collaborative effort led by [Courtney Bowles and Mark Strandquist](http://peoplespaperco-op.weebly.com/) in collaboration with Abdul Karim Awad, Abir AlArnab, Asmaa Diab, Fadaa Ali, Fouad Sakhnini, Layla Al Hussein, Marwa, Mohamed Okab, Osama Herkal, Raghad Samir, Roula Al-Jabi, their families, and multiple other people who wish to remain anonymous. Guide translations provided by Tamim Arabi, Yaroub Al-Obaidi, and [Nationalities Services Center](https://nscphila.org/). Poem translation provided by Dana Beseiso with edits from Adam Amin. Graphic Design by [Jason Killinger](https://jasonkillinger.com/).
 
 > Through sharing past obstacles and difficult experiences, while also renewing future dreams in a new place through artmaking, this guide was collaboratively made to extend an added hand of support - carrying forward the timelines of compassion, shared destiny, and spaces of sanctuary.
 
