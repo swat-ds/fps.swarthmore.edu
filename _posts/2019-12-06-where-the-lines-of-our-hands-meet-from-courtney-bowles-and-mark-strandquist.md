@@ -12,11 +12,15 @@ tags:
   - 'artist:Abdul Karim Awad'
   - 'artist:Courtney Bowles'
   - 'artist:Mark Strandquist'
-image: ppc_lines3.JPG
+image: M_C_cover_wood.png
 gallery:
   - city hall2.jpg
   - city-hall1.jpg
   - cityhall8.jpg
+  - M_C_Swat_hand_IMG_1262.jpg
+  - M_C_city_hall_hands_8X6A6344.jpg
+  - "M_C_cityhall_hands_8X6A6338.jpg\t"
+  - m_c_banner_hands_booklyn_IMG_5908.jpg
 ---
 ***Where the Lines of Our Hands Meet*** artist book from [Courtney Bowles and Mark Strandquist](http://peoplespaperco-op.weebly.com/) was collaborative and transformational from process to product.
 
@@ -63,4 +67,5 @@ By making...
 The hands printed on the handmade paper are the hands of project collaborators. The Arabic calligraphy was done by hand by project collaborator, Abdul Karim Awad.
 
 This work was commissioned as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library,](https://www.swarthmore.edu/libraries/mccabe-library)[4th Floor of the Philadelphia City Hall](https://creativephl.org/), and [Booklyn](http://booklyn.org/).
+
 
