@@ -1,8 +1,32 @@
 ---
 lang: en
 date: '2019-12-12 17:06 -0500'
-published: false
+published: true
 title: Presentations
+categories:
+  - public events
+tags:
+  - 'artist:Amaal AlNajjar'
+  - 'artist:Abdul Karim Awad'
+  - 'artist:Ali Salman'
+  - 'artist:Asmaa Diab'
+  - 'artist:Fadaa Ali'
+  - 'artist:Fouad Sakhnini'
+  - 'artist:Islam Aly'
+  - 'artist:Osama Herkal'
+image: >-
+  creativemorningsphiladelphia--nora-elmarzouky-and-fouad-sakhnini_45249907395_o.jpg
+gallery:
+  - >-
+    creativemorningsphiladelphia--nora-elmarzouky-and-fouad-sakhnini_45249907395_o.jpg
+  - conf_ia_20181020_114156.jpg
+  - conf_ia_group_IMG_2257.jpg
+  - conf_ia_ka_IMG_0921.jpg
+  - conf_ia_ka_IMG_0921.jpg
+  - conf_yar_peg.jpeg
+  - wrd_IMG_3373.jpg
+  - wrd_IMG_3374.jpg
+  - wrd_IMG_5789_comp.jpg
 ---
 The Friends, Peace, and Sanctuary project team and artists participated in a wide range of public presenting and conducting workshops across the United States. This included placing project collaborators on panels to speak to their lived experience, as well as project team presenting at nationally acclaimed conferences. 
 
