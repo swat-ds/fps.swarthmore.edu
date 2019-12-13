@@ -30,32 +30,32 @@ gallery:
 ---
 The Friends, Peace, and Sanctuary project team and artists participated in a wide range of public presenting and conducting workshops across the United States. This included placing project collaborators on panels to speak to their lived experience, as well as project team presenting at nationally acclaimed conferences. 
 
-## **College Book Arts Association**
+## **[College Book Arts Association](https://www.collegebookart.org/)**
 
 January 2020, New Orleans, LA
 
-Interactive presentation and tabling with [Suzanne Seesman, Nora Elmarzouky,]((http://fps.swarthmore.edu/project-team/) [Fadaa Ali](http://fps.swarthmore.edu/artist-fadaa-ali/), and [Islam Aly](http://fps.swarthmore.edu/artist-islam-aly/)
+> Interactive presentation and tabling with [Suzanne Seesman, Nora Elmarzouky,]((http://fps.swarthmore.edu/project-team/) [Fadaa Ali](http://fps.swarthmore.edu/artist-fadaa-ali/), and [Islam Aly](http://fps.swarthmore.edu/artist-islam-aly/)
 
 
 ## **[National Humanities Alliance Conference](https://www.nhalliance.org/2019_national_humanities_conference)**
 
 November 2019, Honolulu, Hawai’i
 
-Presentation and bookmaking workshop by [Peggy Seiden, Katie Price, and Yaroub Al-Obaidi]((http://fps.swarthmore.edu/project-team/)
+Presentation and bookmaking workshop by [Peggy Seiden, Katie Price, and Yaroub Al-Obaidi](http://fps.swarthmore.edu/project-team/)
 
 
 ## **[YallaPunk](https://yallapunk.com/)**
 
 August 2019, Philadelphia, PA
 
-> Presentation and bookmaking workshop by [Nora Elmarzouky and Yaroub Al-Obaidi]((http://fps.swarthmore.edu/project-team/)
+> Presentation and bookmaking workshop by [Nora Elmarzouky and Yaroub Al-Obaidi](http://fps.swarthmore.edu/project-team/)
 
 
 ## **[The American Association of State and Local History Conference](https://aaslh.org/2019annualmeeting/)**
 
 August 2019, Philadelphia, PA
 
-> Presentation and bookmaking workshop by [Nora Elmarzouky and Yaroub Al-Obaidi]((http://fps.swarthmore.edu/project-team/)
+> Presentation and bookmaking workshop by [Nora Elmarzouky and Yaroub Al-Obaidi](http://fps.swarthmore.edu/project-team/)
 
 
 ## **[American Library Association Conference International Relations Roundtable Pre-Conference](https://2019.alaannual.org/registration/ticketed-events#ALA)**
@@ -97,7 +97,7 @@ April 2019, Swarthmore College
 
 March 2019, University of Pennsylvania 
 
-> [Yaroub Al-Obaidi](http://fps.swarthmore.edu/project-team/), [Asmaa Diab](http://fps.swarthmore.edu/artist-asmaa-diab/), [Shouq Ramadan](http://fps.swarthmore.edu/artist-fouad-sakhnini/), and [Ali Salman](http://fps.swarthmore.edu/artist-ali-salman/) spoke alongside Catherine Miller, the Executive Director of HIAS and poet, Ndeen Al-Barqawi, amongst others about their journeys and experiences with resettlement in the United States. This was organized by Penn Law Students to bring lived experience to couple academic learning, which also included an exhibition of artworks - some of which was from this project. It was actually the first time for some of the works made on the project to be publicly displayed. Read about it on the [Daily Philadelphian](https://www.thedp.com/article/2019/03/refugee-stereotype-penn-law-art-exhibit-upenn).
+> [Yaroub Al-Obaidi](http://fps.swarthmore.edu/project-team/), [Asmaa Diab](http://fps.swarthmore.edu/artist-asmaa-diab/), [Shouq Ramadan](http://fps.swarthmore.edu/artist-fouad-sakhnini/), and [Ali Salman](http://fps.swarthmore.edu/artist-ali-salman/) spoke alongside Catherine Miller, the Executive Director of [HIAS](https://hiaspa.org/) and poet, Ndeen Al-Barqawi, amongst others about their journeys and experiences with resettlement in the United States. This was organized by Penn Law Students to bring lived experience to couple academic learning, which also included an exhibition of artworks - some of which was from this project. It was actually the first time for some of the works made on the project to be publicly displayed. Read about it on the [Daily Philadelphian](https://www.thedp.com/article/2019/03/refugee-stereotype-penn-law-art-exhibit-upenn).
 
 
 ## **Presentation to Arabic classes at Swarthmore**
