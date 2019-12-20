@@ -41,6 +41,7 @@ Check out photos of the exhibition taken by [Ricky Yanas](http://rickyyanas.com/
 ## **Sanctuary on 4th and 5th Floor of Philadelphia City Hall**
 
 
+
 The connection between friends that arouse feelings of peace are the foundations for building  spaces of sanctuary, where one can exist and move uninhibited by fear. Sanctuary is a feeling of comfort and confidence to navigate space, and the stability needed to address daily needs and long-term goals and dreams. Sanctuary can be a personal sensation provoked or shattered in the home, on the block, in the neighborhood, or on a city, country, or even global scale. 
 
 How might listening to Syrians and Iraqis who have been resettled in Philadelphia help the City’s institutions, policy-makers, and residents [live into our shared values](https://www.reuters.com/article/us-usa-immigration-philadelphia/philadelphia-beats-us-appeal-in-sanctuary-city-case-idUSKCN1Q42BS) as a [Sanctuary City](https://generocity.org/philly/2017/12/07/sanctuary-cities-101-philadelphia-timeline-immigration/)? Where are the lines of commonality of cause and effect between the global refugee crisis and issues of local urban displacement, mass incarceration, education, and community economic development? How can we make Philadelphia a true place of sanctuary for resettled individuals? 
