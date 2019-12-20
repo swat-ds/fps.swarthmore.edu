@@ -35,9 +35,11 @@ tags:
   - 'artist:Roula Al Jabi'
 image: sanctuary_updated.png
 ---
+Check out photos of the exhibition taken by [Ricky Yanas](http://rickyyanas.com/) on [Flickr].(https://www.flickr.com/photos/154354320@N05/albums/72157711892503697)
+
+
 ## **Sanctuary on 4th and 5th Floor of Philadelphia City Hall**
 
-Check out photos of the exhibition taken by [Ricky Yanas](http://rickyyanas.com/) on [Flickr].(https://www.flickr.com/photos/154354320@N05/albums/72157711892503697)
 
 The connection between friends that arouse feelings of peace are the foundations for building  spaces of sanctuary, where one can exist and move uninhibited by fear. Sanctuary is a feeling of comfort and confidence to navigate space, and the stability needed to address daily needs and long-term goals and dreams. Sanctuary can be a personal sensation provoked or shattered in the home, on the block, in the neighborhood, or on a city, country, or even global scale. 
 
