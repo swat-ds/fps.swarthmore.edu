@@ -22,7 +22,6 @@ gallery:
   - conf_ia_20181020_114156.jpg
   - conf_ia_group_IMG_2257.jpg
   - conf_ia_ka_IMG_0921.jpg
-  - conf_ia_ka_IMG_0921.jpg
   - conf_yar_peg.jpeg
   - wrd_IMG_3373.jpg
   - wrd_IMG_3374.jpg
@@ -34,7 +33,7 @@ The Friends, Peace, and Sanctuary project team and artists participated in a wid
 
 January 2020, New Orleans, LA
 
-> Interactive presentation and tabling with [Suzanne Seesman, Nora Elmarzouky,]((http://fps.swarthmore.edu/project-team/) [Fadaa Ali](http://fps.swarthmore.edu/artist-fadaa-ali/), and [Islam Aly](http://fps.swarthmore.edu/artist-islam-aly/)
+> Interactive presentation and tabling with [Suzanne Seesman, Nora Elmarzouky,](http://fps.swarthmore.edu/project-team/) [Fadaa Ali](http://fps.swarthmore.edu/artist-fadaa-ali/), and [Islam Aly](http://fps.swarthmore.edu/artist-islam-aly/)
 
 
 ## **[National Humanities Alliance Conference](https://www.nhalliance.org/2019_national_humanities_conference)**
