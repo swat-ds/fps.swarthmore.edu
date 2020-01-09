@@ -35,10 +35,10 @@ tags:
   - 'artist:Roula Al Jabi'
 image: sanctuary_updated.png
 ---
-Check out photos of the exhibition taken by [Ricky Yanas](http://rickyyanas.com/) on [Flickr](https://www.flickr.com/photos/154354320@N05/albums/72157711892503697).
+Check out exhibition photos taken by [Ricky Yanas](http://rickyyanas.com/) on [Flickr](https://www.flickr.com/gp/154354320@N05/i7rvGC).
 
 
-## **Sanctuary on 4th and 5th Floor of Philadelphia City Hall**
+## **_Sanctuary_ on 4th and 5th Floor of Philadelphia City Hall**
 
 
 
