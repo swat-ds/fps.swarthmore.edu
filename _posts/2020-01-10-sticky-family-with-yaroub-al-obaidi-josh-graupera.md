@@ -2,7 +2,7 @@
 lang: en
 date: '2020-01-10 16:39 -0500'
 published: false
-title: Sticky Family with Yaroub Al-Obaidi + josh graupera
+title: 'Sticky Family: Artists Workshop with Yaroub Al-Obaidi + josh graupera'
 categories:
   - workshops
 ---
