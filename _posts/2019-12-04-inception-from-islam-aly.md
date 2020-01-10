@@ -30,9 +30,9 @@ Coptic bound book. Laser-cut Fabriano and tracing paper, plexiglass mirror, lase
 
 > The English text is adapted from Afkham Darband’si translation. The Arabic text is adapted from Badee Mohamed Gomaa’s Arabic translation 'Manteq Al Tayr'. The bird images represented are from medieval Islamic artwork. Arabic calligraphy is done by Abdul Karim and Sabri.
 
-Learn more about _Inception_ and his other works on his [website](https://www.islamaly.com/inception.html).
+Learn more about _Inception_ and his other works on his [website](https://www.islamaly.com/inception.html). Contact Islam directly if interested in purchasing a copy.
 
-This work was commissioned as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library).
+This work was commissioned as part of the _Friends, Peace, and Sanctuary_ project in 2018/2019 and can be viewed in the Swarthmore College Rare Books Collection. It was exhibited at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library) and the [Philadelphia Free Library - Parkway Central](https://libwww.freelibrary.org/locations/parkway-central-library). 
 
 Photo credits: Islam Aly (Photos 1-3 and below); [Ricky Yanas](http://rickyyanas.com/) (Photos 4-9  at [Parkway Central Free Library of Philadelphia](https://libwww.freelibrary.org/locations/parkway-central-library));[Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/)(Photo 10 at [Swarthmore College McCabe Library](https://www.swarthmore.edu/libraries/mccabe-library))
 
