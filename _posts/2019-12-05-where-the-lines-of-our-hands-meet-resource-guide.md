@@ -30,6 +30,7 @@ gallery:
   - m_c_cityhall_audience_banner8X6A6386.jpg
   - M_c_banner_booklyn_IMG_5902.jpg
   - m_c_banner_hands_booklyn_IMG_5908.jpg
+  - MockUp_Resource Guide.jpg
 ---
 Photo credits: [Ricky Yanas](http://rickyyanas.com/) (Photos 2-3 at Philadelphia City Hall); [Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) (Photos 4-5 at Philadelphia City Hall - _Sanctuary_ closing event); [Marshall Weber](https://www.instagram.com/marshallsweber/?hl=en) (Photos 6-7 at [Booklyn](http://booklyn.org/))
 
