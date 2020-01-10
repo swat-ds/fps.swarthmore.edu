@@ -84,4 +84,4 @@ The hands printed on the handmade paper are photos made by Mark of the hands of 
 
 This is one of kind work that was commissioned as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library,](https://www.swarthmore.edu/libraries/mccabe-library)[4th Floor of the Philadelphia City Hall](https://creativephl.org/), and [Booklyn](http://booklyn.org/).
 
-[Collective Book Process]({{site.baseurl}}/assets/images/ppc_process.png)
+[ppc_process.png]({{site.baseurl}}/assets/images/ppc_process.png)
