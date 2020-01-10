@@ -41,7 +41,7 @@ Photo credits: [Ricky Yanas](http://rickyyanas.com/) (Photos 2-3 at Philadelphia
 
 Large banners were made out of images found in the resource guide highlighting skills and passions that could strengthen community, along with a glossary of words to help newcomers thrive. They were exhibited along with the resource on the [4th Floor of the Philadelphia City Hall](https://creativephl.org/). The bannners and resource guide were also exhibited at [Booklyn](http://booklyn.org/). Download sample of these co-created images of [skills](https://www.flickr.com/gp/154354320@N05/0XPbmw) and [words](https://www.flickr.com/gp/154354320@N05/DH011b).
 
-The poem below was created by weaving project collaborators' responses to a variety of prompts and is the centerfold of the resource guide.  You can learn more in the description of [workshops](http://fps.swarthmore.edu/workshops/workshops-from-courtney-bowles-and-mark-strandquist-people-s-paper-co-op/) and Mark and Courtney's other [artist book](http://fps.swarthmore.edu/works/exhibit:swarthmore/exhibit:city%20hall/exhibit:booklyn/where-the-lines-of-our-hands-meet-from-courtney-bowles-and-mark-strandquist/).
+The poem below is the centerfold of the resource guide and was created by weaving project collaborators' responses to a variety of prompts.  You can learn more in the description of [workshops](http://fps.swarthmore.edu/workshops/workshops-from-courtney-bowles-and-mark-strandquist-people-s-paper-co-op/) and Mark and Courtney's other [artist book](http://fps.swarthmore.edu/works/exhibit:swarthmore/exhibit:city%20hall/exhibit:booklyn/where-the-lines-of-our-hands-meet-from-courtney-bowles-and-mark-strandquist/).
 
 
 ![MockUp_Resource Guide.jpg]({{site.baseurl}}/assets/images/MockUp_Resource Guide.jpg)
