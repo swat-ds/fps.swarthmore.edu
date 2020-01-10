@@ -33,11 +33,16 @@ gallery:
   - "M_C_cityhall_hands_8X6A6338.jpg\t"
   - m_c_banner_hands_booklyn_IMG_5908.jpg
 ---
+Photo credits: [Ricky Yanas](http://rickyyanas.com/) (Photos 1-3 at Philadelphia City Hall); [Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) (Photos 4-6 at Philadelphia City Hall - _Sanctuary_ closing event); [Marshall Weber](https://www.instagram.com/marshallsweber/?hl=en) (Photo 7 at [Booklyn](http://booklyn.org/))
+
 ***Where the Lines of Our Hands Meet*** artist book from [Courtney Bowles and Mark Strandquist](http://peoplespaperco-op.weebly.com/) was collaborative and transformational from process to product.
 
 > This book is more than handmade paper and powerful artwork. It is the culmination of laughter and frustration, of honest conversation, of shared meals, and of hugs. It was created by an amazing group of individuals in resettlement from Syria and Iraq, living in Philadelphia over the course of several months in 2018.
 
-The paper itself is as important as the words and images atop it. The book is comprised of handmade paper made that was created from negative news articles about migrants and refugees, which project collaborators wrote on top of with their own negative experiences based on stereotypes. In a group, each person read their experience outloud, tore up the paper, and transformed it into new sheets of blank handmade paper. The collectively written poem, which is also the centerforld for the resource guide, weaves responses to such prompts as: 
+The paper itself is as important as the words and images atop it. The book is comprised of handmade paper made that was created from negative news articles about migrants and refugees, which project collaborators wrote on top of with their own negative experiences based on stereotypes. In a group, each person read their experience outloud, tore up the paper, and transformed it into new sheets of blank handmade paper. Learn more about Mark and Courtney's workshops [here](http://fps.swarthmore.edu/workshops/workshops-from-courtney-bowles-and-mark-strandquist-people-s-paper-co-op/).
+
+
+The collectively written poem, which is also the centerforld for the resource guide, weaves responses to such prompts as: 
 
 If a fortune teller looked at the lines of my hands, they would see that my journey to the US included…
 
@@ -75,9 +80,8 @@ By making...
 {: .ar}
 
 
-The hands printed on the handmade paper are photos made by Mark of the hands of project collaborators. The Arabic calligraphy was hand done by project artist collaborator, Abdul Karim Awad.
+The hands printed on the handmade paper are photos made by Mark of the hands of project collaborators. The Arabic calligraphy was hand done by project artist collaborator, [Abdul Karim Awad](http://fps.swarthmore.edu/artist-abdul-karim-awad/).
 
-This work was commissioned as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library,](https://www.swarthmore.edu/libraries/mccabe-library)[4th Floor of the Philadelphia City Hall](https://creativephl.org/), and [Booklyn](http://booklyn.org/).
+This is one of kind work that was commissioned as part of the _Friends, Peace, and Sanctuary_ project for Swarthmore College Rare Books Collection in 2018/2019 and exhibited at [Swarthmore College McCabe Library,](https://www.swarthmore.edu/libraries/mccabe-library)[4th Floor of the Philadelphia City Hall](https://creativephl.org/), and [Booklyn](http://booklyn.org/).
 
-Photo credits: [Ricky Yanas](http://rickyyanas.com/) (Photos 1-3 at Philadelphia City Hall); [Husam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) (Photos 4-6 at Philadelphia City Hall - _Sanctuary_ closing event); [Marshall Weber](https://www.instagram.com/marshallsweber/?hl=en) (Photo 7 at [Booklyn](http://booklyn.org/))
-
+[Collective Book Process]({{site.baseurl}}/assets/images/ppc_process.png)
