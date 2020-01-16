@@ -44,6 +44,16 @@ May 8, 2019
 
 
 
+## **Association of College & Research Libraries News**
+
+June 2019
+
+[New From the Field: Swarthmore Libraries Friends, Peace, and Sanctuary project](https://crln.acrl.org/index.php/crlnews/article/view/17779/19610)
+
+> The project hosted more than 20 workshops, led by renowned book artists Islam Aly, Maureen Cummins, Erik Ruin, and the People’s Paper Co-op. Collaborators came together to share their own skills, learn new skills, and make paper-based and book-based art.
+
+
+
 ## **The Philadelphia Inquirer**
 
 July 3, 2019
