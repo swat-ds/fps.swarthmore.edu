@@ -31,15 +31,19 @@ In 2018, Swarthmore College received a 3-year [Andrew W. Mellon grant](https://w
 <hr/>
 
 **Workshop 1:**
+
 Yaroub and josh brought a bag filled with random objects from a pen to a SEPTA key card to a purchase from WAWA. The 15 participants were divided into groups and asked to select one of the objects  to describe any associations they have with the object they chose. They could draw, write, or record audio. After sharing, new groups were formed to repeat the activity again with new people. 
 
 **Workshop 2:** 
+
 This workshop focused on character creation. Based on the "Exquisite Corpse" exercise, each participant created their own avatar, or idealized version of themselves first. Then, they worked in groups of 3 to create a second set of people. Building upon workshop 1, Yaroub and josh used the stories created in the first workshop to form a list of themes and buzz words that could be used as a foundation for creating new biographies for real and/or fictional characters became the basis for the cast and crew of the comic book.
 
 **Workshop 3:**
+
 Building upon the previous workshops, participants collaboratively wrote stories for each character in small groups. 
 
-**Participants included:**
+
+**Participants:**
 - Ben Smith (Swarthmore Faculty/Staff) 
 - Emily Paddon Rhoads (Swarthmore Faculty/Staff) 
 - Alexandra Gueydan-Turek (Swarthmore Faculty/Staff)) 
@@ -61,7 +65,8 @@ Building upon the previous workshops, participants collaboratively wrote stories
 - Asmaa Diab (Project Collaborator) 
 - Hassan Muhtadi (Project Collaborator family member)
 
-**Feedback from Participants:**
+
+**Select Feedback from Participants:**
 > I have definitely come away changed. There is an overall culture of othering refugees and resettled people that, though I was aware of its existence, I didn't realize that I had until I worked with people and realized that the barriers between us are not as large we're led to believe.
 
 > It definitely increased my empathy whether it is toward my colleagues and students at the College, or whether toward the Iraqi and Syrian refugees we met. People shared with one another intimate stories that allowed us to perceive each other in a different light. I personally realized that, while my stories had a tendency to have a dark side to it, those in more precarious positions were able to relate to the same emotions while giving their stories some lightness and brightness. One participant, in particular, referenced mythical allegories (such as Galgamesh), Iranian poetry and Arab humor (through the protagonist of Djoha) so as to render a sense that, despite all the horror he lived, he remained alive, looking forward to his future and that of his family and friends in the US. This has touched me in such a way that I have been feeling more at peace and thankful for all the opportunities I received--as a recent and privileged immigrant to this country.
