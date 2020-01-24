@@ -31,11 +31,10 @@ Upon learning that many collaborators on the project were poets and there was a 
 <hr/>
 
 **Workshop 1:**
+
 Entitled "Blackout & Found Poetry," Maryan activated the archives by using them as a base for blackout/redaction/erasure poetry and collages. Participants were encouraged to utilize the texts and images in the archives to create new poetry referencing experiences with the theme of Peace. 
 The workshop was rooted in the act of play and encouraged participants to ignore the urge to forge meaning out of text, but rather explore sound, minimalism, and abstract language. Erasure and found poetry are as visual as they are textual so crafting elements were incorporated such as collaging with both words and images, as well as experimentation with colored pens and markers. 
 
 **Workshop 2:**
+
 Entitled "Home + The Five Senses," this workshops focused on generating vignettes from past and present homes through the exploration of the five senses. This workshop was rooted in exploring memory and how certain smells, textures and colors can be associated with home. They discussed the experience of culture shock and draw scenes that start with the prompt “The First Time I...” This workshop took place in the new Color Room in the McCabe Library.
-
-
-
