@@ -1,7 +1,7 @@
 ---
 lang: en
 date: '2020-01-10 16:41 -0500'
-published: false
+published: true
 title: Good Will Happen
 categories:
   - works
