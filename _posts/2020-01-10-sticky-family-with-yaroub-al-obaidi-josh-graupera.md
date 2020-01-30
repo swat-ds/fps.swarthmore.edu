@@ -74,4 +74,4 @@ The inquiries we pursued through the theme of the "sticky family" have also made
 
 > I have definitely come away changed. There is an overall culture of othering refugees and resettled people that, though I was aware of its existence, I didn't realize that I had until I worked with people and realized that the barriers between us are not as large we're led to believe.
 
-
+The artists: josh graupera, Yaroub Al-Obaidi, and Eric Battle are interested in conducting a smiliar process with other groups. Reach out to the artists if you are you interested in recreating this workshop and creating a unique _Sticky Family_ at your institution.
