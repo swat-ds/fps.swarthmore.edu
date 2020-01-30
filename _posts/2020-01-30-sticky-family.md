@@ -11,7 +11,7 @@ tags:
   - 'artist:Ali Salman'
   - 'artist:Asmaa Diab'
   - 'artist:Fadaa Ali'
-image: Sticky Family_Y_IMG_3208.jpg
+image: Sticky Family_Y_IMG_3208_crop.jpg
 gallery:
   - Sticky_Family_J_IMG_3204.jpg
   - Sticky_Family_C_IMG_3203.jpg
