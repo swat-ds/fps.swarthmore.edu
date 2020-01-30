@@ -2,7 +2,7 @@
 lang: en
 date: '2020-01-30 16:59 -0500'
 published: false
-title: 'Ghost Library: Ali Salman + Suzanne Seesman'
+title: 'A Broken Family Tree: Asmaa Diab'
 ---
 ## A New Post
 
