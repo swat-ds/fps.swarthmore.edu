@@ -15,9 +15,9 @@ gallery:
 **المكتبة المفقودة**
 {: .ar}
 
-Slip cast ceramic forms glazed with etching and pigment 
-Ali Salman and Suzanne L. Seesman
-2018-2019
+<br/>Slip cast ceramic forms glazed with etching and pigment 
+<br/>Ali Salman and Suzanne L. Seesman
+<br/>2018-2019
 
 
 <hr/>
