@@ -18,9 +18,9 @@ gallery:
 **عرس اللاجئ: الخوف الخفي**
 {: .ar}
 
-Altered wedding dress and digitally printed silk
-Asmaa Diab, Nora Elmarzouky
-2018-2019
+<br/>Altered wedding dress and digitally printed silk
+<br/>Asmaa Diab, Nora Elmarzouky
+<br/>2018-2019
 
 
 <hr/>
