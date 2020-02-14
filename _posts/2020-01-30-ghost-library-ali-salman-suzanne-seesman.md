@@ -25,3 +25,5 @@ gallery:
 
 Ali shared his story about losing his library full of books to a US drone strike in Baghdad, Iraq. Suzanne Seesman made hollow ceramic books. Ali took them and etched the titles of some of his favorite and, in his view, seminal pieces of literature, into the ceramic. This was displayed as part of the [_Friends_ exhibit at Twelve Gates Arts](http://fps.swarthmore.edu/exhibitions/exhibit:twelve%20gates/friends/) in Summer 2019.
 
+Photos taken by: Ricky Yanas
+
