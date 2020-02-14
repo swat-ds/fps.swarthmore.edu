@@ -52,6 +52,7 @@ Inspired to change the narrative around Iraqi people, Ali used his art and glass
 
 
 ![Ali_metal book2_MG_1584_.jpg]({{site.baseurl}}/assets/images/Ali_metal book2_MG_1584_.jpg)
+
 ![Ali_metal book_MG_1581_.jpg]({{site.baseurl}}/assets/images/Ali_metal book_MG_1581_.jpg)
 
 
