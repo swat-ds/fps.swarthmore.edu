@@ -1,7 +1,7 @@
 ---
 lang: en
 date: '2020-01-30 16:58 -0500'
-published: false
+published: true
 title: 'More Books: Abdul Karim Awad'
 categories:
   - works
@@ -19,8 +19,7 @@ Inspired to change the narrative around Iraqi people, Abdul Karim used his art a
 <br/>Handmade book made from card stock, paper, yarn, marker 
 <br/>Proverbs about self-preservation written in the thuluth style of Arabic calligraphy
 <br/>2018
-<br/>Exhibited in [_Friends, Peace, and Sanctuary_](http://fps.swarthmore.edu/exhibitions/exhibit:swarthmore/swarthmore/) exhibit at Swarthmore College McCabe Library and [_Friends_](http://fps.swarthmore.edu/exhibitions/exhibit:twelve%20gates/friends/) exhibit at 12Gates Arts in 2019, and [_Paperless Books_](https://www.burbio.com/states/Pennsylvania/Swarthmore/swarthmore-college-featured-events/Exhibition:-Paperless-Artists%E2%80%99-Books-in-the-Collection-180450161%E2%80%9C%3E%20%20%20%20%3Cmeta%20charset=) at Swarthmore College McCabe Library in 2020.
-
+<br/>Exhibited in [_Friends, Peace, and Sanctuary_](http://fps.swarthmore.edu/exhibitions/exhibit:swarthmore/swarthmore/) exhibit at Swarthmore College McCabe Library and [_Friends_](http://fps.swarthmore.edu/exhibitions/exhibit:twelve%20gates/friends/) exhibit at 12Gates Arts in 2019.
 
 ![AKA_self-pres-comp.jpg]({{site.baseurl}}/assets/images/AKA_self-pres-comp.jpg)
 ![AKA_self-pres-center-comp.jpg]({{site.baseurl}}/assets/images/AKA_self-pres-center-comp.jpg)
@@ -53,7 +52,8 @@ Inspired to change the narrative around Iraqi people, Abdul Karim used his art a
 
 <br/>Handmade knitted books made from binder, yarn 
 <br/>Compare the sounds of English and Arabic letters
-<br/>Exhibited in [_Friends, Peace, and Sanctuary_](http://fps.swarthmore.edu/exhibitions/exhibit:swarthmore/swarthmore/) exhibit at Swarthmore College McCabe Library and [_Peace_](http://fps.swarthmore.edu/exhibitions/exhibit:free%20library/peace/) exhibit at Parkway Central Free Library in 2019.
+<br/>Exhibited in [_Friends, Peace, and Sanctuary_](http://fps.swarthmore.edu/exhibitions/exhibit:swarthmore/swarthmore/) exhibit at Swarthmore College McCabe Library, [_Peace_](http://fps.swarthmore.edu/exhibitions/exhibit:free%20library/peace/) exhibit at Parkway Central Free Library in 2019, [_Paperless Books_](https://www.burbio.com/states/Pennsylvania/Swarthmore/swarthmore-college-featured-events/Exhibition:-Paperless-Artists%E2%80%99-Books-in-the-Collection-180450161%E2%80%9C%3E%20%20%20%20%3Cmeta%20charset=) at Swarthmore College McCabe Library in 2020.
+
 <br/>2018
 
 ![AKA1_MG_1977_comp.jpg]({{site.baseurl}}/assets/images/AKA1_MG_1977_comp.jpg)
