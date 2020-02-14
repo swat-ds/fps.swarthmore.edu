@@ -37,4 +37,4 @@ gallery:
 <hr/>
 
 
-This piece was imagined and stitched together by Asmaa Diab. She asked other collaborators to share photos or articles that reflect the depression and destruction in Syria. The images and articles were collaged together and printed on silk that Asmaa sewed underneath the first layer of the wedding dress. This was installed in the [_Sanctuary_ exhibit on the 4th floor of Philadelphia City Hall](http://fps.swarthmore.edu/exhibitions/exhibit:city%20hall/sanctuary/) in Summer 2019.
+This piece was imagined and stitched together by Asmaa Diab. She asked other collaborators to share photos or articles that reflect the depression and destruction in Syria. The images and articles were collaged together and printed on silk that Asmaa sewed underneath the first layer of the wedding dress. This was installed in the [_Sanctuary_ exhibit on the 4th floor of Philadelphia City Hall](http://fps.swarthmore.edu/exhibitions/exhibit:city%20hall/sanctuary/) in Summer 2019 and [_Collaborative Works on Paper_](http://fps.swarthmore.edu/exhibitions/exhibit:booklyn/september-27-october-26-2019/) at Booklyn.
