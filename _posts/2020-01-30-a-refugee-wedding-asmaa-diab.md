@@ -14,6 +14,7 @@ gallery:
   - refugee_dress_comp_MG_1401_.jpg
   - refugee_wedding_bust_MG_1404.jpg
   - asmaa-dress.JPG
+  - refugee_wedding_asmaa_IMG_3188.jpg
 ---
 **عرس اللاجئ: الخوف الخفي**
 {: .ar}
