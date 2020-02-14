@@ -20,6 +20,7 @@ gallery:
 
 Altered wedding dress and digitally printed silk
 Asmaa Diab, Nora Elmarzouky
+2019
 
 <hr/>
 
