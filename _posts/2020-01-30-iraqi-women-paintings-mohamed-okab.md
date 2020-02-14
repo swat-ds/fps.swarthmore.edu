@@ -15,6 +15,7 @@ gallery:
   - mohamed_woman3_comp_MG_1650.jpg
   - 'mohamed, Iraqi women in my memory 4.jpg'
   - 'mohamed, Iraqi women in my memory 5.jpg'
+  - mohamed_okab_8X6A3092.jpg
 ---
 **المراة العراقية في ذاكرتي**
 {: .ar}
