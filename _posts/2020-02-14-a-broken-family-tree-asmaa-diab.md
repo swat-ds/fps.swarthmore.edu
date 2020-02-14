@@ -28,7 +28,9 @@ Laser cut wood, beads, jewelry wire, toy birds, model trees, model moss,
 Asmaa Diab, Fadia, Nora Elmarzouky, Islam Aly
 2018-2019
 
+
 <hr/>
+
 
 <br/>We were families that were tied together close as a community, very close. 
 <br/>Then the war came and blew our family leaves to different countries. 
@@ -39,6 +41,8 @@ Asmaa Diab, Fadia, Nora Elmarzouky, Islam Aly
 <br/>There are problems for people outside in new countries but even more so for those still there. 
 <br/>People inside and out feel it. 
 
+
 <hr/>
+
 
 This piece came out of many conversations between a group of women collaborators on the project - Asmaa Diab, Fadaa Ali, Amaal Al-Najjar, Fadia, Samah, Suzanne Seesman, and Nora Elmarzouky. How do we show how we feel about being separated from our family - the center of our lives? Each of the 15 project collaborators shared how many people from their immediate family (parents, children, siblings, and/or neices/nephews) were in which country or US state, including Syria and Iraq. The countries and states that family members were displaced to were laser cut into wood with the help of Islam Aly and Swarthmore College. The amount of small trees on each state or country represents the number of people from their families that are there. Asmaa and Fadia made the leaves from beads and the tree in the center from wire and a real branch. Islam Aly brought his laser cutting expertise to support the creation of the states and countries. This was installed in the [_Sanctuary_ exhibit on the 4th floor of Philadelphia City Hall](http://fps.swarthmore.edu/exhibitions/exhibit:city%20hall/sanctuary/) in Summer 2019.
