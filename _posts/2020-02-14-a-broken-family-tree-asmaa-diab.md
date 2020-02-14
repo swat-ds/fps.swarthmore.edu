@@ -30,14 +30,14 @@ Asmaa Diab, Fadia, Nora Elmarzouky, Islam Aly
 
 <hr/>
 
-We were families that were tied together close as a community, very close. 
-Then the war came and blew our family leaves to different countries. 
-Many died. 
-Many people tried to rebuild but it’s difficult being separated. 
-They hover around us like vultures, owls, ravens - picking at our wounds and losses. Watching.
-We moved to different places to start anew, but our original family tree is hurt and broken. 
-There are problems for people outside in new countries but even more so for those still there. 
-People inside and out feel it. 
+<br/>We were families that were tied together close as a community, very close. 
+<br/>Then the war came and blew our family leaves to different countries. 
+<br/>Many died. 
+<br/>Many people tried to rebuild but it’s difficult being separated. 
+<br/>They hover around us like vultures, owls, ravens - picking at our wounds and losses. <br/>Watching.
+<br/>We moved to different places to start anew, but our original family tree is hurt and broken. 
+<br/>There are problems for people outside in new countries but even more so for those still there. 
+<br/>People inside and out feel it. 
 
 <hr/>
 
