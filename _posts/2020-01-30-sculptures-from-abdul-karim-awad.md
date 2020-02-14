@@ -20,44 +20,44 @@ Inspired to change the narrative around Iraqi people and culture, Abdul Karim us
 
 
 ## **The Gate of Ishtar**
-<br/> ## **باب عشتار**
+## **باب عشتار**
 {: .ar}
-<br/> 2018
+2018
 
-<br/>King Nebuchadnezzar II reigned 6O4-562 BCE,the peak of the Neo-Babylonian Empire. He is known as the biblical enquirer who captured Jerusalem. King Nebuchadnezzar II ordered the construction of the gate and dedicated it to the Babylonia.n goddess Ishtar The gate was constructed using glazed brick with alternating rows of bas-relief  mušḫuššu (dragons), aurochs (bulls), and lions, symbolizing the gods Marduk, Adad, and Ishtar respectively. The roof and doors of the gate were made of cedar, according to the dedication plaque. The bricks in the gate were covered in a blue glaze meant to represent lapis lazuli, a deep-blue semi-precious stone that was revered in antiquity due to its vibrancy. The blue glazed bricks would have given the fagade a jewel-like shine. Through the gate ran the Processional Way, which was lined with walls showing about 120 lions, bulls, dragons, and flowers on enameled yellow and black glazed bricks, symbolizing the goddess Iftar The gate itself depicted only gods and goddesses" These included Ishtar, Adad, and Marduk. It was built by Caliph Al-Mu'tasim in 836 AD to replace Baghdad as the capital of the Abbasid Caliphate, and abandoned by Caliph Al-Mu'tamid in 892 AD. Despite the short sojourn of the Abbasid Caliphate in Samarra, the city's artistic, literary, and scientific splendors have remained a legend in Arab history. 
+King Nebuchadnezzar II reigned 6O4-562 BCE,the peak of the Neo-Babylonian Empire. He is known as the biblical enquirer who captured Jerusalem. King Nebuchadnezzar II ordered the construction of the gate and dedicated it to the Babylonia.n goddess Ishtar The gate was constructed using glazed brick with alternating rows of bas-relief  mušḫuššu (dragons), aurochs (bulls), and lions, symbolizing the gods Marduk, Adad, and Ishtar respectively. The roof and doors of the gate were made of cedar, according to the dedication plaque. The bricks in the gate were covered in a blue glaze meant to represent lapis lazuli, a deep-blue semi-precious stone that was revered in antiquity due to its vibrancy. The blue glazed bricks would have given the fagade a jewel-like shine. Through the gate ran the Processional Way, which was lined with walls showing about 120 lions, bulls, dragons, and flowers on enameled yellow and black glazed bricks, symbolizing the goddess Iftar The gate itself depicted only gods and goddesses" These included Ishtar, Adad, and Marduk. It was built by Caliph Al-Mu'tasim in 836 AD to replace Baghdad as the capital of the Abbasid Caliphate, and abandoned by Caliph Al-Mu'tamid in 892 AD. Despite the short sojourn of the Abbasid Caliphate in Samarra, the city's artistic, literary, and scientific splendors have remained a legend in Arab history. 
 
 
 <hr/>
 
 
 ## **The Freedom Monument**
-<br/> ## **نصب الحرية**
+## **نصب الحرية**
 {: .ar}
-<br/> 2019 
+2019 
 
-<br/>The Freedom Monument, also known as _Nasb al-Hurriyah_, is a well known and important monument which is located in the center of the capital city of the Republic of Iraq, Baghdad. Located more precisely on the central Liberation Square, also knafun as Tahrir Square, the monument began being built in 1958, right after the country gained its independence, and it was completed in 1961. 
+The Freedom Monument, also known as _Nasb al-Hurriyah_, is a well known and important monument which is located in the center of the capital city of the Republic of Iraq, Baghdad. Located more precisely on the central Liberation Square, also knafun as Tahrir Square, the monument began being built in 1958, right after the country gained its independence, and it was completed in 1961. 
 
-<br/>With a height of about 10 meters (33 feet), Freedom Monument is the masterpiece of the leading Iraqi sculptor, Jawad Saleem, who interestingly integrated Iraq's ancient history. With contemporary themes and techniques. Consisting of a travertine slab with 14 bronze castings representing 25 figures; if explains the historic events of Iraq which led up to the 14 July Revolution, which in turn led to the independence of the Republic. 
+With a height of about 10 meters (33 feet), Freedom Monument is the masterpiece of the leading Iraqi sculptor, Jawad Saleem, who interestingly integrated Iraq's ancient history. With contemporary themes and techniques. Consisting of a travertine slab with 14 bronze castings representing 25 figures; if explains the historic events of Iraq which led up to the 14 July Revolution, which in turn led to the independence of the Republic. 
 
 
 <hr/>
 
 
 ## **Ziggurat (or Great Ziggurat) of Ur** 
-<br/> ## **زقورة اور**
+## **زقورة اور**
 {: .ar}
-<br/> 2019 
+2019 
 
-<br/>“This project is about sharing the Arab civilization. It is up to us to make American people, the people we are integrating with, to know our work and who we are… Islam is not about terrorism. I live my life to show people that my religion is about peace.”
+“This project is about sharing the Arab civilization. It is up to us to make American people, the people we are integrating with, to know our work and who we are… Islam is not about terrorism. I live my life to show people that my religion is about peace.”
 
 
 <hr/>
 
 
 ## **The Great Mosque of Sammara**
-<br/> ## **ملوية سامراء**
+## **ملوية سامراء**
 {: .ar}
-<br/> 2018 
+2018 
 
 A dominating, magnificent structure that was once the largest mosque in the lslamic World
 built by caliph At-Mutawakkit in 52 AD using bricks and clay. It has a rectangular plan measuring 24ox160 m with wails 1O m high and 2.65 m thick, supported by 44 towers. The courtyard was surrounded on all sides by an arcade. The greatest part of which was the one facing Holy Mecca
