@@ -1,17 +1,24 @@
 ---
 lang: en
 date: '2020-01-30 17:00 -0500'
-published: false
+published: true
 title: 'A Refugee Wedding: Asmaa Diab'
 categories:
   - works
+tags:
+  - 'artist:Asmaa Diab'
+image: refugee_wedding_Side_MG_1396.jpg
+gallery:
+  - refugee_wedding_comp_MG_1395_.jpg
+  - refugee_wedding_close_MG_1397.jpg
+  - refugee_dress_comp_MG_1401_.jpg
+  - refugee_wedding_bust_MG_1404.jpg
+  - asmaa-dress.JPG
 ---
 **عرس اللاجئ: الخوف الخفي**
 {: .ar}
 
 Altered wedding dress and digitally printed silk
-
-This piece was imagined and put together by Asmaa Diab. She asked other collaborators to share photos or articles that reflect the depression and destruction in Syria. The images and articles were collaged together and printed on silk underneath the first layer of the wedding dress.
 
 <hr/>
 
@@ -23,5 +30,7 @@ These are the images and the words burned into my memory.
 They will always be inside of me.
 
 <hr/>
+
+This piece was imagined and stitched together by Asmaa Diab. She asked other collaborators to share photos or articles that reflect the depression and destruction in Syria. The images and articles were collaged together and printed on silk that Asmaa sewed underneath the first layer of the wedding dress. This was installed in the [_Sanctuary_ exhibit on the 4th floor of Philadelphia City Hall](http://fps.swarthmore.edu/exhibitions/exhibit:city%20hall/sanctuary/).
 
 
