@@ -20,6 +20,8 @@ gallery:
   - broken_tree_right_MG_1433.jpg
   - broken_tree_birds_MG_1443.jpg
   - broken_tree_super_power_MG_1426.jpg
+  - broken_tree_asmaa_all_IMG_3186.jpg
+  - broken_tree_asmaa_IMG_3179.jpg
 ---
 **شجرة عائلة مكسورة**
 {: .ar}
