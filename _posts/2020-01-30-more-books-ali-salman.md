@@ -12,8 +12,7 @@ image: ali_salman work.jpg
 Inspired to change the narrative around Iraqi people, Ali used his art and glass-etching skills to create different types of additional books listed below.
 
 ## **Famous Quotations**
-
-## **الاقتباسات الشهيرة**
+<br/> ## **الاقتباسات الشهيرة**
 {: .ar}
 
 <br/>Handmade book made from leather and plastic 
@@ -21,6 +20,7 @@ Inspired to change the narrative around Iraqi people, Ali used his art and glass
 <br/>Exhibited in [_Peace_](http://fps.swarthmore.edu/exhibitions/exhibit:free%20library/peace/) exhibit at Parkway Central Free Library in 2019.
 
 ![Ali_Salman_quotations2.jpg]({{site.baseurl}}/assets/images/Ali_Salman_quotations2.jpg)
+
 ![Ali_Salman_quotations.jpg]({{site.baseurl}}/assets/images/Ali_Salman_quotations.jpg)
 
 
@@ -28,8 +28,7 @@ Inspired to change the narrative around Iraqi people, Ali used his art and glass
 
 
 ## **As I Am**
-
-## **كما انا**
+<br/> ## **كما انا**
 {: .ar}
 
 <br/>Handmade accordion book made from ceramic with etching 
@@ -44,8 +43,7 @@ Inspired to change the narrative around Iraqi people, Ali used his art and glass
 
 
 ## **Proverbs**
-
-## **الأمثال**
+<br/> ## **الأمثال**
 {: .ar}
 
 <br/>Handmade accordion book made from metal with etching 
@@ -61,8 +59,7 @@ Inspired to change the narrative around Iraqi people, Ali used his art and glass
 
 
 ## **Syrian and Iraqi Women**
-
-## **المرأة السورية والعراقية**
+<br/> ## **المرأة السورية والعراقية**
 {: .ar}
 
 <br/>Handmade accordion book made from glass and paper with etching
