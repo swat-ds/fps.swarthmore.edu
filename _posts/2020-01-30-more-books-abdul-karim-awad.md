@@ -66,7 +66,6 @@ Inspired to change the narrative around Iraqi people, Abdul Karim used his art a
 
 
 ## **Mesopotamia, The Land that Lies Between Two Rivers**
-
 ## **بِلَاد ٱلرَّافِدَيْن: الارض بَيْن ٱلنَّهْرَيْن**
 {: .ar}
 
@@ -81,7 +80,6 @@ Inspired to change the narrative around Iraqi people, Abdul Karim used his art a
 
 
 ## **Friends, Peace, and Sanctuary**
-
 ## **الأصدقاء، السلام، و الملاذ الآمن**
 {: .ar}
 
