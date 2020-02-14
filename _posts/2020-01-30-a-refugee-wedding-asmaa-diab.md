@@ -22,7 +22,9 @@ Altered wedding dress and digitally printed silk
 Asmaa Diab, Nora Elmarzouky
 2018-2019
 
+
 <hr/>
+
 
 <br/>I am here starting a new life.
 <br/>If you look at me you will see me smile. You will see me laugh. You will see me look fine
@@ -31,6 +33,8 @@ Asmaa Diab, Nora Elmarzouky
 <br/>These are the images and the words burned into my memory.
 <br/>They will always be inside of me.
 
+
 <hr/>
+
 
 This piece was imagined and stitched together by Asmaa Diab. She asked other collaborators to share photos or articles that reflect the depression and destruction in Syria. The images and articles were collaged together and printed on silk that Asmaa sewed underneath the first layer of the wedding dress. This was installed in the [_Sanctuary_ exhibit on the 4th floor of Philadelphia City Hall](http://fps.swarthmore.edu/exhibitions/exhibit:city%20hall/sanctuary/) in Summer 2019.
