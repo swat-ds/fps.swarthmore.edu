@@ -69,5 +69,5 @@ Inspired to change the narrative around Iraqi people, Ali used his art and glass
 <br/>2019
 <br/>Exhibited in [_Paperless Books_](https://www.burbio.com/states/Pennsylvania/Swarthmore/swarthmore-college-featured-events/Exhibition:-Paperless-Artists%E2%80%99-Books-in-the-Collection-180450161%E2%80%9C%3E%20%20%20%20%3Cmeta%20charset=) at Swarthmore College McCabe Library in 2020.
 
-![AAli_Salman_glass.jpg]({{site.baseurl}}/assets/images/Ali_Salman_glass.jpg)
+![Ali_Salman_glass.jpg]({{site.baseurl}}/assets/images/Ali_Salman_glass.jpg)
 
