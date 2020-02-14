@@ -19,7 +19,9 @@ Slip cast ceramic forms glazed with etching and pigment
 Ali Salman and Suzanne L. Seesman
 2018-2019
 
+
 <hr/>
+
 
 Ali shared a story about how he lost his library full of books to a drone strike in Baghdad, Iraq. Suzanne Seesman sculpted books on ashelp out of ceramic and Ali etched into the ceramic the titles of some of his favorite and, in his view, seminal pieces of literature. This was displayed as part of the [_Friends_ exhibit at Twelve Gates Arts](http://fps.swarthmore.edu/exhibitions/exhibit:twelve%20gates/friends/) in Summer 2019.
 
