@@ -20,23 +20,21 @@ image: yaroub1_MG_1417.jpg
 <br/> Produced by: Mohaned Al-Obaidi
 <br/>2019
 
-
 <hr/>
 
-
-<br/>Inspired by Queen Pu Abi, the queen of UR city in the south of Iraq around 2500 BCA. She is short with. Less than 5-foot height, a queen by herself there is no information about her husband or father. The original burial set made of gold, lapis, lazurde, and carnelian on display at [University of Pennsylvania Museum of Archeology and Anthropology.](https://www.penn.museum/)
+Inspired by Queen Pu Abi, the queen of UR city in the south of Iraq around 2500 BCA. She is short with. Less than 5-foot height, a queen by herself there is no information about her husband or father. The original burial set made of gold, lapis, lazurde, and carnelian on display at [University of Pennsylvania Museum of Archeology and Anthropology.](https://www.penn.museum/)
 
 ![yaroub_queen_puabi.jpg]({{site.baseurl}}/assets/images/yaroub_queen_puabi.jpg)
 
 <br/>**The Representation of Baghdad as a Queen: The Sanctuary City Looking for Sanctuary**
 
-<br/>Baghdad city, the capital of Iraq. The City of Peace. There are so many monuments and remarkable places all the time when it’s innovated from the Abbasinian time, but unfortunately, the city in it’s a worse time. It was nominated as one of the worst cities to live in for many years now.
+Baghdad city, the capital of Iraq. The City of Peace. There are so many monuments and remarkable places all the time when it’s innovated from the Abbasinian time, but unfortunately, the city in it’s a worse time. It was nominated as one of the worst cities to live in for many years now.
 
-<br/>I imagine Baghdad as a beauty queen, but it’s occupied and looks like always ready to the suffering of wars.
+I imagine Baghdad as a beauty queen, but it’s occupied and looks like always ready to the suffering of wars.
 
-<br/>Always imagined Baghdad as a Queen Pu Abi, but unfortunately suffering from cancer in all its body and this still damages the time to enjoy the city history and present but hopefully not the future.
+Always imagined Baghdad as a Queen Pu Abi, but unfortunately suffering from cancer in all its body and this still damages the time to enjoy the city history and present but hopefully not the future.
 
-<br/>Always imagine Baghdad as a queen with much hope to be better one day and take its real roles in civilization journey as before.
+Always imagine Baghdad as a queen with much hope to be better one day and take its real roles in civilization journey as before.
 
 
 <hr/>
