@@ -24,9 +24,9 @@ gallery:
 **شجرة عائلة مكسورة**
 {: .ar}
 
-Laser cut wood, beads, jewelry wire, toy birds, model trees, model moss,
-Asmaa Diab, Fadia, Nora Elmarzouky, Islam Aly
-2018-2019
+<br/>Laser cut wood, beads, jewelry wire, toy birds, model trees, model moss,
+<br/>Asmaa Diab, Fadia, Nora Elmarzouky, Islam Aly
+<br/>2018-2019
 
 
 <hr/>
