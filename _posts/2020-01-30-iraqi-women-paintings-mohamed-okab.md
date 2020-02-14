@@ -20,9 +20,9 @@ gallery:
 {: .ar}
 
 
-Paint on canvas
-Mohamed Okab
-2018-2019
+<br/>Paint on canvas
+<br/>Mohamed Okab
+<br/>2018-2019
 
 
 <hr/>
