@@ -24,12 +24,12 @@ Asmaa Diab, Nora Elmarzouky
 
 <hr/>
 
-I am here starting a new life.
-If you look at me you will see me smile. You will see me laugh. You will see me look fine
-But the fear is always inside of me.
-What I saw in the war, in my home will never be erased or fixed.
-These are the images and the words burned into my memory.
-They will always be inside of me.
+<br/>I am here starting a new life.
+<br/>If you look at me you will see me smile. You will see me laugh. You will see me look fine
+<br/>But the fear is always inside of me.
+<br/>What I saw in the war, in my home will never be erased or fixed.
+<br/>These are the images and the words burned into my memory.
+<br/>They will always be inside of me.
 
 <hr/>
 
