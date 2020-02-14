@@ -9,7 +9,7 @@ tags:
   - 'artist:Abdul Karim Awad'
 image: AKA work.jpg
 ---
-Inspired to change the narrative around Iraqi people, Abdul Karim created many different types of artwork including these additional books listed below.
+Inspired to change the narrative around Iraqi people, Abdul Karim used his art and calligraphy skills to create many different types of artwork including these additional books listed below.
 
 ## **Self-Preservation**
 
