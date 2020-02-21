@@ -75,7 +75,6 @@ Inspired to change the narrative around Iraqi people, Abdul Karim used his art a
 
 ![AKA_Mesopotamia_cover.jpg]({{site.baseurl}}/assets/images/AKA_Mesopotamia_cover.jpg)
 
-
 <hr/>
 
 
@@ -88,7 +87,4 @@ Inspired to change the narrative around Iraqi people, Abdul Karim used his art a
 <br/>2019
 <br/>Exhibited in [_Peace_](http://fps.swarthmore.edu/exhibitions/exhibit:free%20library/peace/) exhibit at Parkway Central Free Library and [Collaborative Works](http://fps.swarthmore.edu/exhibitions/exhibit:booklyn/september-27-october-26-2019/) on Paper at Booklyn in 2019.
 
-
-![AKA_big book_MG_1977_.jpg]({{site.baseurl}}/assets/images/AKA_big book_MG_1977_.jpg)
-
-
+![AKA-big-book-MG-1977.jpg]({{site.baseurl}}/assets/images/AKA-big-book-MG-1977.jpg)
