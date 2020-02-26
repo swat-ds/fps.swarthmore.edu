@@ -35,6 +35,9 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 ---
+Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flikr](https://www.flickr.com/gp/154354320@N05/65vj15).
+
+<hr/>
 
 The United Nations High Commission on Refugees estimates that there are currently more than 65.6 million forcibly displaced persons throughout the globe—the largest number since the second world war. 
 
