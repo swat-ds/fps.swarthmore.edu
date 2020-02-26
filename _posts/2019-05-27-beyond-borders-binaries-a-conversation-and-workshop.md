@@ -15,7 +15,7 @@ gallery:
   - beyond borders image.jpg
 event_fb_url: 'https://www.facebook.com/events/455654898524386/'
 ---
-**This was an official project activation program as part of the _Sanctuary_ exhibit. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flikr](https://www.flickr.com/gp/154354320@N05/yT6466).**
+**This was an official project program, activating the _Sanctuary_ exhibit. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flikr](https://www.flickr.com/gp/154354320@N05/yT6466).**
 
 <hr/>
 
