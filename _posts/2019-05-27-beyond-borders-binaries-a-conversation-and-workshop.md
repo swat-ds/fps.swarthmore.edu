@@ -15,6 +15,10 @@ gallery:
   - beyond borders image.jpg
 event_fb_url: 'https://www.facebook.com/events/455654898524386/'
 ---
+Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flikr](https://www.flickr.com/gp/154354320@N05/yT6466).
+
+<hr/>
+
 State violence takes many forms—family separation, criminalization, surveillance, and the control of bodies. How can we build an intersectional analysis that addresses these connections between incarceration, immigrant detention, homophobia, and the global refugee crisis? Hear from panelists about their lived experiences and their work in countering state violence that results in similar outcomes—family separation, criminalization, and surveillance. 
 
 
@@ -37,5 +41,4 @@ Organized in partnership with [Asian Arts Initative](http://asianartsinitiative.
 نظمت بالاشتراك مع الحركة الآسيوية الفنيّة، هذا حدث رسمي و جزء من الشراكة لهذه السنة مع "مكتب شؤون المهاجرين" و "مكتب شؤون إل جئ بي تي" "لشهر تراث المهاجرين" و "شهر الفخر" "للأطلاع على التعددية و تسليط الضوء على التنوع و عمق جماعات المهاجرين و إل جئ بي تي كيو  في فيلاديلفيا" و "ربطها مع جمهور أكبر-بغض النطر عن تحديد هويتهم الشخصي".
 {: .ar}
 
-Translated by: Miriam Meriwani 
-
+Translated by: Miriam Meriwani
