@@ -35,7 +35,7 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 ---
-**This was an official project program, activating the Swarthmore College exhibition. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flikr](https://www.flickr.com/gp/154354320@N05/65vj15).**
+**This was an official project program, activating the Swarthmore College exhibition. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/65vj15).**
 
 <hr/>
 
