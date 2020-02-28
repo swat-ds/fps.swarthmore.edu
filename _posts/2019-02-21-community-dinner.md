@@ -1,5 +1,7 @@
 ---
-title: ' FRIDAY: Exhibition Opening & Communal Dinner | افتتاح معرض الأصدقاء والسلام والملاذ والعشاء المحلي'
+title: >-
+  Exhibition Opening & Communal Dinner | افتتاح معرض الأصدقاء والسلام والملاذ
+  والعشاء المحلي
 lang: en
 categories:
   - public events
@@ -35,6 +37,7 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 ---
+**This was an official project program, activating the Swarthmore College exhibition during opening weekend. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/xYi8Ni).**
 
 You are invited to celebrate the culmination of this two-year project at our exhibition opening and communal dinner to become part of the Friends, Peace & Sanctuary conversation.
 
