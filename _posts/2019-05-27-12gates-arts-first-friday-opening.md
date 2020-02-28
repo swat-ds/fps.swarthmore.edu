@@ -15,7 +15,7 @@ event_date: 'Friday, June 7, 2019 / 6:00pm-8:30pm'
 event_location: '12 Gates Arts: 106 N 2nd St, Philadelphia, PA 19106'
 event_date_ar: 'يوم  الحمعة ٧ يونيو ٢٠١٩: من ٦ مساء إلى ٨:٣٠ مساء'
 ---
-**This was an official project program with 12Gates, activating the _Friends_ exhibition on First Friday. 200+ attended to view the works, meet artists, and experience a performance of [Erik Ruin's Threnody for the Displaced](http://fps.swarthmore.edu/threnody/). Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/KoG8N7).**
+**This was an official project program with [12Gates](http://www.twelvegatesarts.org/), activating the _Friends_ exhibition on First Friday. 200+ attended to view the works, meet artists, and experience a performance of [Erik Ruin's Threnody for the Displaced](http://fps.swarthmore.edu/threnody/). Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/KoG8N7).**
 
 
 <hr/>
