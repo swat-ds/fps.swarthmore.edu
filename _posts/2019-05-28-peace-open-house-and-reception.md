@@ -16,7 +16,7 @@ event_date_ar: 'يوم السبت ١٣ يوليو: من ١٠صباحا إلى ٤
 event_fb_url: 'https://www.facebook.com/events/292178628324253/'
 event_location_ar: المكتبة الحرة الرائيسي
 ---
-**This was an official project program, activating the _Peace_ exhibition. At least 50 people attended, 7 community partners and collaborators tabling, and a sold out culinary literacy workshop. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/78wbNp).**
+**This was an official project program, activating the _Peace_ exhibition. 75+ people came through to experience the exhibition and engage with 8 community partners and collaborators tabling. Samah led a sold out culinary literacy workshop and Asmaa's food closed the day out. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/78wbNp).**
 
 
 <hr/>
