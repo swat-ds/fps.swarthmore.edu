@@ -37,7 +37,11 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 ---
-**This was an official project program, activating the Swarthmore College exhibition during opening weekend. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/xYi8Ni).**
+**This was an official project program, activating the Swarthmore College exhibition during opening weekend. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) of the [Gallery Walk](https://www.flickr.com/gp/154354320@N05/5G2086) and the [Communal Dinner](https://www.flickr.com/gp/154354320@N05/xYi8Ni).**
+
+
+<hr/>
+
 
 You are invited to celebrate the culmination of this two-year project at our exhibition opening and communal dinner to become part of the Friends, Peace & Sanctuary conversation.
 
