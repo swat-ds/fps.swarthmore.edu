@@ -13,6 +13,12 @@ event_location: 'City Hall '
 event_date_ar: 'يوم الجمعة ٢٦ يوليو ٢٠١٩: من  ٥ مساء الى ١٠ مساء'
 event_fb_url: 'https://www.facebook.com/events/347596042461502/'
 ---
+**This was an official project program, activating the _Sanctuary_ exhibition. 120+ people participated in exhibition tours and attended the community dinner with food made by Osama Herkal, Asmaa Diab, and Fadaa Ali. On the sidewalk of city hall 3 community partners tabled, as at least 75 people participated in the interactive arts activities and 100s saw the Illuminator projections as they were driving south towards City Hall on North Broad Street. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/3Vra1d).**
+
+
+<hr/>
+
+
 The closing celebration will activate the Sanctuary exhibition and City Hall with guided tours, conversation, dinner, art-making and a projection show on the northside of City Hall facing Broad Street.
 
 Guided tours will be led by Artistic Director Suzanne Seesman and Community Liaison Yaroub Al-Obaidi. A shared meal will take place in the Caucus Room of City Hall on the 4th floor to meet project artists and collaborators. Limited public tickets available.  
