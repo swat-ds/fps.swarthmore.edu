@@ -15,9 +15,11 @@ gallery:
   - beyond borders image.jpg
 event_fb_url: 'https://www.facebook.com/events/455654898524386/'
 ---
-**This was an official project program, activating the _Sanctuary_ exhibit. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flikr](https://www.flickr.com/gp/154354320@N05/yT6466).**
+**This was an official project program, activating the _Sanctuary_ exhibit. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/yT6466).**
+
 
 <hr/>
+
 
 State violence takes many forms—family separation, criminalization, surveillance, and the control of bodies. How can we build an intersectional analysis that addresses these connections between incarceration, immigrant detention, homophobia, and the global refugee crisis? Hear from panelists about their lived experiences and their work in countering state violence that results in similar outcomes—family separation, criminalization, and surveillance. 
 
