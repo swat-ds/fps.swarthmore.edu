@@ -1,5 +1,5 @@
 ---
-title: 'SATURDAY: Community Celebration | احتفال مجتمع مشروع'
+title: Community Celebration | احتفال مجتمع مشروع
 lang: en
 categories:
   - public events
