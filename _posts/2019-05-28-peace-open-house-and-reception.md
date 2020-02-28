@@ -16,6 +16,12 @@ event_date_ar: 'يوم السبت ١٣ يوليو: من ١٠صباحا إلى ٤
 event_fb_url: 'https://www.facebook.com/events/292178628324253/'
 event_location_ar: المكتبة الحرة الرائيسي
 ---
+**This was an official project program, activating the _Peace_ exhibition. At least 50 people attended, 7 community partners and collaborators tabling, and a sold out culinary literacy workshop. Check out photos from the event taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) on [Flickr](https://www.flickr.com/gp/154354320@N05/78wbNp).**
+
+
+<hr/>
+
+
 Join _Friends, Peace, and Sanctuary_ for a day filled with culinary + art workshops connected to the two-year project at The Free Library of Philadelphia. Experience the _Peace_ exhibition with guided tours. This is one of three sites that make up the full exhibition that showcases newly created and collaborative artworks by resettled Syrians and Iraqis & renowned book artists that interweave historic and contemporary stories of refuge. The open house and reception is free all day, except the cooking workshop from 1-3 at the Culinary Literacy Center.
 
 - 10am-3pm: tabling from community partners, art-making stations with project artists, guided tours with project artists, and small marketplace - all on the 2nd floor in the middle of the display
