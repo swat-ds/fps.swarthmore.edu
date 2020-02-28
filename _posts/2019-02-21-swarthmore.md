@@ -29,6 +29,7 @@ tags:
   - 'artist:Roula Al Jabi'
   - 'artist:Samah AlKasab'
 ---
+**View photos taken by [Hosam Al-Obaidi](https://www.facebook.com/Say-Cheese-106758220748744/) of the Gallery Walk that took place during Opening Weekend on [Flickr](https://www.flickr.com/gp/154354320@N05/22j728).**
 
 This exhibition will be up from March 29, 2019 until April 24, 2019 at [McCabe Library at Swarthmore College.](https://www.swarthmore.edu/libraries/mccabe-library)
 
