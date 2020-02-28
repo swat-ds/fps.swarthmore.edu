@@ -1,7 +1,7 @@
 ---
 title: >-
-  THURSDAY: Art, History, Experience: A Panel on Displacement | الفن والتاريخ
-  والخبرة: مناقشة حول النزوح
+  Art, History, Experience: A Panel on Displacement | الفن والتاريخ والخبرة:
+  مناقشة حول النزوح
 lang: en
 categories:
   - public events
