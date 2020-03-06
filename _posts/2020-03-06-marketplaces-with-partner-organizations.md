@@ -1,6 +1,6 @@
 ---
 lang: en
-date: '2017-12-10 12:16 -0500'
+date: '2019-03-09 12:16 -0500'
 published: true
 title: Marketplaces with Partner Organizations
 categories:
@@ -14,7 +14,6 @@ tags:
   - 'artist:Osama Herkal'
   - 'artist:Raghad'
 gallery:
-  - get sovereign_IMG_6168.JPG
   - marketplace_oia_IMG_0410.JPG
   - marketplace_oia_IMG_0406.JPG
   - marketplace_sese_IMG_1364.JPG
@@ -26,6 +25,8 @@ gallery:
   - marketplace_penn_IMG_6994.JPG
   - marketplace_penn_IMG_6995.JPG
   - marketplace_bn_IMG_2041.JPG
+  - get sovereign_IMG_6168.JPG
+image: marketplace_oia_IMG_0410.JPG
 ---
 ## **[Philadelphia Assembled: Get Sovereign Marketplace](https://www.facebook.com/events/perelman-building/get-sovereign-holiday-marketplace-and-giving-festival/1790307754602666/)**
 
@@ -37,7 +38,7 @@ December 10, 2017, [The Philadelphia Museum of Art](https://philamuseum.org/)
 
 
 
-## **[Penn Museum: New Middle East Gallery Openings Bazaar](https://www.uwishunu.com/2018/04/new-middle-east-galleries-open-giant-festival-penn-museum-april-21-22/)**
+## **[Penn Museum: New Middle East Gallery Opening Bazaar](https://www.uwishunu.com/2018/04/new-middle-east-galleries-open-giant-festival-penn-museum-april-21-22/)**
 
 April 21-22, 2018, [Penn Museum](https://www.penn.museum/)
 
@@ -76,4 +77,4 @@ March 9-10, 2019, Sheraton NY Times Square
 ![marketplace_bn_IMG_2039.JPG]({{site.baseurl}}/assets/images/marketplace_bn_IMG_2039.JPG)
 
 
-Photo credit: Nora Elmarzouky
+Photos credit: Nora Elmarzouky
