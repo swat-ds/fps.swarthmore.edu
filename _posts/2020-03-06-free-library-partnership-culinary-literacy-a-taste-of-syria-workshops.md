@@ -51,6 +51,9 @@ gallery:
 The Friends, Peace, and Sanctuary project was lucky to collaborate with the [Free Library of Philadelphia Culinary Literacy Center](https://libwww.freelibrary.org/programs/culinary/) to organize a series of 3 workshops called a Taste of Syria. The partnership supported a fourth cooking workshop during the [_Peace_ Open House and Reception](http://fps.swarthmore.edu/public%20events/exhibition%20programming/exhibit:free%20library/peace-open-house-and-reception/) at the [Parkway Central Free Library](https://libwww.freelibrary.org/locations/parkway-central-library) in Summer 2019.
 
 
+<hr/>
+
+
 ## **[Osama Herkal: Molokheya & Fattoush](https://www.facebook.com/events/310161473069864/)**
 
 September 17, 2018, Parkway Central Free Library Kitchen
@@ -59,6 +62,8 @@ September 17, 2018, Parkway Central Free Library Kitchen
 
 ![culinary_osama_t_IMG_0501.JPG]({{site.baseurl}}/assets/images/culinary_osama_t_IMG_0501.JPG)
 
+
+<hr/>
 
 
 ## **[Asmaa Diab: Kibbe & Tabbouleh](https://www.eventbrite.com/e/a-taste-of-syria-kibbeh-and-tabbouleh-for-families-with-asmaa-diab-tickets-50542474903?fbclid=IwAR2zt0OHgnkHHCikXTHHr6Rj5hNC_lolpwd-WMwkeHyGBS--7ZxTnWFNWb0#)**
@@ -70,6 +75,8 @@ October 27, 2018, Parkway Central Free Library Kitchen
 ![culinary_asmaa_f_IMG_0546.JPG]({{site.baseurl}}/assets/images/culinary_asmaa_f_IMG_0546.JPG)
 
 
+<hr/>
+
 
 ## **[Abir Al-Arnab: Tiramisu & Kudrit Kader](https://libwww.freelibrary.org/calendar/event/81710?fbclid=IwAR2cduOZx2RukcndZfRy9ugqmXQnZVDlI1LoYmetwxEOKfLxKscAcgUr3HQ)**
 
@@ -79,6 +86,8 @@ November 10, 2018, Parkway Central Free Library Kitchen
 
 ![culinary_abir_F_IMG_0649.JPG]({{site.baseurl}}/assets/images/culinary_abir_F_IMG_0649.JPG)
 
+
+<hr/>
 
 
 ## **Cooking from Southwest Asia with Samah Al-Kassab**
