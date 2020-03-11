@@ -3,6 +3,24 @@ lang: en
 date: '2020-03-11 12:29 -0400'
 published: true
 title: Feedback from Collaborators
+categories:
+  - conversations
+tags:
+  - 'artist:Amaal AlNajjar'
+  - 'artist:Abir AlArnab'
+  - 'artist:Abdul Karim Awad'
+  - 'artist:Ali Salman'
+  - 'artist:Asmaa Diab'
+  - 'artist:Fadaa Ali'
+  - 'artist:Fadia Lilmakhzoub'
+  - 'artist:Fouad Sakhnini'
+  - 'artist:Layla Al Hussein'
+  - 'artist:Marwa'
+  - 'artist:Mohamed'
+  - 'artist:Osama Herkal'
+  - 'artist:Raghad'
+  - 'artist:Roula Al Jabi'
+  - 'artist:Samah AlKasab'
 ---
 **Anonymous**
 
