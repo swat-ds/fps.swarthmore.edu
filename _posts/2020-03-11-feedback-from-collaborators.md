@@ -184,7 +184,7 @@ The heart feels it, not the has nothing to do with nationality, it hs to do with
 <hr/>
 
 
-**What do you hope people will learn and understand from seeing the artwork that came out of this project?**##
+## **What do you hope people will learn and understand from seeing the artwork that came out of this project?**
 
 ماذا تتمنى أن يتعلم الناس او يفهموا من خلال رؤية الأعمال الفنية التي نتجت من المشروع؟<br/> 
 {: .ar}
@@ -215,10 +215,3 @@ The heart feels it, not the has nothing to do with nationality, it hs to do with
 
 - I want people to understand how difficult our lives are when we arrive. Yes lots of organizations help us and there are different opportunities, but when you get kicked out of your country and come here EVERYTHING IS DIFFERENT - language, system, etc.. its soo difficult and so different. I want them to feel that it is hard for us and nothing is easy. I want them to see us successful, we can work, we go to school, we can travel, we can connect with this country.
 I want people to understand we work very hard and we try to show our best side of ourselves.
-
-
-
-
-
-
-
