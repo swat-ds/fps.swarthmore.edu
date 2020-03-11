@@ -48,7 +48,7 @@ gallery:
   - culinary_samah_8X6A6097.jpg
   - culinary_Samah_8X6A6106.jpg
 ---
-##The Friends, Peace, and Sanctuary project was lucky to collaborate with the [Free Library of Philadelphia Culinary Literacy Center](https://libwww.freelibrary.org/programs/culinary/) to organize a series of 3 workshops called a Taste of Syria. The partnership supported a fourth cooking workshop during the [_Peace_ Open House and Reception](http://fps.swarthmore.edu/public%20events/exhibition%20programming/exhibit:free%20library/peace-open-house-and-reception/) at the [Parkway Central Free Library](https://libwww.freelibrary.org/locations/parkway-central-library) in Summer 2019.
+The Friends, Peace, and Sanctuary project was lucky to collaborate with the [Free Library of Philadelphia Culinary Literacy Center](https://libwww.freelibrary.org/programs/culinary/) to organize a series of 3 workshops called a Taste of Syria. The partnership supported a fourth cooking workshop during the [_Peace_ Open House and Reception](http://fps.swarthmore.edu/public%20events/exhibition%20programming/exhibit:free%20library/peace-open-house-and-reception/) at the [Parkway Central Free Library](https://libwww.freelibrary.org/locations/parkway-central-library) in Summer 2019.
 
 
 <hr/>
