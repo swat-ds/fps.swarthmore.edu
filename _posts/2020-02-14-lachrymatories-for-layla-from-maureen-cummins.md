@@ -40,6 +40,7 @@ I wish I could keep my tears
 <br/>التي ذرفتها على مر السنين
 <br/>فلربما أصبحت نهرًا 
 <br/>أو شكلت بحرًا
+{: .ar}
 
 
 Adeeb (husband)
@@ -54,6 +55,7 @@ Adeeb (husband)
 <br/>هو حبيبي
 <br/>رجل صالح
 <br/>لن يغادر ئاكرتي
+{: .ar}
 
 
 Faiz (eldest son)
@@ -65,6 +67,7 @@ Faiz (eldest son)
 فائز (ولدي الأكبر)
 <br/>لازلت أشعر بيده
 <br/>تلامس خصلات شعري
+{: .ar}
 
 
 Faris (middle son)
@@ -77,6 +80,7 @@ Faris (middle son)
 <br/>يغمره حبي
 <br/>يغمرني الشوق له
 <br/>أحبه من كل قلبي
+{: .ar}
 
 
 Oday  (youngest son)
@@ -91,6 +95,7 @@ Oday  (youngest son)
 <br/>فقد رأيت ولده
 <br/>أبكي كل مرة عندما أرى ولده
 <br/>لأني أشعر أن ولدي لم يمت
+{: .ar}
 
 
 Firas  (baby)
@@ -105,6 +110,7 @@ Firas  (baby)
 <br/>لقد كان ينظر الي لحظة ما فارق الحياة 
 <br/>لقد كنت دومًا اطعمه
 <br/>لكنه لم يعش عمرًا مديدًا
+{: .ar}
 
 
 Life is like a book.
@@ -112,4 +118,3 @@ Life is like a book.
 <br/>Sometimes you are sad.
 <br/>In the end, you close the book
 <br/>Forever.
-
