@@ -1,6 +1,6 @@
 ---
 lang: en
-date: '2018-012-13 15:36 -0500'
+date: '2018-12-13 15:36 -0500'
 published: true
 title: Dinner with fire fighters at Ladder 71
 categories:
