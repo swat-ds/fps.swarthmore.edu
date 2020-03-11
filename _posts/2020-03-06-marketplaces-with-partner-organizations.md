@@ -44,7 +44,7 @@ April 21-22, 2018, [Penn Museum](https://www.penn.museum/)
 
 > Penn Museum organized a bazaar that included project collaborator [Osama Herkal](http://fps.swarthmore.edu/artist-osama-herkal/) offering Syrian coffee and spice; [Abdul Karim Awad](http://fps.swarthmore.edu/artist-abdul-karim-awad/) shared his calligraphy through his work and facilitating workshops; [Fadaa Ali](http://fps.swarthmore.edu/artist-fadaa-ali/) shared her ceramics; and [Ali Salman](http://fps.swarthmore.edu/artist-ali-salman/) shared his etched glass.
 
-![marketplace_penn_IMG_7001.JPG]({{site.baseurl}}/marketplace_penn_IMG_7001.JPG)
+![marketplace_penn_IMG_7001.JPG]({{site.baseurl}}/assets/images/marketplace_penn_IMG_7001.JPG)
 
 
 
