@@ -8,7 +8,7 @@ categories:
 tags:
   - 'artist:Amaal AlNajjar'
   - 'artist:Fadaa Ali'
-image: _MG_1634_the crossing_fadaa-min.jpg
+image: MG_1634_the_crossing_fadaa-min.jpg
 gallery:
   - crossing_full_MG_1633.jpg
   - crossing_close_MG_1635.jpg

@@ -9,7 +9,7 @@
     {% endif %}
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}  {{ f.lang }}">
-      <a href="{{ f.url }}">
+      <a href="{{ f.url | relative_url }}">
 
       {% capture image_path %}
         {% if f.image %}

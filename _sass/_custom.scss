@@ -1,3 +1,7 @@
+// Friends, Peace, & Sanctuary Theme
+
+$media-prefix: '/fps/assets/images/';
+
 // /*----- Mixins ----- */
 
 @mixin arabic(){
@@ -391,7 +395,7 @@ footer .fa { font-size: 2rem; }
     top: 9rem;
     height: 75vh;
     min-height: 32rem;
-    @include linear-gradient(to bottom, '/assets/images/IslamAly1bio.jpg', rgba($blue,.8) 60%, rgba($gold,.7));
+    @include linear-gradient(to bottom, $media-prefix+'IslamAly1bio.jpg', rgba($blue,.8) 60%, rgba($gold,.7));
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -716,20 +720,20 @@ footer .fa { font-size: 2rem; }
         }
 
     div div:nth-child(1){
-        background-image: url('/assets/images/IslamAly2bio.jpg');
+        background-image: url($media-prefix+'IslamAly2bio.jpg');
         background-position: center;         
     }
     div div:nth-child(2){
-        background-image: url('/assets/images/MaureenCumminsbio1.jpg');        
+        background-image: url($media-prefix+'MaureenCumminsbio1.jpg');        
     }
     div div:nth-child(3){
-        background-image: url('/assets/images/ErikRuinbio1.jpeg');        
+        background-image: url($media-prefix+'ErikRuinbio1.jpeg');        
     }
     div div:nth-child(4){
-        background-image: url('/assets/images/CourtneyBowlesbio.jpg');        
+        background-image: url($media-prefix+'CourtneyBowlesbio.jpg');        
     }
     div div:nth-child(5){
-        background-image: url('/assets/images/MarkStrandquistbio.jpg');
+        background-image: url($media-prefix+'MarkStrandquistbio.jpg');
         background-position: center;       
     }
 }

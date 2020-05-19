@@ -1,11 +1,7 @@
-# Welcome to Jekyll!
+# Friends, Peace & Sanctuary Theme 
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# Site and theme files for fps.swarthmore.edu
+# Based on @mmistakes [Minimal Mistakes Theme](https://github.com/mmistakes/minimal-mistakes)
 
 # Site Settings
 locale                   : "en"
@@ -13,8 +9,8 @@ title                    : "Friends, Peace, & Sanctuary"
 title_separator          : "-"
 name                     : "Swarthmore College"
 # url                      : # "https://mmistakes.github.io"
-url                      : #""
-baseurl                  : ""
+url                      : "https://ds-pages.swarthmore.edu"
+baseurl                  : "/fps"
 languages                : ["en", "ar"]
 exclude_from_localizations: ["assets","assets/js","assets/images","assets/css","assets/fonts"]
 
@@ -49,50 +45,12 @@ placeholder:
   bio: >
     As part of FPS, members of the Iraq and Syrian refugee communities of Philadelphia have graciously contributed their valuable time, input and lent their experiences to the project.
 
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gemfile.lock
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - "*.gempspec"
-  - images_orig
-keep_files:
-  - .git
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -105,11 +63,10 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: nested # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Outputting
 permalink: /:categories/:title/
@@ -142,11 +99,11 @@ compress_html:
     envs: development
 
 # mini magick image processing
-mini_magick:
-  resize:
-    source: assets/images
-    destination: assets/images
-    resize: "800x>"
+# mini_magick:
+#   resize:
+#     source: assets/images
+#     destination: assets/images
+#     resize: "800x>"
 
 jekyll-archives:
   enabled: ['tags','categories']
@@ -169,7 +126,7 @@ defaults:
       share: false
       related: false
 
-# Prose settings
+# Prose.io settings
 prose:
   rooturl: '_posts'
   media: 'assets/images'
@@ -320,3 +277,38 @@ prose:
           label: "Published"
           help: Check the box when post is ready to be published.
           value: true
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - "*.gempspec"
+  - images_orig
+keep_files:
+  - .git
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
