@@ -3,6 +3,7 @@ _site
 .bundle
 .DS_Store
 .jekyll-metadata
+.jekyll-cache
 vendor
 docs
 node_modules
