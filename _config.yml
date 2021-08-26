@@ -8,9 +8,12 @@ locale                   : "en"
 title                    : "Friends, Peace, & Sanctuary"
 title_separator          : "-"
 name                     : "Swarthmore College"
-# url                      : # "https://mmistakes.github.io"
-url                      : "https://ds-pages.swarthmore.edu"
-baseurl                  : "/fps"
+# production
+url                      : "https://fps.swarthmore.edu"
+baseurl                  : ""
+# development
+# url                      : "https://ds-pages.swarthmore.edu"
+# baseurl                  : "/fps.swarthmore.edu"
 languages                : ["en", "ar"]
 exclude_from_localizations: ["assets","assets/js","assets/images","assets/css","assets/fonts"]
 
