@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-# minimal mistakes dependencies
-
+# minimal mistakes dependencies 
 gemspec
 
 # which installs the following
